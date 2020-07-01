@@ -11,6 +11,8 @@ fields:
 - type: textarea
   name: seo_description
   label: OPIS (SEO)
+  config:
+    max: 160
 - type: datetime
   name: date
   label: Data publikacji
