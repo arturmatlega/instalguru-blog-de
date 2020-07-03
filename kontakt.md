@@ -1,25 +1,26 @@
 ---
 layout: page
-pagename: contanct
+pagename: contact
 seo_title: SEO Kontakt
-seo_description: |-
-  META Kontakt
+seo_description: META Kontakt
 menu: true
 menu_title: Kontakt
-page_header: PAGE Kontakt
+page_header: Kontakt
 hreflangs:
 - lang: pl
-  link: https://instalguru.pl/
-- lang: cs
-  link: https://instalguru.cs/
+  link: https://instalguru.pl/kontakt.html
+- lang: en
+  link: https://instalguru.co.uk/contact.html
 - lang: de
-  link: https://instalguru.de/
+  link: https://instalguru.de/kontakt.html
 - lang: it
-  link: https://instalguru.it/
+  link: https://instalguru.it/contatto.html
 - lang: fr
-  link: https://instalguru.fr/
+  link: https://instalguru.fr/contact.html
 - lang: es
-  link: https://instalguru.es/
+  link: https://instalguru.es/contacto.html
+- lang: cs
+  link: https://instalguru.cz/kontakt.html
 
 ---
 Content strony kontakt
