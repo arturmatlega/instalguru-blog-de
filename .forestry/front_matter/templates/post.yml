@@ -19,10 +19,10 @@ fields:
 - type: datetime
   name: update_date
   label: Data aktualizacji
-- type: text
+- type: textarea
   name: title
   label: Tytuł
-- type: text
+- type: textarea
   name: small-intro
   label: Wstęp (listing)
 - type: textarea
@@ -31,7 +31,7 @@ fields:
 - type: file
   name: photo
   label: Zdjęcie główne
-- type: text
+- type: textarea
   name: photo_desc
   label: Zdjęcie główne opis
 - type: field_group_list
