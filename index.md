@@ -6,7 +6,7 @@ seo_description: Eine große Auswahl an Einrichtungsgegenständen und Zubehör. 
   Produkte und Accessoires für Haus und Garten. Beste Lösungen für Bau und Renovierung.
 menu: false
 menu_title: Home
-page_header: Instalguru-Online-Shop
+page_header: Instalguru Online-Shop
 page_intro: Prüfen Sie, was wir auf Lager haben und wählen Sie aus Hunderten von Produkten
   verschiedener Hersteller. Wählen Sie die beste Qualität zu attraktiven Preisen und
   lassen Sie sich die Produkte direkt dorthin schicken, wo Sie sie haben möchten.
