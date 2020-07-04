@@ -1,43 +1,46 @@
 ---
 layout: post
-seo_title: 'Pipe fittings: do threaded and press fittings differ?'
-seo_description: "Are you planning a home renovation?\U0001F3E0 Perhaps you are wondering
-  what pipe fittings you should choose?\U0001F449 Learn the difference between threaded
-  and press fittings"
+seo_title: 'Rohrverschraubungen: unterscheiden sich Gewinde - und Pressfittings?'
+seo_description: "Planen Sie eine Hausrenovierung? \U0001F3E0 \U0001F449 Lernen Sie
+  den Unterschied zwischen Gewinde- und Pressfittings kennen."
 date: 2019-07-22T22:00:00.000+00:00
 update_date: 2019-07-22T22:00:00.000+00:00
-title: 'Pipe fittings: do threaded and press fittings differ?'
-small-intro: Water and central heating installation uses various types of pipe fittings
-intro: Water and central heating installation uses various types of pipe fittings.
-  Two of the most popular elements are threaded fittings and press elements. What
-  is the difference between them and what are their biggest advantages? Pipe fittings
-  are among the most important elements of any water installation. PVC fittings and
-  PEX fittings are becoming more popular, being chosen more often than copper fittings.
-  The can be used both in heating (95° C max) and water installation. One of the biggest
-  advantages of a solution of this type is the possibility to transfer drinking water
-  without the risk of polluting it. Regardless of the type, both products can be used
-  to connect a PEX pipe with other elements in water installation. Different types,
-  such as tees and elbows are useful to build larger and more complicated installations.
+title: 'Rohrverschraubungen: unterscheiden sich Gewinde - und Pressfittings?'
+small-intro: Wasser und Zentralheizung installation verwendet verschiedene Arten von
+  Rohrverschraubungen
+intro: Wasser und Zentralheizung installation verwendet verschiedene Arten von Rohrverschraubungen.
+  Zwei der beliebtesten Elemente sind gewindearmaturen und Presselemente. Was ist
+  der Unterschied zwischen Ihnen und was sind Ihre größten Vorteile? Rohrverschraubungen
+  gehören zu den wichtigsten Elementen jeder Wasserinstallation. PVC-fittings und
+  PEX-fittings werden immer beliebter und werden häufiger gewählt als Kupfer-fittings.
+  Die kann sowohl in der Heizung (95° C max) als auch in der Wasserinstallation verwendet
+  werden. Einer der größten Vorteile einer Lösung dieser Art ist die Möglichkeit,
+  Trinkwasser ohne das Risiko einer Verschmutzung zu übertragen. Unabhängig vom Typ
+  können beide Produkte verwendet werden, um ein PEX-Rohr mit anderen Elementen in
+  der Wasserinstallation zu verbinden. Verschiedene Arten, wie T-Shirts und Ellbogen
+  sind nützlich, um größere und kompliziertere Installationen zu bauen.
 photo: "/uploads/f4dc065de7c0426d8ca399f2c22cf17d.png"
-photo_desc: 'Two of the most popular elements are threaded fittings and press elements. '
+photo_desc: Zwei der beliebtesten Elemente sind gewindearmaturen und Presselemente.
 faq:
-- question: PEX fittings - how to install them?
-  answer: The method of installation for PEX pipe fittings depends on their construction.
-    Before starting the installation process you should make sure which type you own
-    and follow the manufacturer’s instructions.
-- question: How to measure pipe fittings?
-  answer: Measuring pipes and pipe fittings depends on the type of the thread. For
-    male threads, measure the outside diameter. For female threads you should measure
-    the inside diameter.
-- question: How to sweat copper fittings?
-  answer: Start from cleaning the metal and the apply a flux paste. Put the pipe fitting
-    on the pipe and heat the joint so that the flux paste melts and secures the fitting.
+- question: PEX fittings - wie installiere ich Sie?
+  answer: Die Art der installation für PEX Rohrverschraubungen hängt von Ihrer Konstruktion
+    ab. Bevor Sie den Installationsprozess starten, sollten Sie sicherstellen, welchen
+    Typ Sie besitzen, und den Anweisungen des Herstellers Folgen.
+- question: Wie Rohrverschraubungen zu Messen?
+  answer: Messrohre und Rohrverschraubungen hängen von der Art des Gewindes ab. Für
+    Außengewinde den Außendurchmesser Messen. Für Innengewinde sollten Sie den Innendurchmesser
+    Messen.
+- question: Wie man kupferbeschläge schwitzt?
+  answer: Beginnen Sie mit der Reinigung des Metalls und tragen Sie eine Flussmittelpaste
+    auf. Legen Sie die Rohrverschraubung auf das Rohr und erhitzen Sie die Fuge, so
+    dass die flusspaste schmilzt und die Armatur sichert.Wie man kupferbeschläge schwitzt?
 - question: How to remove pex fittings?
-  answer: The easiest way to remove PEX pipe fittings is using a special removal tool.
-    Use it to cut the crimp ring band. Many types, for instance copper fittings can
-    be used again, if they are not damaged.
+  answer: Der einfachste Weg, PEX Rohrverschraubungen zu entfernen, ist ein spezielles
+    entfernungswerkzeug. Verwenden Sie es, um das crimp-Ringband zu schneiden. Viele
+    Arten, zum Beispiel kupferbeschläge können wieder verwendet werden, wenn Sie nicht
+    beschädigt sind.
 author_name: Mateusz Knapik
-author_desc: Sales and Customer Support Specialist at Instalguru
+author_desc: Spezialist für Vertrieb und Kundenbetreuung bei Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
@@ -57,47 +60,47 @@ hreflangs:
   link: ''
 
 ---
-## Pipe fittings - construction and installation
+## Rohrformstücke - Konstruktion und Installation
 
-Whether they are PVC fittings, PEX fittings, copper fittings or any other type, their construction is not very complicated. The elements differ only slightly. The main distinction is in **the method of installation**. See a comprehensive description of threaded and press fittings below.
+Ob PVC-fittings, PEX-fittings, Kupfer-fittings oder jede andere Art, Ihre Konstruktion ist nicht sehr kompliziert. Die Elemente unterscheiden sich nur geringfügig. Der Hauptunterschied liegt in der Installationsmethode. Eine ausführliche Beschreibung der Gewinde - und Pressfittings finden Sie unten.
 
-### Threaded fittings
+### Gewinde Fittings
 
 ![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
 
-A threaded fitting consists of the following elements:
+Ein Gewindeanschluss besteht aus den folgenden Elementen:
 
 {:.list.list-positive}
 
-* A threaded nut.
-* Tightening ring.
-* Tube (with sealing o-rings).
-* Dielectric spacer.
-* Fitting body.
+* Eine Gewindemutter.
+* Spannring.
+* Rohr (mit dichtenden O-Ringen).
+* Dielektrischer Abstandhalter.
+* Fitting-Körper.
 
-Threaded pipe fittings have a threaded nut which needs to be twisted off the dielectric spacer. Then the nut and tightening ring is put on the pipe. The tube should be placed inside the pipe and press it tightly to eliminate any spaces between the two elements (the pipe should be cut in 90 degree angle). If **the tube is inside the pipe**, the nut should be screwed with hands as tightly as possible and then fastened with a wrench. Be careful not to fasten the nut too much, as it could damage both the fitting and the pipe.
+Rohrverschraubungen mit Gewinde haben eine Gewindemutter, die vom dielektrischen Abstandhalter abgedreht werden muss. Dann wird die Mutter und der Spannring auf das Rohr aufgesetzt. Das Rohr sollte im Inneren des Rohrs platziert und fest angedrückt werden, um alle Zwischenräume zwischen den beiden Elementen zu beseitigen (das Rohr sollte im 90-Grad-Winkel geschnitten werden). Wenn sich das Rohr innerhalb des Rohrs befindet, sollte die Mutter mit den Händen so fest wie möglich geschraubt und dann mit einem Schraubenschlüssel befestigt werden. Achten Sie darauf, die Mutter nicht zu fest anzuziehen, da dies sowohl das Fitting als auch das Rohr beschädigen könnte.
 
-### Press pipe fittings
+### Pressfitting
 
 ![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
-There are several elements in press pipe fittings:
+Es gibt mehrere Elemente in Pressrohrfittings:
 
 {:.list.list-positive}
 
-* Tightening sleeve.
-* Tube (with sealing o-rings).
-* Dielectric spacer.
-* Fitting body.
+* Spannhülse.
+* Rohr (mit dichtenden O-Ringen).
+* Dielektrischer Abstandhalter.
+* Fitting-Körper.
 
-Installation of pipe fittings of this type involves putting the tightening sleeve directly on pipe (without dismantling it). **Special gaps** located in the tube are used to make sure that the pipe has been placed deep enough. To fix the fitting, a special mechanical press tool is used, which is the main difference between the two types. The tool is put on the pipe and turned on. After a few seconds you can hear a characteristic noise - that means that the fitting has been properly connected with the pipe.
+Bei der Installation von Rohrformstücken dieser Art wird die Spannhülse direkt auf das Rohr gesteckt (ohne Demontage). Spezielle Spalten, die sich im Rohr befinden, werden verwendet, um sicherzustellen, dass das Rohr tief genug platziert wurde. Zur Fixierung des Fittings wird ein spezielles mechanisches Presswerkzeug verwendet, was der Hauptunterschied zwischen den beiden Typen ist. Das Werkzeug wird auf das Rohr aufgesetzt und eingeschaltet. Nach einigen Sekunden ist ein charakteristisches Geräusch zu hören - das bedeutet, dass das Fitting richtig mit dem Rohr verbunden wurde.
 
-## Pipe fittings - main differences
+## Rohrformstücke - Hauptunterschiede
 
-As stated in the descriptions above, the main difference between the two systems lies in the method of installation. **Threaded fittings are easier to install** and they do not require any special tools. Threaded pipe fittings are also cheaper than the other ones (although the difference in pricing is relatively small). An additional advantage is the fact that the fitting can be easily disassembled after the installation.
+Wie in den obigen Beschreibungen dargelegt, liegt der Hauptunterschied zwischen den beiden Systemen in der Installationsmethode. Gewindefittings sind einfacher zu installieren und erfordern kein Spezialwerkzeug. Rohrfittings mit Gewinde sind auch billiger als die anderen (obwohl der Preisunterschied relativ gering ist). Ein zusätzlicher Vorteil ist die Tatsache, dass das Fitting nach der Installation leicht demontiert werden kann.
 
-There are, however, certain limitations. It might happen that after dismantling the fitting, the tightening ring needs to be replaced. Another disadvantage is that after installation the fitting cannot be moved, as it could cause leaking. It is particularly problematic with elbows, as they have to be positioned at a certain angle.
+Es gibt jedoch gewisse Einschränkungen. Es kann vorkommen, dass nach der Demontage des Fittings der Spannring ersetzt werden muss. Ein weiterer Nachteil ist, dass die Armatur nach dem Einbau nicht bewegt werden kann, da sie undicht werden könnte. Besonders problematisch ist dies bei Krümmern, da diese in einem bestimmten Winkel positioniert werden müssen.
 
-Press pipe fittings are a bit more expensive. Using a mechanical press tool is a safer method of installation (it is easy to fasten a threaded fitting too tight). Pressed pipe fittings (especially elbows and tees) can be moved around after installation. This means that they can be easily adjusted to the next element without the risk of damage. Furthermore, they can be placed in concrete, as they are more durable and stable.
+Pressrohrfittings sind etwas teurer. Die Verwendung eines mechanischen Presswerkzeuges ist eine sicherere Installationsmethode (es ist einfach, ein Gewindefitting zu fest anzuziehen). Pressrohrfittings (insbesondere Bögen und T-Stücke) können nach der Installation verschoben werden. Das bedeutet, dass sie leicht an das nächste Element angepasst werden können, ohne dass die Gefahr einer Beschädigung besteht. Außerdem können sie in Beton verlegt werden, da sie haltbarer und stabiler sind.
 
-Both of the systems have their strengths and weaknesses. The decision between them depends on one’s individual needs.
+Beide Systeme haben ihre Stärken und Schwächen. Die Entscheidung zwischen ihnen hängt von den individuellen Bedürfnissen ab.
