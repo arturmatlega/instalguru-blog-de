@@ -34,7 +34,7 @@ faq:
   answer: Beginnen Sie mit der Reinigung des Metalls und tragen Sie eine Flussmittelpaste
     auf. Legen Sie die Rohrverschraubung auf das Rohr und erhitzen Sie die Fuge, so
     dass die flusspaste schmilzt und die Armatur sichert.Wie man kupferbeschläge schwitzt?
-- question: How to remove pex fittings?
+- question: Wie entferne ich PEX-Fittings?
   answer: Der einfachste Weg, PEX Rohrverschraubungen zu entfernen, ist ein spezielles
     entfernungswerkzeug. Verwenden Sie es, um das crimp-Ringband zu schneiden. Viele
     Arten, zum Beispiel kupferbeschläge können wieder verwendet werden, wenn Sie nicht
