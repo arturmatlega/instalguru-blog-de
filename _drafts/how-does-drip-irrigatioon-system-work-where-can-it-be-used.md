@@ -1,94 +1,99 @@
 ---
 layout: post
-seo_title: What is drip irrigation system and where to install it?
-seo_description: "Wondering how to take care of your garden? \U0001F333 Drip irrigation
-  is a modern plant watering system. \U0001F449 Check if you can use it and how to
-  install it."
-date: 2020-07-26 22:00:00 +0000
-update_date: 2020-07-26 22:00:00 +0000
-title: How does drip irrigation system work? Where can it be used?
-small-intro: How to make your garden look stunning? Drip irrigation system might be
-  aa tremendous help.
-intro: How to make your garden look stunning? It's a problem of many gardeners. The
-  secret of beautiful plants lies in taking a proper care of them. One should start
-  from the basics, like everyday watering. It can be done the standard way, namely,
-  using a watering can, however nowadays it's difficult to find enough time for such
-  mundane tasks. Why not use modern technology? Watering systems such as drip irrigation
-  are the best way to go. What exactly is this method and where can you use drip system?
+seo_title: Was ist ein Tropfbewässerungssystem und wo soll es installiert werden?
+seo_description: "Sie fragen sich, wie Sie sich um Ihren Garten kümmern sollen? \U0001F333
+  Tröpfchenbewässerung ist ein modernes Pflanzenbewässerungssystem. \U0001F449 Prüfen
+  Sie, ob Sie es verwenden können und wie es installiert werden kann."
+date: 2020-07-27 22:00:00 +0000
+update_date: 2020-07-27 22:00:00 +0000
+title: Wie funktioniert die Tropfbewässerung? Wo kann es eingesetzt werden?
+small-intro: Wie kann Ihr Garten atemberaubend aussehen? Ein Tröpfchenbewässerungssystem
+  könnte eine große Hilfe sein.
+intro: Wie kann Ihr Garten atemberaubend aussehen? Das ist ein Problem vieler Gärtner.
+  Das Geheimnis schöner Pflanzen liegt darin, sie richtig zu pflegen. Man sollte von
+  den Grundlagen ausgehen, wie dem täglichen Gießen. Man kann es auf die übliche Art
+  und Weise tun, nämlich mit einer Gießkanne, aber heutzutage ist es schwierig, genügend
+  Zeit für solch alltägliche Aufgaben zu finden. Warum nicht moderne Technik einsetzen?
+  Bewässerungssysteme wie die Tröpfchenbewässerung sind der beste Weg. Was genau ist
+  diese Methode und wo kann man ein Tropfsystem einsetzen?
 photo: "/uploads/na-czym-polega-nawadnianie-kropelkowe.png"
-photo_desc: Drip irrigation system – an innovative watering method
+photo_desc: Tröpfchenbewässerungssystem - eine innovative Bewässerungsmethode
 faq:
-- question: What is drip irrigation?
-  answer: Drip irrigation is one of the modern methods of plants watering. It's much
-    more efficient than traditional watering and it can save a lot of time, money
-    and resources.
-- question: How a drip irrigation system works?
-  answer: A drip irrigation system consists of a drip line – a hose or tape and a
-    water source. The water flows through the line and drips out of small holes. It's
-    a solution that provides the plants a perfect amount of water.
-- question: How to make a cheap drip irrigation system?
-  answer: All you need to make a cheap drip irrigation system is a drip line and a
-    source of water. Put the drip hose or tape right by the plants so that the water
-    can flow directly to their roots. Then connect the line with water source and
-    adjust the pressure.
+- question: Was ist Tropfbewässerung?
+  answer: Die Tröpfchenbewässerung ist eine der modernen Methoden der Pflanzenbewässerung.
+    Sie ist viel effizienter als die traditionelle Bewässerung und kann viel Zeit,
+    Geld und Ressourcen sparen.
+- question: Wie funktioniert ein Tropfbewässerungssystem?
+  answer: Ein Tropfbewässerungssystem besteht aus einer Tropfleitung - einem Schlauch
+    oder Band und einer Wasserquelle. Das Wasser fließt durch die Leitung und tropft
+    aus kleinen Löchern. Es ist eine Lösung, die die Pflanzen mit einer perfekten
+    Wassermenge versorgt.
+- question: Wie kann ein billiges Tropfbewässerungssystem hergestellt werden?
+  answer: Alles, was Sie für ein billiges Tröpfchenbewässerungssystem benötigen, ist
+    eine Tropfleitung und eine Wasserquelle. Legen Sie den Tropfschlauch oder das
+    Klebeband direkt bei den Pflanzen an, so dass das Wasser direkt zu ihren Wurzeln
+    fließen kann. Dann verbinden Sie die Leitung mit der Wasserquelle und passen Sie
+    den Druck an.
 author_name: Maksymilian Ignacyk
-author_desc: Sales and Marketing Specialist at Instalguru
+author_desc: Verkaufs- und Marketing-Spezialist bei Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: false
-hreflangs: []
+hreflangs:
+- lang: ''
+  link: ''
 
 ---
-## What is a drip irrigation system?
+## Was ist ein Tropfbewässerungssystem?
 
-Drip irrigation is one of the most **advanced method** of plant watering. It involves automatic water distribution, which saves a lot of time and energy. Compared to standard methods – a watering can or a garden hose, a drip irrigation system is much more efficient.
+Die Tröpfchenbewässerung ist eine der **fortschrittlichsten Methoden** der Pflanzenbewässerung. Sie beinhaltet eine automatische Wasserverteilung, die viel Zeit und Energie spart. Im Vergleich zu Standardmethoden - einer Gießkanne oder einem Gartenschlauch - ist ein Tröpfchenbewässerungssystem viel effizienter.
 
-**In times when droughts are becoming increasingly regular, keeping the right moisture level is the most important part of plant care.** The standard methods of watering, however, are not only ineffective but also very wasteful. Even the most experienced gardener is unable to water a plant with 100% precision, providing enough moisture without any waste. It would simply take too much time. A watering system with a drip line is a perfect solution to this problem. It uses a set of tubes to transport the exact amount of water needed.
+**In Zeiten, in denen Dürreperioden immer regelmässiger werden, ist die Einhaltung des richtigen Feuchtigkeitsniveaus der wichtigste Teil der Pflanzenpflege.** Die Standardmethoden der Bewässerung sind jedoch nicht nur wirkungslos, sondern auch sehr verschwenderisch. Selbst der erfahrenste Gärtner ist nicht in der Lage, eine Pflanze mit 100-prozentiger Präzision zu gießen und ihr genügend Feuchtigkeit ohne Verschwendung zu geben. Es würde einfach zu viel Zeit in Anspruch nehmen. Ein Bewässerungssystem mit einer Tropfleitung ist eine perfekte Lösung für dieses Problem. Es verwendet einen Satz Schläuche, um genau die benötigte Wassermenge zu transportieren.
 
-## How does a drip line work?
+## Wie funktioniert eine Tropfleitung?
 
-A drip irrigation system is a very simple installation. The **core component here is a drip line** – or, in some cases, a **drip tape**. Either of those is connected with a water source. The water flows through a system of pipes arranged on the ground. It drips out of tiny holes and moisturizes the plants – hence the name of the method. **Thanks to this solution, the roots system always has access to water – across the whole area covered by the system.** The moisture level can be easily adjusted by turning the tap.
+Ein Tropfbewässerungssystem ist eine sehr einfache Installation. **Die Kernkomponente** ist hier eine Tropfleitung - oder in einigen Fällen ein **Tropfband**. Jedes von beiden ist mit einer Wasserquelle verbunden. Das Wasser fließt durch ein System von Rohren, die am Boden angeordnet sind. Es tropft aus winzigen Löchern und befeuchtet die Pflanzen - daher der Name der Methode. **Dank dieser Lösung hat das Wurzelsystem immer Zugang zu Wasser - und zwar über die gesamte vom System abgedeckte Fläche**. Das Feuchtigkeitsniveau lässt sich einfach durch Drehen des Wasserhahns einstellen.
 
-## What are the advantages of drip irrigation?
+## Was sind die Vorteile der Tropfbewässerung?
 
-A drip line is a unique solution and it has many advantages. It can save a lot of time, money and resources. Why should one consider a drip irrigation system in the garden?
+Eine Tropfleitung ist eine einzigartige Lösung und hat viele Vorteile. Sie kann viel Zeit, Geld und Ressourcen sparen. Warum sollte man ein Tröpfchenbewässerungssystem im Garten in Betracht ziehen?
 
 {:.list.list-positive}
 
-* **Drip irrigation means saving water.** With the traditional sprinkling method, water is distributed to relatively random spots. The plants are moisturized, however some of the water doesn't get where it's supposed to. This leads, as it has been already mentioned, to waste. Drip watering system provides water precisely where the plant's root system is.
-* **It's a system that requires minimal attention.** After a drip line is installed, all one needs to do is turn on the water and adjust the pressure level. There is also another option – make the process completely automatic. To do this, a special controlling device is required. It can automatically turn on the water at a particular part of the day, for a given amount of time. The most advanced controllers can even react to changes in weather.
-* **The water distributed to plants is of the highest quality.** A drip irrigation system should be equipped with an appropriate filter. It protects the installation, and the user doesn't have to worry about the plants being damaged by contaminated water.
-* **A micro-irrigation system makes gardening much easier.** It means not only easier watering, but also comfortable plants feeding. A drip line is perfect for distributing a fertiliser. To do this, one only needs to equip it with a special fertiliser injector.
-* **A drip irrigation system means lesser risk of plant diseases.** The water is distributed directly into soil, so that it has no contact with overground parts of the plants. It prevents a spread of fungi and mould, which occurs quite often when plants are sprinkled with water from above. A drip line also eliminates the problem of sunburnt leaves.
-* **Such system might contribute to a better vegetable, fruit and herb harvest.** A drip watering system supports a better plant care and independence from the weather conditions. There is no need to worry that a drought will destroy the crops.
+* **Tröpfchenbewässerung bedeutet Wassereinsparung.** Bei der traditionellen Beregnungsmethode wird das Wasser auf relativ zufällige Stellen verteilt. Die Pflanzen werden befeuchtet, ein Teil des Wassers gelangt jedoch nicht dorthin, wo es hin soll. Dies führt, wie bereits erwähnt, zu Verschwendung. Das Tropfbewässerungssystem liefert Wasser genau dort, wo sich das Wurzelsystem der Pflanze befindet.
+* **Es ist ein System, das nur minimale Aufmerksamkeit erfordert.** Nachdem eine Tropfleitung installiert ist, braucht man nur noch das Wasser einzuschalten und das Druckniveau einzustellen. Es gibt noch eine weitere Option - den Prozess vollständig automatisch zu machen. Dazu ist ein spezielles Steuergerät erforderlich. Sie kann das Wasser zu einer bestimmten Tageszeit und für eine bestimmte Zeitspanne automatisch einschalten. Die fortschrittlichsten Steuergeräte können sogar auf Wetteränderungen reagieren.
+* **Das an die Pflanzen verteilte Wasser ist von höchster Qualität.** Ein Tröpfchenbewässerungssystem sollte mit einem geeigneten Filter ausgestattet sein. Er schützt die Anlage, und der Benutzer muss nicht befürchten, dass die Pflanzen durch verunreinigtes Wasser beschädigt werden.
+* **Ein Mikro-Bewässerungssystem erleichtert die Gartenarbeit erheblich.** Es bedeutet nicht nur einfacheres Gießen, sondern auch eine bequemere Ernährung der Pflanzen. Eine Tropfleitung ist perfekt für die Verteilung eines Düngers. Dazu muss man sie nur mit einem speziellen Düngerinjektor ausstatten.
+* **Ein Tröpfchenbewässerungssystem bedeutet ein geringeres Risiko von Pflanzenkrankheiten.** Das Wasser wird direkt in den Boden verteilt, so dass es keinen Kontakt mit oberirdischen Teilen der Pflanzen hat. Es verhindert die Ausbreitung von Pilzen und Schimmelpilzen, die recht häufig auftreten, wenn die Pflanzen von oben mit Wasser besprüht werden. Eine Tropfleitung eliminiert auch das Problem der sonnenverbrannten Blätter.
+* **Ein solches System könnte zu einer besseren Gemüse-, Obst- und Kräuterernte beitragen.** Ein Tropfbewässerungssystem unterstützt eine bessere Pflanzenpflege und Unabhängigkeit von den Wetterbedingungen. Es besteht kein Grund zur Sorge, dass eine Dürre die Ernten vernichten könnte.
 
 ![What are the advantages of drip irrigation?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "What are the advantages of drip irrigation?")
 
-## Where can one use a drip irrigation system?
+## Wo kann man ein Tropfbewässerungssystem einsetzen?
 
-Because drip lines can cover quite large areas, it's a **recommended system for croplands**. It's perfect for watering plants like strawberries, blueberries and fruit trees. The installation gives you full control over the amount of water transported to a plant. Thanks to this there is no threat of overwatering, which could cause decay of the plants. It's an important aspect that impacts the quality of harvest.
+Da Tropfleitungen recht große Flächen abdecken können, ist es ein **empfohlenes System für Ackerflächen**. Es eignet sich perfekt für die Bewässerung von Pflanzen wie Erdbeeren, Heidelbeeren und Obstbäumen. Die Installation gibt Ihnen die volle Kontrolle über die Wassermenge, die zu einer Pflanze transportiert wird. Dank dessen besteht keine Gefahr der Überwässerung, die zum Verfall der Pflanzen führen könnte. Das ist ein wichtiger Aspekt, der sich auf die Qualität der Ernte auswirkt.
 
-Drip irrigation is also an ideal system for private gardens. **A drip line can easily water flowerbeds, rock gardens and hedges.** It's also a good solution for potted plants. Interestingly, drip systems are becoming quite popular among balconies and patios.
+Die Tröpfchenbewässerung ist auch ein ideales System für private Gärten. **Mit einer Tropfleitung können Blumenbeete, Steingärten und Hecken problemlos bewässert werden.** Es ist auch eine gute Lösung für Topfpflanzen. Interessanterweise werden Tropfsysteme auf Balkonen und Terrassen immer beliebter.
 
 {:.distinction.distinction-quotation.distinction-negative}
 
-A drip irrigation system is unrecommended for lawns. In this case it is rather advised to use a standard garden hose or sprinklers.
+Ein Tröpfchenbewässerungssystem ist für Rasenflächen nicht zu empfehlen. In diesem Fall ist es eher ratsam, einen handelsüblichen Gartenschlauch oder Sprinkler zu verwenden.
 
-## Are there any disadvantages of drip irrigation?
+## Gibt es irgendwelche Nachteile der Tropfbewässerung?
 
-Despite the undeniable benefits of a drip irrigation system, one should also know its disadvantages. It's a system that cannot be really moved around, therefore it should be used mainly for perennial plants. A drip line, like every water installation, is susceptible to dirt. It might cause clogging. **Each element of the system should be maintained regularly.** Another problem is the difficulty to adjust the intensity of watering for certain plants. It can be solved by using a splitter to create several independent drip lines.
+Trotz der unbestreitbaren Vorteile eines Tropfbewässerungssystems sollte man auch seine Nachteile kennen. Es handelt sich um ein System, das nicht wirklich bewegt werden kann, daher sollte es hauptsächlich für mehrjährige Pflanzen eingesetzt werden. Eine Tropfleitung ist, wie jede Wasserinstallation, anfällig für Schmutz. Sie kann Verstopfungen verursachen. **Jedes Element des Systems sollte regelmäßig gewartet werden.** Ein weiteres Problem ist die Schwierigkeit, die Bewässerungsintensität für bestimmte Pflanzen anzupassen. Es kann gelöst werden, indem man einen Verteiler verwendet, um mehrere unabhängige Tropfleitungen zu schaffen.
 
 ![Are there any disadvantages of drip irrigation?](/uploads/linia-kroplujaca-nawadnianie.jpg "Are there any disadvantages of drip irrigation?")
 
-## Drip watering system – what elements are needed to create an installation?
+## Tröpfchenbewässerungssystem - welche Elemente sind zur Erstellung einer Anlage erforderlich?
 
-Drip irrigation is not a complicated system, and it's not difficult to install. Before doing that, one should equip themselves with all crucial components:
+Tröpfchenbewässerung ist kein kompliziertes System, und es ist nicht schwierig zu installieren. Bevor man das tut, sollte man sich mit allen wichtigen Komponenten ausrüsten:
 
 {:.list.list-positive}
 
-* **Drip line** – a tube or a special tape used for watering. It's an element that can be placed directly on the ground, or it can be covered with soil.
-* **Emitters** – they are attached to the drip line and placed right by the plant.
-* **Water filter** – an essential part of a micro-irrigation system. It removes any water contamination and prevents the system failures.
-* **Additional components** – depending on the particular type of a drip irrigation system, one can use stakes for holding the drip lines and emitters as well as band clips, connectors and splitters.
+* **Tropfleitung** - ein Schlauch oder ein spezielles Band, das zur Bewässerung verwendet wird. Es handelt sich um ein Element, das direkt auf den Boden gelegt oder mit Erde bedeckt werden kann.
+* **Emitter** - sie werden an der Tropfleitung angebracht und direkt neben der Anlage platziert.
+* **Wasserfilter** - ein wesentlicher Bestandteil eines Mikro-Bewässerungssystems. Er entfernt jegliche Wasserverschmutzung und verhindert Systemausfälle.
+* **Zusatzkomponenten** - je nach Art eines Tropfbewässerungssystems kann man Pfähle zum Halten der Tropfleitungen und Emitter sowie Bandclips, Verbinder und Verteiler verwenden.
 * **Irrigation controller** – although it's an optional element, it's a highly recommended investment. It allows for full control and automation of the process.
 
 ### A drip line – which is better: tubes or tapes?
