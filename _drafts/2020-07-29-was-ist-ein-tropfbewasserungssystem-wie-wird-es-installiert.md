@@ -53,6 +53,28 @@ Die Tröpfchenbewässerung ist eine der **fortschrittlichsten Methoden** der Pfl
 
 Ein Tropfbewässerungssystem ist eine sehr einfache Installation. **Die Kernkomponente** ist hier eine Tropfleitung - oder in einigen Fällen ein **Tropfband**. Jedes von beiden ist mit einer Wasserquelle verbunden. Das Wasser fließt durch ein System von Rohren, die am Boden angeordnet sind. Es tropft aus winzigen Löchern und befeuchtet die Pflanzen - daher der Name der Methode. **Dank dieser Lösung hat das Wurzelsystem immer Zugang zu Wasser - und zwar über die gesamte vom System abgedeckte Fläche**. Das Feuchtigkeitsniveau lässt sich einfach durch Drehen des Wasserhahns einstellen.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://instalguru.com/pl/products/reduktor-cisnienia-wody-z-manometrem?variant_id=2282" %}
+{% assign productphoto = "../uploads/tropfschlauch_water-drip.jpg" %}
+{% assign productname = "Tropfschlauch WATER DRIP" %}
+{% assign productprice = "EUR 35,00" %}
+{% assign productdesc = "Perfekte Bewässerung für alle Pflanzen in Ihrem Garten" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/PE-Wasserfilter-Siebfilter-2x-Ausengewinde-Gartenbewasserung-Fitting-Filter/402281408727?hash=item5da9d728d7:g:F~IAAOSwYARe1LkC" %}
+{% assign productphoto = "../uploads/siebfilter_mesh_120.jpg" %}
+{% assign productname = "Siebfilter MESH 120" %}
+{% assign productprice = "EUR 7,99" %}
+{% assign productdesc = "Effektiver Systemschutz durch Herausfiltern von Schadstoffen" %}{% include product.html %}
+
+</div></div>" %}
+
 ## Was sind die Vorteile der Tropfbewässerung?
 
 Eine Tropfleitung ist eine einzigartige Lösung und hat viele Vorteile. Sie kann viel Zeit, Geld und Ressourcen sparen. Warum sollte man ein Tröpfchenbewässerungssystem im Garten in Betracht ziehen?
@@ -95,6 +117,25 @@ Tröpfchenbewässerung ist kein kompliziertes System, und es ist nicht schwierig
 * **Wasserfilter** - ein wesentlicher Bestandteil eines Mikro-Bewässerungssystems. Er entfernt jegliche Wasserverschmutzung und verhindert Systemausfälle.
 * **Zusatzkomponenten** - je nach Art eines Tropfbewässerungssystems kann man Pfähle zum Halten der Tropfleitungen und Emitter sowie Bandclips, Verbinder und Verteiler verwenden.
 * **Irrigation controller** – although it's an optional element, it's a highly recommended investment. It allows for full control and automation of the process.
+  
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Bewasserung-Tropfer-mit-Schlauch-Schlangenlinie-50-cm-einfach-eckig-Bodenhaken/402317304397?hash=item5dabfae24d:g:VD4AAOSw2NVfAsuM" %}
+{% assign productphoto = "../uploads/kroplownik_patykowy_z_wkluka_i_wezykiem.png" %}
+{% assign productname = "Bewässerung Tropfer mit Schlauch Schlangenlinie" %}
+{% assign productprice = "EUR 1,70" %}
+{% assign productdesc = "Langlebige Konstruktion und extrem einfache Installation" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Kreuzstuck-4-mm-Bewasserungschlauch-Garten-Schlauch-Verbindung-Gartenbewasserung/402282803744?hash=item5da9ec7220:g:U9oAAOSwGTBe1lvh" %}
+{% assign productphoto = "../uploads/czwornik_do_emiterow.jpg" %}
+{% assign productname = "Kreuzstück Verbindung Gartenbewässerung" %}
+{% assign productprice = "EUR 1,40" %}
+{% assign productdesc = "Schnelle Verbesserung der Bewässerungsfunktionalität" %}{% include product.html %}
+
+</div></div>
 
 ### Eine Tropfleitung - was ist besser: Schläuche oder Bänder?
 
@@ -103,6 +144,25 @@ Bei der Konstruktion eines Tropfbewässerungssystems muss die Entscheidung getro
 {:.distinction.distinction-info.distinction-positive}
 
 Ein Tropfband wird normalerweise für kleine Gemüse- und Obstkulturen, Blumenbeete und Topfpflanzen verwendet. Eine Tropfbewässerung mit einem Schlauchsystem eignet sich perfekt für die Bewässerung von Hecken, kleineren Bäumen und Obstgärten. Für letztere empfiehlt es sich, die Tropfbewässerung mit zusätzlichen Wasserverteilungspunkten - Sprinklern - zu kombinieren.
+  
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/T-stuck-fur-Bewasserungschlauch-Garten-Schlauch-Verbindung-Gartenbewasserung/402282803611?hash=item5da9ec719b:g:6ywAAOSwK~9e1lrC" %}
+{% assign productphoto = "../uploads/trojnik_wtyk.jpg" %}
+{% assign productname = "T-stück für Bewässerungschlauch" %}
+{% assign productprice = "EUR 1,40" %}
+{% assign productdesc = "Tropfschlauch-Kupplung" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Bewasserung-Tropfer-mit-Druckausgleich-Verstellbar-fur-Garten-Bewasserungssystem/402281464588?hash=item5da9d8030c:g:EzoAAOSw1Exe1MDm" %}
+{% assign productphoto = "../uploads/kroplownik_z_kompensacja.jpg" %}
+{% assign productname = "Tropfer mit Druckausgleich" %}
+{% assign productprice = "EUR 1,80" %}
+{% assign productdesc = "Wird in Gebieten mit hohem Gefälle verwendet" %}{% include product.html %}
+
+</div></div>
 
 ## Installation von Tröpfchenbewässerungssystemen - wie macht man das selbst?
 
@@ -134,4 +194,23 @@ Da alle Gärten unterschiedlich sind, sollte man bei der Auswahl eines Tropfbew�
 * Was tun mit den Tropfleitungen nach der Saison? **Die Ausrüstung sollte für den Winter aufbewahrt werden**, um Schäden durch die Witterungsbedingungen zu vermeiden.
 * Sie haben die Anbaufläche erweitert, und jetzt deckt das Tröpfchenbewässerungssystem sie nur teilweise ab? **Sie können die Tropfleitungen jederzeit erweitern.** Verwenden Sie dazu spezielle Verbinder.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Stecker-fur-Bewasserungschlauch-Garten-Schlauch-Verbindung-Gartenbewasserung/402282803868?hash=item5da9ec729c:g:U0kAAOSwJZVe1luu" %}
+{% assign productphoto = "../uploads/zaslepka_wtyk_na_waz.jpg" %}
+{% assign productname = "Stecker für Bewässerungschlauch" %}
+{% assign productprice = "EUR 1,40" %}
+{% assign productdesc = "Ende des Tropfschlauchs" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Absperrhahn-Kugelhahn-PE-Rohr-Schlauch-fur-Tropfanlage-Gartenbewasserung/402281559690?hash=item5da9d9768a:g:T9cAAOSw7pNe1ODt" %}
+{% assign productphoto = "../uploads/wtyk_na_waz.jpg" %}
+{% assign productname = "Absperrhahn" %}
+{% assign productprice = "EUR 2,60" %}
+{% assign productdesc = "Tropfschlauch-Kupplung" %}{% include product.html %}
+
+</div></div>
+  
 **Ein Tröpfchenbewässerungssystem ist eine perfekte Lösung für jeden Garten.** Dank ihr können Sie Ihre Pflanzen einfach und mühelos pflegen. Eine Tropfleitung bedeutet nicht nur Zeit- und Geldersparnis, sondern auch einen schönen und gesunden Garten. Es handelt sich um ein universelles System, das sowohl für die professionelle Landwirtschaft als auch für private Gärten, Balkone und Terrassen verwendet werden kann.
