@@ -1,9 +1,9 @@
 ---
 layout: post
 seo_title: Was ist ein Tropfbewässerungssystem und wo soll es installiert werden?
-seo_description: "Sie fragen sich, wie Sie sich um Ihren Garten kümmern sollen? \U0001F333
-  Tröpfchenbewässerung ist ein modernes Pflanzenbewässerungssystem. \U0001F449 Prüfen
-  Sie, ob Sie es verwenden können und wie es installiert werden kann."
+seo_description: "Wie Sie sich um Ihren Garten kümmern sollen? \U0001F333 Tröpfchenbewässerung
+  ist ein modernes Gartensystem. \U0001F449 Prüfen Sie, wie es Sie installiert werden
+  kann."
 date: 2020-07-27T22:00:00.000+00:00
 update_date: 2020-07-27T22:00:00.000+00:00
 title: Wie funktioniert die Tropfbewässerung? Wo kann es eingesetzt werden?
