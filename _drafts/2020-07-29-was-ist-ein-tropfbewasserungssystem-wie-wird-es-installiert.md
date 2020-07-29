@@ -37,7 +37,7 @@ faq:
 author_name: Maksymilian Ignacyk
 author_desc: Verkaufs- und Marketing-Spezialist bei Instalguru
 author_photo: "/uploads/maks.jpg"
-toc: false
+toc: true
 hreflangs:
 - lang: ''
   link: ''
