@@ -4,8 +4,8 @@ seo_title: Was ist ein Tropfbewässerungssystem und wo soll es installiert werde
 seo_description: "Sie fragen sich, wie Sie sich um Ihren Garten kümmern sollen? \U0001F333
   Tröpfchenbewässerung ist ein modernes Pflanzenbewässerungssystem. \U0001F449 Prüfen
   Sie, ob Sie es verwenden können und wie es installiert werden kann."
-date: 2020-07-27 22:00:00 +0000
-update_date: 2020-07-27 22:00:00 +0000
+date: 2020-07-27T22:00:00.000+00:00
+update_date: 2020-07-27T22:00:00.000+00:00
 title: Wie funktioniert die Tropfbewässerung? Wo kann es eingesetzt werden?
 small-intro: Wie kann Ihr Garten atemberaubend aussehen? Ein Tröpfchenbewässerungssystem
   könnte eine große Hilfe sein.
@@ -96,42 +96,42 @@ Tröpfchenbewässerung ist kein kompliziertes System, und es ist nicht schwierig
 * **Zusatzkomponenten** - je nach Art eines Tropfbewässerungssystems kann man Pfähle zum Halten der Tropfleitungen und Emitter sowie Bandclips, Verbinder und Verteiler verwenden.
 * **Irrigation controller** – although it's an optional element, it's a highly recommended investment. It allows for full control and automation of the process.
 
-### A drip line – which is better: tubes or tapes?
+### Eine Tropfleitung - was ist besser: Schläuche oder Bänder?
 
-Construction of a drip irrigation system involves making the decision on what to use for water distribution. There are several options available on the market. **The most popular ones are a drip hose and a drip tape.** Which is the better one? It mostly depends on what plants you are going to water and on your possibilities.
-
-{:.distinction.distinction-info.distinction-positive}
-
-A drip tape is typically used for small vegetable and fruit crops, flower beds and potted plants. A drip irrigation that uses a system of tubes is perfect for watering hedges, smaller trees and orchards. For the last one, it is advised to combine the drip irrigation with additional water distribution points – sprinklers.
-
-## Drip irrigation system installation – how to do it yourself?
-
-There are many companies offering the installation of drip lines. It's useful if a drip irrigation system is going to cover a widespread area, such as a large cropland. **However, if you want to install a small, uncomplicated micro-irrigation system in your garden, consider doing it yourself.** It's not very difficult.
-
-Depending on the line you choose, place a hose or a tape on the ground. Usually, it is held by a set of special stakes. **Some systems can be buried underground**. Arrange the lines so that they lay right by the plants. The next step involves installing the emitters (if they are included in the system). Lastly, connect the drip line with a water source. If needed, you can also split the main line using several tubes.
-
-The simplest drip irrigation systems are controlled by simply turning the tap on or off. **Manufacturers also offer special irrigation controllers.** Using them, one can plan watering for a particular day and hour. Thanks to this solution, a drip irrigation can run by itself, not requiring any special attention.
-
-## Drip irrigation system – estimated costs
-
-Are you wondering how expensive a drip irrigation system is? As most installations of this type, the price depends on individual factors. One should estimate the area that is going to be covered by the system. This aspect dictates the number of drip lines that should be installed. **The price obviously depends also on the manufacturer, therefore it is advised to compare the quality and value of available brands.**
+Bei der Konstruktion eines Tropfbewässerungssystems muss die Entscheidung getroffen werden, was für die Wasserverteilung verwendet werden soll. Es gibt mehrere Optionen auf dem Markt. **Die beliebtesten sind ein Tropfschlauch und ein Tropfband.** Welche ist die bessere? Es hängt hauptsächlich davon ab, welche Pflanzen Sie bewässern wollen und von Ihren Möglichkeiten.
 
 {:.distinction.distinction-info.distinction-positive}
 
-The less complicated the installation is, the less it costs. For this reason one should review all solutions that could be used. Small designs can surely give up electronic controllers, unless convenience is the priority. One can also decrease the costs by choosing to install the system by themselves.
+Ein Tropfband wird normalerweise für kleine Gemüse- und Obstkulturen, Blumenbeete und Topfpflanzen verwendet. Eine Tropfbewässerung mit einem Schlauchsystem eignet sich perfekt für die Bewässerung von Hecken, kleineren Bäumen und Obstgärten. Für letztere empfiehlt es sich, die Tropfbewässerung mit zusätzlichen Wasserverteilungspunkten - Sprinklern - zu kombinieren.
+
+## Installation von Tröpfchenbewässerungssystemen - wie macht man das selbst?
+
+Es gibt viele Unternehmen, die die Installation von Tropfleitungen anbieten. Es ist nützlich, wenn ein Tröpfchenbewässerungssystem ein weitläufiges Gebiet abdecken soll, wie z.B. ein großes Ackerland. W**enn Sie jedoch ein kleines, unkompliziertes Mikro-Bewässerungssystem in Ihrem Garten installieren möchten, sollten Sie erwägen, dies selbst durchzuführen**. Es ist nicht sehr schwierig.
+
+Legen Sie je nach der von Ihnen gewählten Leitung einen Schlauch oder ein Band auf den Boden. Normalerweise wird sie von einem Satz spezieller Pfähle gehalten. **Einige Systeme können unterirdisch verlegt werden.** Ordnen Sie die Leitungen so an, dass sie direkt bei den Pflanzen liegen. Der nächste Schritt besteht in der Installation der Strahler (falls sie im System enthalten sind). Zuletzt wird die Tropfleitung mit einer Wasserquelle verbunden. Bei Bedarf können Sie die Hauptleitung auch durch mehrere Rohre aufteilen.
+
+Die einfachsten Tropfbewässerungssysteme werden durch einfaches Ein- und Ausschalten des Wasserhahns gesteuert. **Die Hersteller bieten auch spezielle Bewässerungssteuerungen an**. Mit ihnen kann man die Bewässerung für einen bestimmten Tag und eine bestimmte Stunde planen. Dank dieser Lösung kann eine Tröpfchenbewässerung von selbst laufen und erfordert keine besondere Aufmerksamkeit.
+
+## Tröpfchenbewässerungssystem - geschätzte Kosten
+
+Fragen Sie sich, wie teuer ein Tropfbewässerungssystem ist? Wie bei den meisten Anlagen dieser Art hängt der Preis von individuellen Faktoren ab. Man sollte die Fläche, die mit dem System abgedeckt werden soll, abschätzen. Dieser Aspekt diktiert die Anzahl der Tropfleitungen, die installiert werden sollen. **Der Preis hängt natürlich auch vom Hersteller ab, daher ist es ratsam, die Qualität und den Wert der verfügbaren Marken zu vergleichen.**
+
+{:.distinction.distinction-info.distinction-positive}
+
+Je weniger kompliziert die Installation ist, desto weniger kostet sie. Aus diesem Grund sollte man alle Lösungen, die verwendet werden könnten, überprüfen. Kleine Designs können sicherlich auf elektronische Steuerungen verzichten, es sei denn, die Bequemlichkeit steht im Vordergrund. Man kann die Kosten auch dadurch senken, dass man sich dafür entscheidet, das System selbst zu installieren.
 
 ![Drip irrigation system – estimated costs](/uploads/podlewanie-kropelkowe.jpg "Drip irrigation system – estimated costs")
 
-## What else should one remember when installing drip irrigation?
+## Was sollte man bei der Installation einer Tropfbewässerung noch beachten?
 
-Because all gardens are different, one should keep every detail in mind when choosing a drip irrigation system: from the shape of terrain to drip line colour. This way one can **create a system that will match all needs and serve for years.**
+Da alle Gärten unterschiedlich sind, sollte man bei der Auswahl eines Tropfbewässerungssystems auf jedes Detail achten: von der Form des Geländes bis hin zur Farbe der Tropfleitung. Auf diese Weise kann man **ein System schaffen, das allen Bedürfnissen gerecht wird und über Jahre hinweg funktioniert.**
 
 {:.list.list-positive}
 
-* Is your garden situated on a hill or an uneven terrain? It doesn't mean that drip irrigation is not for you. Just use a **pressure regulator** – a device that will allow the water to flow upwards.
-* Remember **the emitters arrangement** depends mostly on the type of soil your plants grow in. The more loose the ground is, the more emitters you need. If the soil is quite dense, place them more sparsely to prevent water retention.
-* What hose colour to choose? **The most popular drip lines are available in neutral tones: green, black or brown.** This way one can easily mask the tube, increasing the aesthetics of the garden. You could also choose stronger colours and expose the hose for decorative purposes.
-* What do to with the drip lines after the season? **The equipment should be put away for winter** to avoid damage from the weather conditions.
-* You have expanded the crops area and now the drip irrigation system covers it only partially? **You can always extend the drip lines**. To do this, use special connectors.
+* Ist Ihr Garten auf einem Hügel oder einem unebenen Gelände gelegen? Das bedeutet nicht, dass die Tröpfchenbewässerung nichts für Sie ist. Verwenden Sie einfach einen **Druckregler** - ein Gerät, das das Wasser nach oben fließen lässt.
+* Denken Sie daran, **dass die Anordnung der Emitter** hauptsächlich von der Art des Bodens abhängt, in dem Ihre Pflanzen wachsen. Je lockerer der Boden ist, desto mehr Emitter benötigen Sie. Wenn der Boden recht dicht ist, platzieren Sie sie spärlicher, um Wasseransammlungen zu vermeiden.
+* Welche Schlauchfarbe soll gewählt werden? **Die beliebtesten Tropfleitungen sind in neutralen Tönen erhältlich: grün, schwarz oder braun.** Auf diese Weise kann man den Schlauch leicht abkleben, was die Ästhetik des Gartens erhöht. Man kann auch kräftigere Farben wählen und den Schlauch für dekorative Zwecke freilegen.
+* Was tun mit den Tropfleitungen nach der Saison? **Die Ausrüstung sollte für den Winter aufbewahrt werden**, um Schäden durch die Witterungsbedingungen zu vermeiden.
+* Sie haben die Anbaufläche erweitert, und jetzt deckt das Tröpfchenbewässerungssystem sie nur teilweise ab? **Sie können die Tropfleitungen jederzeit erweitern.** Verwenden Sie dazu spezielle Verbinder.
 
-**A drip irrigation system is a perfect solution for every garden.** Thanks to it you can easily and effortlessly take care of your plants. A drip line means not only time and money saved, but also a beautiful and healthy garden. It's a universal system that can be used both for professional farming as well as for private gardens, balconies and patios.
+**Ein Tröpfchenbewässerungssystem ist eine perfekte Lösung für jeden Garten.** Dank ihr können Sie Ihre Pflanzen einfach und mühelos pflegen. Eine Tropfleitung bedeutet nicht nur Zeit- und Geldersparnis, sondern auch einen schönen und gesunden Garten. Es handelt sich um ein universelles System, das sowohl für die professionelle Landwirtschaft als auch für private Gärten, Balkone und Terrassen verwendet werden kann.
