@@ -1,8 +1,8 @@
 ---
 layout: post
 seo_title: Rohrabdeckung, Rohrdurchführung? Wie kann man freiliegende Rohre verbergen?
-seo_description: Wenn Ihre Rohre freigelegt wurden, sollten Sie sie vielleicht verstecken.
-  Fragen Sie sich, was die beste Rohrabdeckung ist?
+seo_description: "Sie möchten Ihr Haus verschönern? \U0001F3E1 Blenden Sie die Installationsrohre
+  aus! \U0001F6E0️ Untersuchen Sie 5 Möglichkeiten zum Ausblenden von Rohren."
 date: 2020-02-10T11:00:00.000+00:00
 update_date: 2020-02-10T11:00:00.000+00:00
 title: Rohrabdeckung - wie können freiliegende Rohre versteckt werden?
@@ -46,6 +46,25 @@ Klempnerrohre sind integraler Bestandteil eines jeden gut funktionierenden Gebä
 Eine davon ist das Verbergen der Rohre in Wänden, im Boden oder unter Sockelleisten. Es kann jedoch vorkommen, dass diese Methoden unmöglich sind. In einem solchen Fall kann man Gipsplatten oder Möbel verwenden, um die Rohre zu verbergen. Das Verbergen von Rohren ist die häufigste Lösung. Es gibt auch eine gute Alternative dazu, die bei vielen Hausbesitzern immer beliebter wird. Der Trend geht immer mehr dahin, Rohre offen zu lassen. Diese Art des Designs wird am häufigsten in industriellen Stilen verwendet.
 
 Das industrielle Innendesign ist einfach und minimalistisch. Die Innenräume sollten grob, geräumig und sparsam sein. Das charakteristischste Merkmal für diesen Stil sind die Wände: unverputzt, gemauert oder aus Beton. Sie eignen sich perfekt für freiliegende Rohre.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/SOUDAL-Gipskartonplatte-Acryl-Dichtung-Maleracryl-280-ml-Dichtstoff-weis/402151736912?hash=item5da21c8650:g:9z0AAOSwswdekErL" %}
+{% assign productphoto = "../uploads/akryl-usczelniajacy-plyty-gk.jpg" %}
+{% assign productname = "Acryl Dichtung für Gipskartonplatte" %}
+{% assign productprice = "EUR 4,80" %}
+{% assign productdesc = "Geruchloses Produkt - ideal zum Füllen von Lücken" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/SOUDAL-Universal-Dichtungsmittel-FixAll-Turbo-290-ml-Maleracryl-Acryl-weis/402154202302?hash=item5da24224be:g:wNQAAOSwwdhekEq6" %}
+{% assign productphoto = "../uploads/soudal-fixall.jpg" %}
+{% assign productname = "Universal Dichtungsmittel FixAll Turbo 290 ml" %}
+{% assign productprice = "EUR 13,00" %}
+{% assign productdesc = "Witterungsbeständige Substanz - schnelle Wirkung" %}{% include product.html %}
+
+</div></div>
 
 ## Rohrdekor - Ideen für freiliegende Rohre
 
