@@ -51,6 +51,36 @@ Wasserhähne zur Wandmontage können nur dann installiert werden, wenn die Rohre
 
 Wenn die Küche im Vintage-Stil gestaltet ist, könnte es eine gute Idee sein, "Retro"-Armaturen zu wählen, die so gestaltet sind, dass sie wie in den dreißiger Jahren aussehen.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Wasserhahn-Kuchenspule-Auslauf-L-stehende-Montage-Spultisch-Mischbattrie/401820422774?hash=item5d8e5d1276:g:iGgAAOSwb39d6RHP" %}
+{% assign productphoto = "../uploads/bateria-nano-l.jpg" %}
+{% assign productname = "Wasserhahn Küchenspüle Auslauf ''L'' stehende" %}
+{% assign productprice = "EUR 19,99" %}
+{% assign productdesc = "Elegante Form und verchromte Oberfläche" %}
+{% include product.html %}
+
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Wasserhahn-Kuchenspule-Wand-Montage-Batterie-Spultisch-Mischbatterie/401790192474?hash=item5d8c8fcb5a:g:Jd4AAOSwKz5d57iu" %}
+{% assign productphoto = "../uploads/bateria-scienna-nano.jpg" %}
+{% assign productname = "Wasserhahn Küchenspüle - Wand Montage" %}
+{% assign productprice = "EUR 19,99" %}
+{% assign productdesc = "Ausgestattet mit langem, schwenkbarem Auslauf" %}  
+{% include product.html %}
+
+
+{% assign producttype ="normal %}
+{% assign productlink = "https://www.ebay.de/itm/Wasserhahn-Kuchenspule-kurzen-Auslauf-stehende-Montage-Spultisch-Mischbattrie/401813454211?hash=item5d8df2bd83:g:1UkAAOSwW1Bd57iy" %}
+{% assign productphoto = "../uploads/bateria-krotka-wylewka-nano.jpg" %}
+{% assign productname = "Wasserhahn Küchenspüle kurzen Auslauf" %}
+{% assign productprice = "EUR 18,99" %}
+{% assign productdesc = "Elegantem, minimalistischem Aussehen" %}  
+{% include product.html %}
+
+</div></div>
+
 ## Wasserhähne zur Deckmontage
 
 Deckmontage-Armaturen werden in der Regel direkt an der Theke der Küchenspüle montiert. Sie können installiert werden, wenn die Rohre unterhalb des Niveaus der Sanitärarmaturen verlaufen. Eines der beliebtesten Modelle dieser Art ist der Einhebelmischer. Er passt zu vielen zeitgenössischen Designs, einschließlich Kücheninseln und Spülbecken mit Blick auf Fenster.
@@ -82,6 +112,34 @@ Eine andere Art von Wasserhahn, die immer beliebter wird, ist ein Wasserhahn mit
 
 Wasserhähne, die an einem Ort fixiert sind, und solche, die gedreht werden können, sind die am häufigsten gewählten Produkte. Ihr Hauptmerkmal ist das klassische, neutrale Design. Sie sind definitiv weniger bequem als flexible und ausziehbare Wasserhähne. Ihr größter Vorteil ist der Preis - solche Modelle sind am wenigsten teuer.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Wasserhahn-Kuchenarmatur-Kuchenspule-Einhebelmischer-Mischbatterie-hoch-Messing/401817536758?hash=item5d8e3108f6:g:dSsAAOSw-mtd74Zz" %}
+{% assign productphoto = "../uploads/bateria-rosa.jpg" %}
+{% assign productname = "Wasserhahn ROSA für Küchenspüle" %}
+{% assign productprice = "EUR 104,99" %}
+{% assign productdesc = "Hergestellt aus hochwertigem, langlebigem Messing" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Wasserhahn-Kuchenarmatur-Kuchenspule-Einhebelmischer-Mischbatterie-hoch-Messing/401818672858?hash=item5d8e425eda:g:tCQAAOSwwH9d7hma" %}
+{% assign productphoto = "../uploads/bateria-afro.jpg" %}
+{% assign productname = "Wasserhahn AFRODYTA für Küchenspüle" %}
+{% assign productprice = "EUR 119,99" %}
+{% assign productdesc = "Es passt perfekt zu modernem Küchendesign" %}  
+{% include product.html %}
+
+{% assign producttype ="normal %}
+{% assign productlink = "https://www.ebay.de/itm/Wasserhahn-Kuchenarmatur-Kuchenspule-Einhebelmischer-Mischbatterie-hoch-Messing/401818670024?hash=item5d8e4253c8:g:6FYAAOSwM81d74Zt" %}
+{% assign productphoto = "../uploads/bateria-goplana.jpg" %}
+{% assign productname = "Wasserhahn GOPLANA für Küchenspüle" %}
+{% assign productprice = "EUR 69,99" %}
+{% assign productdesc = "Die perfekte Ausführung für eine Küche im modernen Stil" %}  
+{% include product.html %}
+
+</div></div>
+
 ## Für Wasserhähne verwendete Materialien
 
 Der Küchenwasserhahn ist eines der sichtbarsten Elemente in jeder Küche. Vor diesem Hintergrund lohnt es sich, ein Produkt zu wählen, das nicht nur funktional, sondern auch gut aussieht - so dass es zum gesamten Design passt.
@@ -101,6 +159,26 @@ Vor der Wahl des richtigen Wasserhahns ist es wichtig, die Art und Weise, wie er
 {:.distinction.distinction-quotation.distinction-positive}
 
 Die größten Vorteile solcher Geräte sind Hygiene, Wirtschaftlichkeit, thermische Desinfektion, einfache Installation und modernes Design. Berührungslose Wasserhähne sind perfekt für Personen, die Wert auf Funktionalität und modernes Design legen.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Wasserhahn-fur-Kuchenspule-Kuchenarmatur-Spultischarmatur-flexibler-Auslauf/401817605017?hash=item5d8e321399:g:IYoAAOSwMMNdLZxC" %}
+{% assign productphoto = "../uploads/bateria-ibbie-czarna.jpg" %}
+{% assign productname = "Wasserhahn IBBIE für Küchenspüle mit flexibler Auslauf" %}
+{% assign productprice = "EUR 38,00" %}
+{% assign productdesc = "Stilvolles und elegantes Aussehen" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Wasserhahn-Kuchenarmatur-Kuchenspule-Einhebelmischer-Mischbatterie-hoch-Messing/401818671321?hash=item5d8e4258d9:g:rroAAOSwPw5d7hmf" %}
+{% assign productphoto = "../uploads/bateria-dalia.jpg" %}
+{% assign productname = "Wasserhahn DALIA für Küchenspüle" %}
+{% assign productprice = "EUR 88,99" %}
+{% assign productdesc = "Zugeschnitten auf ein individuelles Küchendesign" %}  
+{% include product.html %}
+
+</div></div>
 
 ## Zusätzliche Funktionen
 
