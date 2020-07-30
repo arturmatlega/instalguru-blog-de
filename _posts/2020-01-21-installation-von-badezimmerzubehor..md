@@ -1,8 +1,8 @@
 ---
 layout: post
 seo_title: Badezimmer-Accessoires. Wie installiert man Badmöbel?
-seo_description: Badewanne, Dusche, Waschbecken und Toilette sind die wichtigsten
-  Elemente eines jeden Badezimmers. Wie installiert man Badezimmerzubehör richtig?
+seo_description: "Sie fragen sich, wie man ein Waschbecken installiert? \U0001F50D
+  Es ist sehr einfach. \U0001F6BF Entdecken Sie das Geheimnis eines funktionalen Badezimmers."
 date: 2020-01-21T11:00:00.000+00:00
 update_date: 2020-01-21T11:00:00.000+00:00
 title: Installation von Badezimmerzubehör.
@@ -65,6 +65,34 @@ Es ist auch möglich, die Installationselemente hinter einem Sockel oder einer S
 
 Beginnen Sie die Installation damit, einen automatischen Spülbeckenabfluss in den Abfluss zu stellen. Installieren Sie dann den Wasserhahn. Denken Sie daran, Dichtungen einzusetzen, die das Spülbecken vor dem Auslaufen schützen. Bringen Sie den Geruchsverschluss an und setzen Sie ein Abflussrohr (denken Sie daran, eine Dichtung anzubringen) und eine Kappe ein. Sie können das von Hand machen, Spezialwerkzeuge sind in diesem Fall nicht erforderlich.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Waschbecken-Matte-fur-Schallschutz-Matte-fur-Waschtisch-Waschbecken/401811184450?hash=item5d8dd01b42:g:qFQAAOSwTR9d394k" %}
+{% assign productphoto = "../uploads/mata-pod-umywalke.jpg" %}
+{% assign productname = "Waschbecken Matte" %}
+{% assign productprice = "EUR 5,90" %}
+{% assign productdesc = "Isolier- und Schallschutzmatte aus leichtem, flexiblem Schaumstoff" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Waschtisch-Befestigungssatz-M8-M10-Waschbecken-Befestigung-Halterung-Metall/401811200216?hash=item5d8dd058d8:g:UsoAAOSwjPVd3nnu" %}
+{% assign productphoto = "../uploads/komplet-umywalkowy.jpg" %}
+{% assign productname = "Waschtisch Befestigungssatz" %}
+{% assign productprice = "EUR 1,59" %}
+{% assign productdesc = "Passend für die meisten auf dem Markt erhältlichen Waschtischmodelle" %}  
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Waschbecke-Wandhalterungsset-Edelstahl-Winkel-Halterung-Waschbecken-Wandkonsole/401819389343?hash=item5d8e4d4d9f:g:n-AAAOSwSq1d394m" %}
+{% assign productphoto = "../uploads/wspornik-umywalki.jpg" %}
+{% assign productname = "Waschbecke Wandhalterungsset" %}
+{% assign productprice = "EUR 2,99" %}
+{% assign productdesc = "Universalprodukt für die Wandmontage des Waschbeckens" %}  
+{% include product.html %}
+
+</div></div>
+
 ### Eitelkeits-Einheit
 
 Dieser Typ enthält in der Regel ein Becken in Form eines Ovals oder Kreises. Die Installation sollte damit beginnen, zwei Löcher in den Schrank zu schneiden - für einen Wasserhahn und für einen Abfluss. Dann setzen Sie die Schale in die richtige Öffnung. Befestigen Sie den Boden des Waschbeckens mit transparentem Silikon am Schrank. Verteilen Sie die Substanz an den Rändern und drücken Sie das Becken gegen den Schrank. Wischen Sie das überschüssige Silikon mit einem weichen, feuchten Tuch ab. Der letzte Schritt umfasst die Installation des Geruchsverschlusses und den Anschluss der Geräte an das Wassersystem. Verwenden Sie dazu flexible Schläuche oder Kupferrohre.
@@ -84,6 +112,34 @@ Wenn Sie sicher sind, daß die Badewanne richtig eingepaßt ist, ziehen Sie die 
 {:.distinction.distinction-quotation.distinction-positive}
 
 Nachdem Sie das gesamte System installiert haben, bringen Sie Silikon auf die Leisten auf und sichern Sie das Bad.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Ablassventil-Spulkasten-fur-WC-Spulung-Spulventil-mit-Druckknopf-330-380-mm-Hohe/401816728609?hash=item5d8e24b421:g:ZpQAAOSwGYVduaAV" %}
+{% assign productphoto = "../uploads/zawor-splukujacy.jpg" %}
+{% assign productname = "Spülventil mit Druckknopf" %}
+{% assign productprice = "EUR 13,99" %}
+{% assign productdesc = "Ausgelegt für den Einbau in Keramik-Toiletten" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Rohrsiphon-Waschbecken-Metall-1-1-4-Chrom-Sifon-Geruchverschluss-Waschtische/401812118786?hash=item5d8dde5d02:g:JG8AAOSw7aBeOpnS" %}
+{% assign productphoto = "../uploads/syfon-rurowy-metalowy.jpg" %}
+{% assign productname = "Metall Rohrsiphon" %}
+{% assign productprice = "EUR 9,99" %}
+{% assign productdesc = "Elegantes Aussehen, das zu jeder Inneneinrichtung passt" %}  
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/SOUDAL-Sanitar-Silikon-Silicon-Fugen-Abdichtung-Abdichten-280-ml-Dichtstoff/402156221722?hash=item5da260f51a:g:4V4AAOSwNYZeagW6" %}
+{% assign productphoto = "../uploads/silikon-sanitarny.jpg" %}
+{% assign productname = "Sanitär-Silikon 280 ml" %}
+{% assign productprice = "EUR 6,00" %}
+{% assign productdesc = "Schützt wirksam die Oberflächen, auf denen es verwendet wird" %}  
+{% include product.html %}
+
+</div></div>
 
 ## Wie installiert man eine Toilette?
 
