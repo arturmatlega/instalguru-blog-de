@@ -1,8 +1,9 @@
 ---
 layout: post
 seo_title: Perfekte Küchenarmaturen für eine schöne zeitgenössische Küche
-seo_description: Planen Sie eine Küchenrenovierung? Sehen Sie sich die beliebten Produkte
-  an und finden Sie den besten Wasserhahn für eine moderne Küche.
+seo_description: "Planen Sie eine Küchenrenovierung? \U0001F3E1 Sehen Sie sich die
+  beliebten Produkte an. \U0001F449 Finden Sie den besten Wasserhahn für eine moderne
+  Küche."
 date: 2020-01-07T11:00:00.000+00:00
 update_date: 2020-01-07T11:00:00.000+00:00
 title: Perfekte Küchenarmaturen für eine schöne zeitgenössische Küche
