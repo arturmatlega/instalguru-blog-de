@@ -46,6 +46,10 @@ Neben der Ästhetik sind Fußbodenheizungen außerordentlich effizient. Unabhän
 
 Dadurch können die Rechnungen erheblich reduziert werden. Noch wichtiger ist, dass beheizte Fußböden als eines der gesündesten Heizsysteme angesehen werden.
 
+Eines der wichtigsten Merkmale einer Fußbodenheizung ist die Leistung. Sie ist von Fall zu Fall unterschiedlich. Ähnlich wie bei anderen Heizungsinstallationen ist ein entscheidender Aspekt die Art des Raumes, in dem die Fußbodenheizung installiert werden soll. Wenn man darüber nachdenkt, wie viel Energie benötigt wird, sollte man die Größe der Fläche, den Verwendungszweck sowie die Wärmedämmung des Gebäudes berücksichtigen. Eine weitere Frage ist die Art des Fußbodens - das Armaturenbrett benötigt eine andere Energiemenge als der Fliesenboden. Warum? Wenn die Leistung zu gering ist, kann das System nicht den gesamten Raum heizen, während eine zu starke Heizung den Raum unbehaglich machen würde.
+
+Es gibt viele Arten von Fußbodenheizungen. Wasser- und elektrische Fußbodenheizungen sind die beliebtesten. Welche ist die beste?
+
 <div class="products-wrapper"><div class="products-container">
 
 {% assign producttype ="normal" %}
@@ -66,10 +70,6 @@ Dadurch können die Rechnungen erheblich reduziert werden. Noch wichtiger ist, d
 {% include product.html %}
 
 </div></div>
-
-Eines der wichtigsten Merkmale einer Fußbodenheizung ist die Leistung. Sie ist von Fall zu Fall unterschiedlich. Ähnlich wie bei anderen Heizungsinstallationen ist ein entscheidender Aspekt die Art des Raumes, in dem die Fußbodenheizung installiert werden soll. Wenn man darüber nachdenkt, wie viel Energie benötigt wird, sollte man die Größe der Fläche, den Verwendungszweck sowie die Wärmedämmung des Gebäudes berücksichtigen. Eine weitere Frage ist die Art des Fußbodens - das Armaturenbrett benötigt eine andere Energiemenge als der Fliesenboden. Warum? Wenn die Leistung zu gering ist, kann das System nicht den gesamten Raum heizen, während eine zu starke Heizung den Raum unbehaglich machen würde.
-
-Es gibt viele Arten von Fußbodenheizungen. Wasser- und elektrische Fußbodenheizungen sind die beliebtesten. Welche ist die beste?
 
 ## Elektrische Fußbodenheizung
 
