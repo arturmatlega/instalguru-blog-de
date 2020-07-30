@@ -1,8 +1,9 @@
 ---
 layout: post
-seo_title: Wie lässt sich der Geruch aus dem Badezimmer- oder Küchenspülbecken entfernen?
-seo_description: Wenn Sie sich fragen, was der Geruch aus Ihrer Küchenspüle kommt,
-  machen Sie sich keine Sorgen. Es ist ein häufiges Problem.
+seo_title: Hässlicher Geruch aus dem Waschbecken? Werden Sie es los!
+seo_description: "Ein verstopftes Waschbecken lässt Sie zu Hause unfreundlich riechen?
+  \U0001F937\U0001F3FB‍♂️ Sehen Sie, wie Sie es loswerden können. \U0001F449\U0001F3FB
+  Es ist wirklich einfach."
 date: 2020-01-03T11:00:00.000+00:00
 update_date: 2020-01-03T11:00:00.000+00:00
 title: Wie wird man einen schlechten Geruch aus seinem Waschbecken los?
