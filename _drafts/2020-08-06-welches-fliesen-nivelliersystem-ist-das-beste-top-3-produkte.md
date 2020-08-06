@@ -44,7 +44,7 @@ hreflangs:
 - lang: de
   link: ''
 - lang: pl
-  link: ''
+  link: https://instalguru.pl/blog/jaki-system-poziomowania-plytek-wybrac-top-3-produktow.html
 - lang: fr
   link: ''
 - lang: en
@@ -66,6 +66,25 @@ Ein Standard-Fliesen-Nivelliersystem enthält **speziell geformte Klammern und K
 Das Gerät sollte beim Setzen der Fliesen auf der Oberfläche verwendet werden. Zuvor muss man eine Klammer zwischen zwei benachbarte Fliesen legen. Dann sollte ein Keil in den Clip gesteckt werden. Er drückt die **Fliese auf den Boden oder an die Wand**, wodurch die Oberfläche geebnet wird.
 
 Die Unebenheiten oder Schnitzereien auf den Keilen sind sehr wichtig. Sie verhindern das Verschieben des Elements und stabilisieren die Fliesen. **Es ist definitiv eine viel effizientere Lösung als das Anbringen von Querabstandshaltern, die die Fliesen überhaupt nicht halten**. Außerdem ist ein Fliesen-Nivelliersystem viel einfacher zu verwenden. Es besteht keine Notwendigkeit, zusätzliche Ausrüstung wie eine Nivelliereinrichtung zu verwenden - was den Prozess viel länger und komplizierter machen könnte.
+
+<div class="products-wrapper"> <div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Nivelliersystem-Keile-Laschen-Verlegehilfe-Fliesen-Clips-100-x-300/401816746756?hash=item5d8e24fb04:g:JFEAAOSwh0BeOV0T" %}
+{% assign productphoto = "../uploads/product_25.jpg" %}
+{% assign productname = "Nivellierungssystem" %}
+{% assign productprice = "EUR 18,99" %}
+{% assign productdesc = "Effektive Beseitigung von Oberflächenunregelmäßigkeiten auf Fliesen" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Nivelliersystem-Verlegehilfe-Verlegesystem-Fliesen-300-500-Clips-100-x-Keile/402107482956?hash=item5d9f79434c:g:jAIAAOSwyqleTmtK" %}
+{% assign productphoto = "../uploads/product_2.jpg" %}
+{% assign productname = "Nivellierungssystem" %}
+{% assign productprice = "EUR 15,99" %}
+{% assign productdesc = "Einfach zu bedienen - schnell in Aktion" %}{% include product.html %}
+
+</div></div>
 
 ## Wo können Sie ein Fliesen-Nivelliersystem einsetzen?
 
@@ -119,7 +138,7 @@ Die Hersteller bieten auch ein wiederverwendbares Fliesen-Nivelliersystem an, be
 
 Diese Art eines Fliesen-Nivelliersystems verwendet ebenfalls zwei Elemente. Der Hauptteil ist eine Klammer mit einem großen Faden und einem Metallelement in Form eines "T". Das andere Element ist eine Kappe, die eine Fliese fixiert.
 
-{:.distinction.distinction-warning}
+{:.distinction.distinction-info.distinction-negative}
 
 Das ist keine völlig fehlerfreie Lösung. In diesem Fall müssen Sie zusätzliche Kachelkreuzabstandhalter verwenden, was mehr Zeit in Anspruch nimmt und für unerfahrene Anwender schwierig sein kann. Außerdem müssen die Klammern nach dem Nivellieren der Fliesen nach einigen Stunden entfernt werden. Dies könnte das Niveau der Kacheln ruinieren.
 
@@ -129,11 +148,30 @@ Das ist keine völlig fehlerfreie Lösung. In diesem Fall müssen Sie zusätzlic
 
 Ein Fliesen-Nivelliersystem, das Klammern und Keile verwendet, kann teilweise wiederverwendet werden. Die Clips sind Einwegelemente. Sie können **die Keile jedoch wiederverwenden**. Dies ist eine unter Experten übliche Lösung, die viel sparen können, wenn sie nur die fehlenden Clips kaufen.
 
-{:.distinction.distinction-warning}
+{:.distinction.distinction-info.distinction-negative}
 
 Es ist wichtig, den Zustand der Keile zu kontrollieren. Nach mehrmaligem Gebrauch können sie abgenutzt werden - dies kann anhand des Zustands der Beulen beurteilt werden, die den Keil in einem Clip halten. Wenn Ihnen ein solcher Vorfall aufgefallen ist, könnten Sie sich entscheiden, neue Keile zu kaufen.
 
 **Ein großer Vorteil eines wiederverwendbaren Fliesen-Nivelliersystems ist sicherlich die Tatsache, dass es viele Male verwendet werden kann, was etwas Geld sparen kann.** Nichtsdestotrotz behaupten viele Anwender, dass die Anwendung weit weniger komfortabel ist. Die Notwendigkeit, Querabstandhalter zu verwenden, ist ein großer Nachteil. Es macht nicht nur die Arbeit für Experten länger, sondern kann auch für unerfahrene Anwender recht problematisch sein.
+
+<div class="products-wrapper"> <div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Zange-fur-Nivelliersystem-Clinchen-Clips-Keile-Klemme-Verlegehilfe/402107476916?hash=item5d9f792bb4:g:1YIAAOSwXzBeTmgm" %}
+{% assign productphoto = "../uploads/produkt_szczypce.jpg" %}
+{% assign productname = "Zange für Nivelliersysteme" %}
+{% assign productprice = "EUR 10,99" %}
+{% assign productdesc = "Hilfreich beim Spannen von Keilen" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Nivelliersystem-Keile-Verlegehilfe-Fliesenkeil-Blau-100-Stuck/402107476871?hash=item5d9f792b87:m:mJ20SjppOAMHavudaZHjmtw" %}
+{% assign productphoto = "../uploads/product_klin_niebieski_simplefix_4.jpg" %}
+{% assign productname = "Blauer Keil" %}
+{% assign productprice = "EUR 4,50" %}
+{% assign productdesc = "Dauerhafte Stabilität der Fliesen" %}{% include product.html %}
+
+</div></div>
 
 ## Wie wählt man ein Fliesen-Nivelliersystem aus?
 
