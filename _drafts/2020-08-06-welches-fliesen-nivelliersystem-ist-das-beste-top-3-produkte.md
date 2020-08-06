@@ -34,7 +34,21 @@ author_name: Magdalena Data-Urban
 author_desc: Inhalts-Manager bei Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: cs
+  link: ''
+- lang: es
+  link: ''
+- lang: it
+  link: ''
+- lang: de
+  link: ''
+- lang: pl
+  link: ''
+- lang: fr
+  link: ''
+- lang: en
+  link: ''
 
 ---
 ## Was ist ein Fliesen-Nivelliersystem?
