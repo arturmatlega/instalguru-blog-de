@@ -37,113 +37,94 @@ toc: true
 hreflangs: []
 
 ---
-## What is a tile leveling system?
+## Was ist ein Fliesen-Nivelliersystem?
 
-A tile leveling system is a **set of elements thanks to whose it is much easier to fit and grout the tiles.** It contains **clips and wedges** made from plastic material. They can be used to level the tiles on the floor or the wall. They should be placed between adjacent tiles.
+Ein Fliesen-Nivelliersystem ist ein **Satz von Elementen, dank dessen es viel einfacher ist, die Fliesen zu verlegen** und zu verfugen. Es enthält **Klammern und Keile** aus Kunststoffmaterial. Sie können zum Nivellieren der Fliesen auf dem Boden oder an der Wand verwendet werden. Sie sollten zwischen benachbarte Fliesen gelegt werden.
 
-**Using a modern tile leveling system is a perfect solution both for professionals and for unexperienced users.** Thanks to this method the whole process is much easier and more importantly, quicker. It's estimated that a **tile leveling system can save up to 50% of time** compared to laying tiles using traditional spacers.
+**Die Verwendung eines modernen Fliesen-Nivelliersystems ist eine perfekte Lösung sowohl für Profis als auch für unerfahrene Anwender.** Dank dieser Methode ist der ganze Prozess viel einfacher und vor allem schneller. Es wird geschätzt, dass ein Fliesen-Nivelliersystem im Vergleich zum Verlegen von Fliesen mit herkömmlichen Abstandhaltern **bis zu 50 % der Zeit einsparen kann**.
 
-{% fig %}
+![Was ist ein Fliesen-Nivelliersystem?](/uploads/system-poziomowania-plytek-szczypce.jpg "Was ist ein Fliesen-Nivelliersystem?")
 
-![What is a tile leveling system?](/uploads/system-poziomowania-plytek-szczypce.jpg "What is a tile leveling system?")
+## Wie funktioniert ein Fliesen-Nivelliersystem?
 
-{% endfig %}
+Ein Standard-Fliesen-Nivelliersystem enthält **speziell geformte Klammern und Keile, die charakteristische Unebenheiten auf der Oberfläche aufweisen**. Es ist wichtig, dass man diese beiden Elemente verwendet, um die erwarteten Ergebnisse zu erzielen.
 
-## How does a tile leveling system work?
+Das Gerät sollte beim Setzen der Fliesen auf der Oberfläche verwendet werden. Zuvor muss man eine Klammer zwischen zwei benachbarte Fliesen legen. Dann sollte ein Keil in den Clip gesteckt werden. Er drückt die **Fliese auf den Boden oder an die Wand**, wodurch die Oberfläche geebnet wird.
 
-A standard tile leveling system contains **specially shaped clips and wedges that have characteristic bumps on the surface.** It's important that one uses both of those elements to achieve the expected results.
+Die Unebenheiten oder Schnitzereien auf den Keilen sind sehr wichtig. Sie verhindern das Verschieben des Elements und stabilisieren die Fliesen. **Es ist definitiv eine viel effizientere Lösung als das Anbringen von Querabstandshaltern, die die Fliesen überhaupt nicht halten**. Außerdem ist ein Fliesen-Nivelliersystem viel einfacher zu verwenden. Es besteht keine Notwendigkeit, zusätzliche Ausrüstung wie eine Nivelliereinrichtung zu verwenden - was den Prozess viel länger und komplizierter machen könnte.
 
-The equipment should be used when setting the tiles on the surface. Before doing that, one needs putting a clip between two adjacent tiles. Then, a wedge should be stuck in the clip. It presses **the tile to the floor or the wall**, which results in leveling the surface.
+## Wo können Sie ein Fliesen-Nivelliersystem einsetzen?
 
-The bumps or carvings on the wedges are very important. They prevent the element from moving and stabilize the tiles. **It's definitely much more efficient solution than placing cross spacers which don't hold the tiles at all.** What's more, a tile leveling system is far easier to use. There is no need to use any additional equipment like a level - which might make the process much longer and more complicated.
+Obwohl viele glauben, dass ein Fliesen-Nivelliersystem nur für Fußböden verwendet werden kann, ist es in Wirklichkeit **eine sehr universelle Lösung**. Das bedeutet, dass Sie es auch für das Verfliesen von Wänden oder sogar Treppen verwenden können.
 
-## Where can you use a tile leveling system?
-
-Although many believe that a tile leveling system can be used only for floors, in reality **it is  a highly universal solution**. It means you can use it for tiling walls, or even stairs as well.
-
-Note that it doesn't matter what kind of tiles you use. They can be made of:
+Beachten Sie, dass es keine Rolle spielt, welche Art von Fliesen Sie verwenden. Sie können aus ihnen hergestellt werden:
 
 {:.list.list-positive}
 
-* ceramic,
-* grés,
-* granite,
-* stone.
+* Keramik,
+* Grés,
+* Granit,
+* Stein.
 
-{% fig %}
+  
+![Wo können Sie ein Fliesen-Nivelliersystem einsetzen?](/uploads/system-poziomowania-plytek-top3.jpg "Wo können Sie ein Fliesen-Nivelliersystem einsetzen?")
 
-![Where can you use a tile leveling system?](/uploads/system-poziomowania-plytek-top3.jpg "Where can you use a tile leveling system?")
+## Lohnt sich ein Fliesen-Nivelliersystem? Vorteile der Lösung
 
-{% endfig %}
+**Ein Fliesen-Nivelliersystem ist eine universelle Lösung** - Sie können es für verschiedene Arten von Oberflächen verwenden.  Es kann sowohl innerhalb, als auch auf den Flächen außerhalb des Gebäudes verwendet werden.
 
-## Is a tile leveling system worth it? Advantages of the solution
+Mit dieser Art von Geräten **können Sie Fliesen jeder Art verlegen** - unabhängig von Größe und Dicke. In jedem Fall können Sie eine perfekt ebene Oberfläche erhalten.
 
-**A tile leveling system is a universal solution** - you can use it for various types of surfaces.  It can be used both inside, as well as on the areas located outside the building.
+Nivellierte Fliesen sind nur einer der Vorteile. Zusätzlich erhalten Sie auch die Möglichkeit, eine perfekt gleichmäßige Verfugung über die gesamte Fläche zu erhalten. Gleichmäßig verlegte Fliesen bedeuten genau die gleiche Breite zwischen den einzelnen Fliesen. Dank dessen sieht die Fuge außergewöhnlich elegant aus.
 
-Using this type of equipment, **you can lay tiles of any type** - regardless of the size and thickness. In any case, you can get a perfectly even surface.
+## TOP 3 - die beliebtesten Fliesen-Nivelliersysteme
 
-Leveled tiles are only one of the advantages. Additionally, you also get a possibility to get perfectly even grouting across the whole surface. Evenly set tiles means exactly the same width between each of them. Thanks to this, the grouting looks exceptionally elegant.
+Die meisten Benutzer assoziieren ein Fliesen-Nivelliersystem mit einem Satz von Klammern und Keilen. Das ist natürlich richtig. Man kann jedoch verschiedene Sätze finden, die sich in ihrer Verwendung - die sich aus der unterschiedlichen Konstruktion der Elemente ergibt - leicht unterscheiden. Es gibt auch Systeme, die eine völlig andere Struktur haben.
 
-## TOP 3 - the most popular tile leveling systems
+**Wir stellen Ihnen die TOP 3 Produkte vor, die in Fachkreisen am beliebtesten sind und als die besten bewertet werden.**
 
-Most users associate a tile leveling system with a set of clips and wedges. It is, of course, correct. However, one can find various sets that slightly differ in terms of their usage - which results from the elements' different construction. There are also systems that have a completely different structure.
+### Ein Fliesen-Nivelliersystem mit ankerförmigen Klammern
 
-**We present TOP 3 products which are most popular among specialists and rated as the best.**
+Es ist das beliebteste Fliesen-Nivelliersystem - sowohl bei Experten als auch bei Heimwerkern, die die Fliesen selbst verlegen wollen. **Die Clips haben ein spezielles Design - sie ähneln einem Anker oder einem umgekehrten "T".**
 
-### A tile leveling system with anchor-shaped clips
+Die leicht erhabenen Enden auf beiden Seiten eines Clips werden unter die Fliesen gelegt. Dann wird ein Keil auf den Clip gelegt. Bei dieser Art von Set ist der Keil an einer Seite offen. Er umgibt den Stiel des Clips. **Nach Druckausübung wird er durch die Unebenheiten auf seiner Oberfläche blockiert.**
 
-It's the most popular tile leveling system - both among experts and do-it-yourselfers who want to lay the tiles themselves. The **clips have a special design - they resemble an anchor or an inverted "T."**
+Es ist üblich, dass ein solcher Satz auch spezielle Zangen enthält. Dank ihnen ist die **Einstellung des Systems und seiner Elemente viel schneller** und erfordert keine Kraftanstrengung.
 
-The slightly raised endings on the both sides of a clip are placed under the tiles. Then, a wedge is put on the clip. In this type of set, the wedge is open at one side. It surrounds the clip's stem. **After putting a pressure, it gets blocked by the bumps on its surface.**
+![Fliesen-Nivelliersystem mit ankerförmigen Klammern](/uploads/system_poziomowania_ranking.jpg "Fliesen-Nivelliersystem mit ankerförmigen Klammern")
 
-It's common such a set also contains special pliers. Thanks to them, **setting the system and its elements is much quicker** and it doesn't require putting any force to it.
+### Ein Fliesen-Nivelliersystem mit Standardklammern und Keilen
 
-{% fig %}
+Eine der am häufigsten verwendeten Optionen ist ein Fliesen-Nivelliersystem, das **klassische Klammern und Keile** verwendet. In diesem Fall ähnelt ein Clip einem Fenster mit einem Sockel an der Unterseite. Das Fenster ist lediglich der Platz für einen Keil. Es unterscheidet sich vom vorherigen System - der Keil sollte in die Mitte des Clips geschoben werden. Dank der charakteristischen Unebenheiten kann man einen maximalen Druck auf den Keil ausüben und so die Fliesen perfekt ausrichten.
 
-![Tile leveling system with anchor-shaped clips](/uploads/system_poziomowania_ranking.jpg "Tile leveling system with anchor-shaped clips")
+![Ein Fliesen-Nivelliersystem mit Standardklammern und Keilen](/uploads/system_poziomowania_ranking_2.jpg "Ein Fliesen-Nivelliersystem mit Standardklammern und Keilen")
 
-{% endfig %}
+### Ein wiederverwendbares Fliesen-Nivelliersystem
 
-### A tile leveling system with standard clips and wedges
+Die Hersteller bieten auch ein wiederverwendbares Fliesen-Nivelliersystem an, bei dem verdrehte Elemente verwendet werden. Sie sind **ganz anders als die klassischen Elemente**. Die Unterschiede liegen sowohl in der Konstruktion als auch in der Verwendung.
 
-One of the most commonly used option is a tile leveling system which uses **classic clips and wedges**. In this case, a clip resembles a window with a base at the bottom. The window is simply the space for a wedge. It's different than the previous system - the wedge should be slid in the middle of the clip. Thanks to the characteristic bumps one can put a maximum pressure on the wedge and as a result level the tiles perfectly.
-
-{% fig %}
-
-![A tile leveling system with standard clips and wedges](/uploads/system_poziomowania_ranking_2.jpg "A tile leveling system with standard clips and wedges")
-
-{% endfig %}
-
-### A reusable tile leveling system
-
-Manufacturers also offer a reusable tile leveling system, which uses twisted elements. They are **quite different the classic ones**. The differences lie both is the construction and the usage.
-
-This type of a tile leveling system uses two elements as well. The main part is a clip with a large thread and a metal element shaped like a "T". The other element is a cap, which secures a tile.
+Diese Art eines Fliesen-Nivelliersystems verwendet ebenfalls zwei Elemente. Der Hauptteil ist eine Klammer mit einem großen Faden und einem Metallelement in Form eines "T". Das andere Element ist eine Kappe, die eine Fliese fixiert.
 
 {:.distinction.distinction-warning}
 
-It's not an entirely flawless solution. In this case you have to use additional tile cross spacers, which takes more time and might be difficult for unexperienced users. Furthermore, after leveling the tiles, the clips have to be removed after a few hours. It might ruin the tiles level.
+Das ist keine völlig fehlerfreie Lösung. In diesem Fall müssen Sie zusätzliche Kachelkreuzabstandhalter verwenden, was mehr Zeit in Anspruch nimmt und für unerfahrene Anwender schwierig sein kann. Außerdem müssen die Klammern nach dem Nivellieren der Fliesen nach einigen Stunden entfernt werden. Dies könnte das Niveau der Kacheln ruinieren.
 
-{% fig %}
+![Ein wiederverwendbares Fliesen-Nivelliersystem](/uploads/system_poziomowania_ranking_3.jpg "Ein wiederverwendbares Fliesen-Nivelliersystem")
 
-![A reusable tile leveling system](/uploads/system_poziomowania_ranking_3.jpg "A reusable tile leveling system")
+## Ein Fliesen-Nivelliersystem - Einweg oder wiederverwendbar?
 
-{% endfig %}
-
-## A tile leveling system - single-use or reusable?
-
-A tile leveling system which uses clips and wedges might be partially reused. The clips are single-use elements. You can, however, **reuse the wedges**. It's a common solution among experts, who can save a lot by buying only the missing clips.
+Ein Fliesen-Nivelliersystem, das Klammern und Keile verwendet, kann teilweise wiederverwendet werden. Die Clips sind Einwegelemente. Sie können **die Keile jedoch wiederverwenden**. Dies ist eine unter Experten übliche Lösung, die viel sparen können, wenn sie nur die fehlenden Clips kaufen.
 
 {:.distinction.distinction-warning}
 
-It's important to control the condition of the wedges. After several uses they might get worn - it can be judged by the state of the bumps that hold the wedge in a clip. If you noticed such an occurrence - you might decide to buy new wedges.
+Es ist wichtig, den Zustand der Keile zu kontrollieren. Nach mehrmaligem Gebrauch können sie abgenutzt werden - dies kann anhand des Zustands der Beulen beurteilt werden, die den Keil in einem Clip halten. Wenn Ihnen ein solcher Vorfall aufgefallen ist, könnten Sie sich entscheiden, neue Keile zu kaufen.
 
-**A great advantage of a reusable tile leveling system is definitely the fact that it can be used many times, which can save some money.** Nevertheless, many users claim that using it is far less convenient. The necessity to use cross spacers is a great disadvantage. It not only makes the work longer for experts, but for unexperienced users it also might be quite problematic.
+**Ein großer Vorteil eines wiederverwendbaren Fliesen-Nivelliersystems ist sicherlich die Tatsache, dass es viele Male verwendet werden kann, was etwas Geld sparen kann.** Nichtsdestotrotz behaupten viele Anwender, dass die Anwendung weit weniger komfortabel ist. Die Notwendigkeit, Querabstandhalter zu verwenden, ist ein großer Nachteil. Es macht nicht nur die Arbeit für Experten länger, sondern kann auch für unerfahrene Anwender recht problematisch sein.
 
-## How to choose a tile leveling system?
+## Wie wählt man ein Fliesen-Nivelliersystem aus?
 
-Quality is definitely the most important aspect when choosing a tile leveling system. **Material of the elements is quite significant.** A durable, damage-resistant material used for production guarantees the stability of the tiles, hence it's a crucial matter.
+Qualität ist definitiv der wichtigste Aspekt bei der Wahl eines Fliesen-Nivelliersystems. Das **Material der Elemente ist sehr wichtig**. Ein haltbares, beschädigungsresistentes Material, das für die Produktion verwendet wird, garantiert die Stabilität der Fliesen, daher ist es eine entscheidende Angelegenheit.
 
-There is also another aspect of great significance for systems with clips and wedges - whether the **manufacturer offers a possibility to buy each of those elements later, separately**. It's crucial especially for professionals who use the same wedges many times.
+Es gibt noch einen weiteren Aspekt, der bei Systemen mit Klammern und Keilen von großer Bedeutung ist - ob der Hersteller die Möglichkeit bietet, jedes dieser Elemente später einzeln zu kaufen. Das ist vor allem für Profis wichtig, die die gleichen Keile mehrmals verwenden.
 
-The price of a set is, of course also very important. Calculate how many elements you can buy for a given price and check whether the manufacturer offers sets with additional equipment like pliers for pressing wedges to tiles. It's a good way to catch great offers that are worth investing.
+Der Preis eines Sets ist natürlich auch sehr wichtig. Berechnen Sie, wie viele Elemente Sie zu einem bestimmten Preis kaufen können, und prüfen Sie, ob der **Hersteller Sets mit Zusatzausrüstung wie Zangen zum Pressen** von Keilen an Fliesen anbietet. Das ist ein guter Weg, um tolle Angebote zu erhalten, die eine Investition wert sind.
