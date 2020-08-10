@@ -99,7 +99,6 @@ Beachten Sie, dass es keine Rolle spielt, welche Art von Fliesen Sie verwenden. 
 * Granit,
 * Stein.
 
-  
 ![Wo können Sie ein Fliesen-Nivelliersystem einsetzen?](/uploads/system-poziomowania-plytek-top3.jpg "Wo können Sie ein Fliesen-Nivelliersystem einsetzen?")
 
 ## Lohnt sich ein Fliesen-Nivelliersystem? Vorteile der Lösung
