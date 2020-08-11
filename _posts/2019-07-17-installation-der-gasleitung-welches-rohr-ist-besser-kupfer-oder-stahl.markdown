@@ -67,6 +67,26 @@ Kupfergasinstallationen sind dicht und resistent gegen verschiedene Faktoren, wi
 
 Kupferrohre, die bei der Installation von Gasleitungen im Haushalt verwendet werden, sind ziemlich widerstandsfähig. Ihre Wände sind typischerweise über 1 mm dick. Deshalb können die Rohre durch Hartlöten sehr effektiv verbunden werden. Sie sollten nicht versuchen, ein Gasrohr selbst zu löten - überlassen Sie das einem Fachmann. Eine andere Methode ist die Verwendung von Klemmverschraubungen. Die Montage solcher Rohre ist sehr einfach und sollte für einen Fachmann kein Problem darstellen. Diese Tatsache trägt wesentlich zur Senkung der Kosten für die Montage der Installation bei.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %} 
+{% assign productlink = "https://www.ebay.de/itm/Pressfitting-Ubergangsnippel-Ubergangsmuffe-Kupplung-Aluverbundrohr-PEX-16-32/401785988273?hash=item5d8c4fa4b1:g:G90AAOSwGnpd7gas" %} 
+{% assign productphoto = "../uploads/pex_zlaczka.jpg" %} 
+{% assign productname = "Aluverbundrohr PEX" %} 
+{% assign productprice = "EUR 1,29" %} 
+{% assign productdesc = "Beständig gegen Beschädigung, Feuchtigkeit, Korrosion und hohe Temperaturen" %} 
+{% include product.html %}
+  
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Pressfitting-Bogen-Deckenwinkel-AG-IG-Aluverbundrohr-PEX-16-32-U-Profil/401786132711?hash=item5d8c51d8e7:g:Rp0AAOSwNT9dA5DX" %}
+{% assign productphoto = "../uploads/kolano_pex.jpg" %}
+{% assign productname = "Pressfitting Bogen PEX" %}
+{% assign productprice = "EUR 1,79" %}
+{% assign productdesc = "Widerstandsfähigkeit gegen mechanische Beschädigung und schädliche äußere Einflüsse" %}  
+{% include product.html %}
+
+</div></div>
+
 ![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
 
 ## Was sind die Vorteile von Stahlrohren?
@@ -82,6 +102,26 @@ Im Vergleich zu Kupferrohren nimmt der Prozess des Verbindens von Stahlrohren vi
 ### Lebensdauer der Rohre
 
 Sowohl Kupfer- als auch Stahlrohre können sehr lange halten, von 20 bis 50 Jahren und in einigen Fällen sogar noch länger. Diese Materialien werden oft durch PVC-Rohre (Polyvinylchlorid) ersetzt, doch ihre Lebensdauer ist umstritten. Sie werden jedoch nicht für Gasinstallationen verwendet.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %} 
+{% assign productlink = "https://www.ebay.de/itm/Messing-Muffe-Gewindmuffe-Fitting-Gewindefitting-Varianten-IG-1-2-3-4/401809894014?hash=item5d8dbc6a7e:g:vtIAAOSwgGJdsrUn" %} 
+{% assign productphoto = "../uploads/mufa_mosiezna.jpg" %} 
+{% assign productname = "Messing Muffe" %} 
+{% assign productprice = "EUR 1,99" %} 
+{% assign productdesc = "Ausgezeichnete Dichtheit der Installation, Korrosionsbeständigkeit" %} 
+{% include product.html %}
+  
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Messing-T-Stuck-reduziert-Fitting-Gewindefitting-Heizkreisverteiler/401820475282?hash=item5d8e5ddf92:g:9ccAAOSwjJdd0qYq&var=671640455468" %}
+{% assign productphoto = "../uploads/trojnik_gaz.jpg" %}
+{% assign productname = "Messing T-Stück reduziert" %}
+{% assign productprice = "EUR 2,99" %}
+{% assign productdesc = "Beständig gegen mechanische Beschädigung, Feuchtigkeit, Korrosion und Temperaturschwankungen" %}  
+{% include product.html %}
+
+</div></div>
 
 ## Installation von Gasleitungen - Kupfer- oder Stahlrohre?
 
