@@ -80,6 +80,26 @@ Ein Gewindeanschluss besteht aus den folgenden Elementen:
 
 Rohrverschraubungen mit Gewinde haben eine Gewindemutter, die vom dielektrischen Abstandhalter abgedreht werden muss. Dann wird die Mutter und der Spannring auf das Rohr aufgesetzt. Das Rohr sollte im Inneren des Rohrs platziert und fest angedrückt werden, um alle Zwischenräume zwischen den beiden Elementen zu beseitigen (das Rohr sollte im 90-Grad-Winkel geschnitten werden). Wenn sich das Rohr innerhalb des Rohrs befindet, sollte die Mutter mit den Händen so fest wie möglich geschraubt und dann mit einem Schraubenschlüssel befestigt werden. Achten Sie darauf, die Mutter nicht zu fest anzuziehen, da dies sowohl das Fitting als auch das Rohr beschädigen könnte.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %} 
+{% assign productlink = "https://www.ebay.de/itm/Pressfitting-Bogen-Deckenwinkel-AG-IG-Aluverbundrohr-PEX-16-32-U-Profil/401786132711?hash=item5d8c51d8e7:g:Rp0AAOSwNT9dA5DX" %} 
+{% assign productphoto = "../uploads/kolanko_pex_2.jpg" %} 
+{% assign productname = "Pressfitting Bogen" %} 
+{% assign productprice = "EUR 1,79" %} 
+{% assign productdesc = "Garantiert eine einwandfreie Dichtheit der Installation" %} 
+{% include product.html %}
+  
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Klemmring-Schraubfitting-T-Stuck-fur-Aluverbundrohr-PEX-Varianten-16-32/401785936120?hash=item5d8c4ed8f8:g:5goAAOSwAz9dA08p" %}
+{% assign productphoto = "../uploads/zlaczka_trojnik.jpg" %}
+{% assign productname = "Schraubfitting T-Stück PEX" %}
+{% assign productprice = "EUR 2,69" %}
+{% assign productdesc = "Wird für den Bau oder die Reparatur von Kalt-/Warmwasserinstallationen verwendet" %}  
+{% include product.html %}
+
+</div></div>
+
 ### Pressfitting
 
 ![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
@@ -95,11 +115,51 @@ Es gibt mehrere Elemente in Pressrohrfittings:
 
 Bei der Installation von Rohrformstücken dieser Art wird die Spannhülse direkt auf das Rohr gesteckt (ohne Demontage). Spezielle Spalten, die sich im Rohr befinden, werden verwendet, um sicherzustellen, dass das Rohr tief genug platziert wurde. Zur Fixierung des Fittings wird ein spezielles mechanisches Presswerkzeug verwendet, was der Hauptunterschied zwischen den beiden Typen ist. Das Werkzeug wird auf das Rohr aufgesetzt und eingeschaltet. Nach einigen Sekunden ist ein charakteristisches Geräusch zu hören - das bedeutet, dass das Fitting richtig mit dem Rohr verbunden wurde.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %} 
+{% assign productlink = "https://www.ebay.de/itm/Messing-Doppelnippel-Nippel-Gewindefitting-AG-Verschraubung-Rohrnippel-Varianten/401795379930?var=671602697558&hash=item5d8cdef2da:g:J7QAAOSwGshdsrT1" %} 
+{% assign productphoto = "../uploads/nypel.jpg" %} 
+{% assign productname = "Messing Doppelnippel" %} 
+{% assign productprice = "EUR 1,19" %} 
+{% assign productdesc = "Es wird in Wassersystemen und Zentralheizungssystemen verwendet" %} 
+{% include product.html %}
+  
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Messing-Reduziermuffe-Fitting-Gewindefitting-Varianten-3-8-1-2-3-4-1/401810141158?var=671628318530&hash=item5d8dc02fe6:g:v0oAAOSwgGJdsrYU" %}
+{% assign productphoto = "../uploads/redukcja.jpg" %}
+{% assign productname = "Messing Reduziermuffe" %}
+{% assign productprice = "EUR 1,59" %}
+{% assign productdesc = "Wird in Zentralheizungsanlagen verwendet" %} 
+{% include product.html %}
+
+</div></div>
+
 ## Rohrformstücke - Hauptunterschiede
 
 Wie in den obigen Beschreibungen dargelegt, liegt der Hauptunterschied zwischen den beiden Systemen in der Installationsmethode. Gewindefittings sind einfacher zu installieren und erfordern kein Spezialwerkzeug. Rohrfittings mit Gewinde sind auch billiger als die anderen (obwohl der Preisunterschied relativ gering ist). Ein zusätzlicher Vorteil ist die Tatsache, dass das Fitting nach der Installation leicht demontiert werden kann.
 
 Es gibt jedoch gewisse Einschränkungen. Es kann vorkommen, dass nach der Demontage des Fittings der Spannring ersetzt werden muss. Ein weiterer Nachteil ist, dass die Armatur nach dem Einbau nicht bewegt werden kann, da sie undicht werden könnte. Besonders problematisch ist dies bei Krümmern, da diese in einem bestimmten Winkel positioniert werden müssen.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %} 
+{% assign productlink = "https://www.ebay.de/itm/Gewinde-Fitting-verzinkt-Sortiment-Temperguss-Doppelnippel-Nippel-Fittings/402105037293?hash=item5d9f53f1ed:g:WZ0AAOSwE-VeciwJ" %} 
+{% assign productphoto = "../uploads/nypel_cynkowany.jpg" %} 
+{% assign productname = "Reduziernippel aus verzinktem Gusseisen" %} 
+{% assign productprice = "EUR 1,50" %} 
+{% assign productdesc = "Wird für Zentralheizung sowie Warm- und Kaltwasserinstallationen verwendet" %} 
+{% include product.html %}
+  
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Gewinde-Fitting-verzinkt-Sortiment-Temperguss-Verschraubung-Fittings-IG/402105037332?hash=item5d9f53f214:g:ilEAAOSw6~dfLH4V" %}
+{% assign productphoto = "../uploads/product_srubunek_zeliwny_ocynkowany_6-4___5.jpg" %}
+{% assign productname = "Temperguss Verschraubung" %}
+{% assign productprice = "EUR 2,80" %}
+{% assign productdesc = "Es wird in Heizungs- und Wassersystemen verwendet" %}  
+{% include product.html %}
+
+</div></div>
 
 Pressrohrfittings sind etwas teurer. Die Verwendung eines mechanischen Presswerkzeuges ist eine sicherere Installationsmethode (es ist einfach, ein Gewindefitting zu fest anzuziehen). Pressrohrfittings (insbesondere Bögen und T-Stücke) können nach der Installation verschoben werden. Das bedeutet, dass sie leicht an das nächste Element angepasst werden können, ohne dass die Gefahr einer Beschädigung besteht. Außerdem können sie in Beton verlegt werden, da sie haltbarer und stabiler sind.
 
