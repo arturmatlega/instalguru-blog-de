@@ -66,34 +66,6 @@ Eines der wichtigsten Probleme bei der Wahl des richtigen Toilettensitzes ist se
 
 In einem solchen Fall kann man den alten Sitz einfach in das Geschäft mitnehmen und einem Verkäufer zeigen. Bei der Auswahl eines Sitzes für eine neue Toilette müssen Sie jedoch sorgfältig die Länge und Breite sowie die Scharniere in der Toilette messen. Sie können auch sowohl die Toilette als auch den Sitz an einem Ort kaufen, um sicherzustellen, dass sie perfekt zusammenpassen.
 
-<div class="products-wrapper"><div class="products-container">
-
-{% assign producttype ="normal" %}  
-{% assign productlink = "https://instalguru.com/pl/products/deska-sedesowa-badi" %}  
-{% assign productphoto = "../uploads/se020204014.jpg" %}  
-{% assign productname = "Deska sedesowa Badi" %}  
-{% assign productprice = "37,99 zł" %}  
-{% assign productdesc = "Wyprodukowana w polsce przez firmę Inter-Sano" %}  
-{% include product.html %}
-
-{% assign producttype ="promoted" %}  
-{% assign productlink = "https://instalguru.com/pl/products/deska-sedesowa-wolnoopadajaca-klik-klak" %}  
-{% assign productphoto = "../uploads/se020204016.jpg" %}  
-{% assign productname = "Deska sedesowa wolnoopadająca Klik-Klak" %}  
-{% assign productprice = "56,00 zł" %}  
-{% assign productdesc = "Wyprodukowana przez firmę Hydroland" %}  
-{% include product.html %}
-
-{% assign producttype ="normal" %}  
-{% assign productlink = "https://instalguru.com/pl/products/deska-duroplastowa-wolnoopadajaca-d2-z-siedziskiem-dla-dziecka" %}  
-{% assign productphoto = "../uploads/se020204019.jpg" %}  
-{% assign productname = "Deska duroplastowa wolnoopadająca D2" %}  
-{% assign productprice = "91,99 zł" %}  
-{% assign productdesc = "Wyposażona w siedzisko dla dziecka" %}  
-{% include product.html %}
-
-</div></div>
-
 ## Das beste Toilettensitzmaterial - welches soll man wählen?
 
 Die Hersteller bieten mehrere Lösungen an, wenn es um Materialien für Toilettensitze geht. Die am häufigsten verwendete ist Polypropylen, manchmal auch Weichplastik genannt. Einer seiner größten Vorteile ist der niedrige Preis. Toilettensitze aus Polypropylen sind leicht und recht elastisch. Sie sind jedoch auch recht anfällig für Beschädigungen. Solche Toilettensitze sind leicht zu zerkratzen und zu zerbrechen. Elemente aus Polypropylen können auch ihre Form verlieren, wenn sie zu intensiv benutzt werden.
