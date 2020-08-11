@@ -57,6 +57,26 @@ Wichtig Eine der einfachsten Methoden ist die Verwendung von Backpulver, Essig u
 
 Wenn die Hausmittel nicht wirken, versuchen Sie es mit verfügbaren Chemikalien, die Sie in jedem Supermarkt kaufen können. Sie sollten den unangenehmen Geruch aus Ihrer Spüle wirksamer entfernen. Beide der oben genannten Methoden können von Zeit zu Zeit zur Vorbeugung eingesetzt werden, zum Beispiel einmal im Monat. Dies verringert sicherlich das Risiko, dass Ihr Waschbecken verstopft, und verhindert, dass der Geruch auftritt.
 
+<div class="products-wrapper"><div class="products-container">
+ 
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Metallsieb-fur-die-Waschbecken-Kuchenspule-Siebkorb-mit-Griff-Edelstahl-Chrom/401812391338?hash=item5d8de285aa:g:p08AAOSw6NVd3940&var=671630397242" %}
+{% assign productphoto = "../uploads/sitko.jpg" %}
+{% assign productname = "Metallsieb  mit Griff" %}
+{% assign productprice = "EUR 2,29" %}
+{% assign productdesc = "Das Grundelement jedes Waschbeckens" %}  
+{% include product.html %}
+  
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Kunststoff-Siphon-fur-Waschbecken-Waschtisch-Metallsieb-Ausfluss-Abfluss-NEU/401797232397?hash=item5d8cfb370d:g:dIkAAOSweEFeOp0e&var=671605719309" %}
+{% assign productphoto = "../uploads/syfon_plastikowy.jpg" %}
+{% assign productname = "Kunststoff Siphon für Waschbecken" %}
+{% assign productprice = "EUR 3,49" %}
+{% assign productdesc = "Passt in jedes Badezimmer und gehört zur Standardausrüstung" %}  
+{% include product.html %}
+
+</div></div>
+
 ## Wie wird man den Geruch aus dem Waschbecken los?
 
 Eine recht wirksame Methode zur Beseitigung eines schlechten Geruchs aus einem Badezimmer- oder Küchenspülbecken ist die Verwendung von Salz. Geben Sie einfach 3-4 Esslöffel Salz in den Abfluss und lassen Sie es für eine halbe Stunde stehen. Dann spülen Sie es gründlich mit kaltem Wasser ab.
