@@ -58,8 +58,16 @@ Wichtig Eine der einfachsten Methoden ist die Verwendung von Backpulver, Essig u
 Wenn die Hausmittel nicht wirken, versuchen Sie es mit verfügbaren Chemikalien, die Sie in jedem Supermarkt kaufen können. Sie sollten den unangenehmen Geruch aus Ihrer Spüle wirksamer entfernen. Beide der oben genannten Methoden können von Zeit zu Zeit zur Vorbeugung eingesetzt werden, zum Beispiel einmal im Monat. Dies verringert sicherlich das Risiko, dass Ihr Waschbecken verstopft, und verhindert, dass der Geruch auftritt.
 
 <div class="products-wrapper"><div class="products-container">
- 
+  
 {% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Siebkorbventil-3-5-Metallsieb-fur-die-Spule-Ablaufgarnitur-Siebkorbventil/401811206498?hash=item5d8dd07162:g:u9AAAOSwc7td4QOH&var=671629336113" %}
+{% assign productphoto = "../uploads/sitko-metalowe.jpg" %}
+{% assign productname = "Metallsieb für die Spüle" %}
+{% assign productprice = "EUR 5,99" %}
+{% assign productdesc = "Effektive Beseitigung von Verschmutzung" %}  
+{% include product.html %}
+ 
+{% assign producttype ="normal" %}
 {% assign productlink = "https://www.ebay.de/itm/Metallsieb-fur-die-Waschbecken-Kuchenspule-Siebkorb-mit-Griff-Edelstahl-Chrom/401812391338?hash=item5d8de285aa:g:p08AAOSw6NVd3940&var=671630397242" %}
 {% assign productphoto = "../uploads/sitko.jpg" %}
 {% assign productname = "Metallsieb  mit Griff" %}
