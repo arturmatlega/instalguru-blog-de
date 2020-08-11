@@ -61,7 +61,7 @@ Wenn die Hausmittel nicht wirken, versuchen Sie es mit verfügbaren Chemikalien,
   
 {% assign producttype ="promoted" %}
 {% assign productlink = "https://www.ebay.de/itm/Siebkorbventil-3-5-Metallsieb-fur-die-Spule-Ablaufgarnitur-Siebkorbventil/401811206498?hash=item5d8dd07162:g:u9AAAOSwc7td4QOH&var=671629336113" %}
-{% assign productphoto = "../uploads/sitko-metalowe.jpg" %}
+{% assign productphoto = "../uploads/syfon_sitko.jpg" %}
 {% assign productname = "Metallsieb für die Spüle" %}
 {% assign productprice = "EUR 5,99" %}
 {% assign productdesc = "Effektive Beseitigung von Verschmutzung" %}  
