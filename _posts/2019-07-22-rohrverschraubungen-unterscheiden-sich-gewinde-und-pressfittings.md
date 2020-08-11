@@ -82,14 +82,14 @@ Rohrverschraubungen mit Gewinde haben eine Gewindemutter, die vom dielektrischen
 
 <div class="products-wrapper"><div class="products-container">
 
-{% assign producttype ="promoted" %} 
-{% assign productlink = "https://www.ebay.de/itm/Pressfitting-Bogen-Deckenwinkel-AG-IG-Aluverbundrohr-PEX-16-32-U-Profil/401786132711?hash=item5d8c51d8e7:g:Rp0AAOSwNT9dA5DX" %} 
-{% assign productphoto = "../uploads/kolanko_pex_2.jpg" %} 
-{% assign productname = "Pressfitting Bogen" %} 
-{% assign productprice = "EUR 1,79" %} 
-{% assign productdesc = "Garantiert eine einwandfreie Dichtheit der Installation" %} 
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Pressfitting-Bogen-Deckenwinkel-AG-IG-Aluverbundrohr-PEX-16-32-U-Profil/401786132711?hash=item5d8c51d8e7:g:Rp0AAOSwNT9dA5DX" %}
+{% assign productphoto = "../uploads/kolanko_pex_2.jpg" %}
+{% assign productname = "Pressfitting Bogen" %}
+{% assign productprice = "EUR 1,79" %}
+{% assign productdesc = "Garantiert eine einwandfreie Dichtheit der Installation" %}
 {% include product.html %}
-  
+
 {% assign producttype ="normal" %}
 {% assign productlink = "https://www.ebay.de/itm/Klemmring-Schraubfitting-T-Stuck-fur-Aluverbundrohr-PEX-Varianten-16-32/401785936120?hash=item5d8c4ed8f8:g:5goAAOSwAz9dA08p" %}
 {% assign productphoto = "../uploads/zlaczka_trojnik.jpg" %}
@@ -117,20 +117,20 @@ Bei der Installation von Rohrformstücken dieser Art wird die Spannhülse direkt
 
 <div class="products-wrapper"><div class="products-container">
 
-{% assign producttype ="normal" %} 
-{% assign productlink = "https://www.ebay.de/itm/Messing-Doppelnippel-Nippel-Gewindefitting-AG-Verschraubung-Rohrnippel-Varianten/401795379930?var=671602697558&hash=item5d8cdef2da:g:J7QAAOSwGshdsrT1" %} 
-{% assign productphoto = "../uploads/nypel.jpg" %} 
-{% assign productname = "Messing Doppelnippel" %} 
-{% assign productprice = "EUR 1,19" %} 
-{% assign productdesc = "Es wird in Wassersystemen und Zentralheizungssystemen verwendet" %} 
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Messing-Doppelnippel-Nippel-Gewindefitting-AG-Verschraubung-Rohrnippel-Varianten/401795379930?var=671602697558&hash=item5d8cdef2da:g:J7QAAOSwGshdsrT1" %}
+{% assign productphoto = "../uploads/nypel.jpg" %}
+{% assign productname = "Messing Doppelnippel" %}
+{% assign productprice = "EUR 1,19" %}
+{% assign productdesc = "Es wird in Wassersystemen und Zentralheizungssystemen verwendet" %}
 {% include product.html %}
-  
+
 {% assign producttype ="promoted" %}
 {% assign productlink = "https://www.ebay.de/itm/Messing-Reduziermuffe-Fitting-Gewindefitting-Varianten-3-8-1-2-3-4-1/401810141158?var=671628318530&hash=item5d8dc02fe6:g:v0oAAOSwgGJdsrYU" %}
 {% assign productphoto = "../uploads/redukcja.jpg" %}
 {% assign productname = "Messing Reduziermuffe" %}
 {% assign productprice = "EUR 1,59" %}
-{% assign productdesc = "Wird in Zentralheizungsanlagen verwendet" %} 
+{% assign productdesc = "Wird in Zentralheizungsanlagen verwendet" %}
 {% include product.html %}
 
 </div></div>
@@ -143,17 +143,17 @@ Es gibt jedoch gewisse Einschränkungen. Es kann vorkommen, dass nach der Demont
 
 <div class="products-wrapper"><div class="products-container">
 
-{% assign producttype ="normal" %} 
-{% assign productlink = "https://www.ebay.de/itm/Gewinde-Fitting-verzinkt-Sortiment-Temperguss-Doppelnippel-Nippel-Fittings/402105037293?hash=item5d9f53f1ed:g:WZ0AAOSwE-VeciwJ" %} 
-{% assign productphoto = "../uploads/nypel_cynkowany.jpg" %} 
-{% assign productname = "Reduziernippel aus verzinktem Gusseisen" %} 
-{% assign productprice = "EUR 1,50" %} 
-{% assign productdesc = "Wird für Zentralheizung sowie Warm- und Kaltwasserinstallationen verwendet" %} 
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Gewinde-Fitting-verzinkt-Sortiment-Temperguss-Doppelnippel-Nippel-Fittings/402105037293?hash=item5d9f53f1ed:g:WZ0AAOSwE-VeciwJ" %}
+{% assign productphoto = "../uploads/nypel_cynkowany.jpg" %}
+{% assign productname = "Reduziernippel aus verzinktem Gusseisen" %}
+{% assign productprice = "EUR 1,50" %}
+{% assign productdesc = "Wird für Zentralheizung sowie Warm- und Kaltwasserinstallationen verwendet" %}
 {% include product.html %}
-  
+
 {% assign producttype ="promoted" %}
-{% assign productlink = "https://www.ebay.de/itm/Gewinde-Fitting-verzinkt-Sortiment-Temperguss-Verschraubung-Fittings-IG/402105037332?hash=item5d9f53f214:g:ilEAAOSw6~dfLH4V" %}
-{% assign productphoto = "../uploads/product_srubunek_zeliwny_ocynkowany_6-4___5.jpg" %}
+{% assign productlink = "https://www.ebay.de/itm/Gewinde-Fitting-verzinkt-Sortiment-Temperguss-Verschraubung-Fittings-IG/402105037332?hash=item5d9f53f214:g:ilEAAOSw6\~dfLH4V" %}
+{% assign productphoto = "../uploads/srubunek_cynk.jpg" %}
 {% assign productname = "Temperguss Verschraubung" %}
 {% assign productprice = "EUR 2,80" %}
 {% assign productdesc = "Es wird in Heizungs- und Wassersystemen verwendet" %}  
