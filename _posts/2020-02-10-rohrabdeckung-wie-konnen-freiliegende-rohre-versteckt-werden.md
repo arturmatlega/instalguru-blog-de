@@ -3,6 +3,9 @@ layout: post
 seo_title: Rohrabdeckung, Rohrdurchführung? Wie kann man freiliegende Rohre verbergen?
 seo_description: "Sie möchten Ihr Haus verschönern? \U0001F3E1 Blenden Sie die Installationsrohre
   aus! \U0001F6E0️ Untersuchen Sie 5 Möglichkeiten zum Ausblenden von Rohren."
+main_keywords:
+  - Rohrabdeckung
+  - Rohrkasten
 date: 2020-02-10T11:00:00.000+00:00
 update_date: 2020-02-10T11:00:00.000+00:00
 title: Rohrabdeckung - wie können freiliegende Rohre versteckt werden?

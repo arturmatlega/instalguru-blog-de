@@ -3,6 +3,15 @@ layout: post
 seo_title: Auswahl des Toilettensitzbezugs. Die wichtigsten Punkte
 seo_description: "Welche Funktionen sollte ein Toilettensitz haben? \U0001F6BD Welche
   Parameter sind am wichtigsten? \U0001F44C Sehen Sie sich die praktischen Tipps an."
+main_keywords:
+  - Toilettensitz
+  - Bidet-Toilettensitz
+  - Toilettensitzerhöhung
+  - erhöhter Toilettensitz
+  - Toilettensitzbezüge
+  - Toilettensitzgrößen
+  - bester Toilettensitz
+  - Toilettensitz langsam schließen
 date: 2020-01-09T11:00:00.000+00:00
 update_date: 2020-01-09T11:00:00.000+00:00
 title: Wie wählt man den richtigen Toilettensitzbezug aus?

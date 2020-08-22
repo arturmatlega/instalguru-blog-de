@@ -3,6 +3,16 @@ layout: post
 seo_title: Belüftung - welche Arten von Belüftungssystemen gibt es?
 seo_description: Die Belüftung ist eines der wichtigsten Elemente jeder Wohnung und
   jedes Büros. Wie baut man ein gutes Belüftungssystem, das Ihr Zuhause frisch macht?
+main_keywords:
+  - Lüftung
+  - frisch nach Hause
+  - belüften
+  - belüftet
+  - Lüftungsanlage
+  - Beatmungsgeräte
+  - Was ist Belüftung?
+  - natürliche Belüftung
+  - Heimbeatmungsgerät
 date: 2019-12-23T11:00:00.000+00:00
 update_date: 2019-12-23T11:00:00.000+00:00
 title: Was ist Beatmung? Arten von Belüftungssystemen

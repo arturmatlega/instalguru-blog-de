@@ -3,6 +3,12 @@ layout: post
 seo_title: Badezimmer-Accessoires. Wie installiert man Badmöbel?
 seo_description: "Sie fragen sich, wie man ein Waschbecken installiert? \U0001F50D
   Es ist sehr einfach. \U0001F6BF Entdecken Sie das Geheimnis eines funktionalen Badezimmers."
+main_keywords:
+  - Badezimmer-Accessoires
+  - Sanitär
+  - Badmöbel
+  - Sanitäranlagen
+  - Sanitärwaren
 date: 2020-01-21T11:00:00.000+00:00
 update_date: 2020-01-21T11:00:00.000+00:00
 title: Installation von Badezimmerzubehör.

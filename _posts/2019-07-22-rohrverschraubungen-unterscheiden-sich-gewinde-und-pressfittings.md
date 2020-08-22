@@ -3,6 +3,13 @@ layout: post
 seo_title: 'Rohrverschraubungen: unterscheiden sich Gewinde - und Pressfittings?'
 seo_description: "Planen Sie eine Hausrenovierung? \U0001F3E0 \U0001F449 Lernen Sie
   den Unterschied zwischen Gewinde- und Pressfittings kennen."
+main_keywords:
+  - pex-Armaturen
+  - Rohrformstücke
+  - PVC-Rohrformstücke
+  - Hydraulikanschlüsse
+  - Kupferfittings
+  - pex-Rohrformstücke
 date: 2019-07-22T22:00:00.000+00:00
 update_date: 2019-07-22T22:00:00.000+00:00
 title: 'Rohrverschraubungen: unterscheiden sich Gewinde - und Pressfittings?'

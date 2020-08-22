@@ -4,6 +4,10 @@ seo_title: Installation der Gasleitung. Welches Rohr ist besser - Kupfer oder St
 seo_description: "Planen Sie die Installation von Gasarmaturen bei Ihnen zu Hause?
   ✔️ Welcher Rohrtyp ist für Ihre Rohrleitungen besser geeignet - Kupfer \U0001F19A
   Stahl? "
+main_keywords:
+  - Pfeifenwerk
+  - Installation der Gasleitung
+  - Rohrleitungsmaterialien
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
 title: Welches Gasrohr ist besser - Kupfer oder Stahl?
