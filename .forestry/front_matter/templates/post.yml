@@ -22,6 +22,10 @@ fields:
 - type: textarea
   name: title
   label: Tytuł
+- name: main_keywords
+  type: tag_list
+  default: []
+  label: Słowa kluczowe
 - type: textarea
   name: small-intro
   label: Wstęp (listing)
@@ -76,5 +80,4 @@ pages:
 - _posts/2020-01-21-installation-von-badezimmerzubehor..md
 - _posts/2020-02-10-rohrabdeckung-wie-konnen-freiliegende-rohre-versteckt-werden.md
 - _posts/2020-07-29-was-ist-ein-tropfbewasserungssystem-wie-wird-es-installiert.md
-- _posts/2020-07-30-beheizte-fusboden-welche-art-von-fusbodenheizung-ist-die-beste.md
 - _posts/2020-08-10-welches-fliesen-nivelliersystem-ist-das-beste-top-3-produkte.md
