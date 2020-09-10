@@ -106,6 +106,33 @@ Alles, was Sie brauchen, ist:
 
 Nach der Reinigung der Oberfläche einen Schnitt auf einer Seite der Versiegelung vornehmen. Ziehen Sie die Klinge der Länge nach - tun Sie dies langsam, um die Oberfläche nicht zu beschädigen! Schneiden Sie nicht durch die Dichtungsmasse. **Sie brauchen nur das Silikon zu lösen**. Wiederholen Sie dies für jede Ecke mit der Silikon. Greifen Sie dann einfach ein Ende und ziehen Sie vorsichtig daran. Die Dichtungsmasse sollte sich fast in einem Stück lösen.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Haushaltshandschuhe-Gummihandschuhe-Putzhandschuhe-Garten-Grosen-M-L-Latex/402254132170?hash=item5da836f3ca:g:l6kAAOSwLURespVW" %}
+{% assign productphoto = "../uploads/rekawice_gospodarcze.png" %}
+{% assign productname = "Haushaltshandschuhe" %}
+{% assign productprice = "EUR 1,80" %}
+{% assign productdesc = "Wirksamer Handschutz - chemisch und bakteriologisch" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Malerband-50-m-Malerkrepp-30-48-mm-Abdeckband-Kreppband-Abklebeband-Klebeband/402200862906?var=672126349951&hash=item5da50a20ba:g:jt0AAOSwHwVekFG-" %}
+{% assign productphoto = "../uploads/tasma_blue.jpg" %}
+{% assign productname = "Malerband" %}
+{% assign productprice = "EUR 4,50" %}
+{% assign productdesc = "Schutz der Oberfläche gegen Farben und andere Mittel" %}{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Tapetenmesser-Cuttermesser-Teppich-18-mm-kunststoff-Teppichmesser/402241830260?hash=item5da77b3d74:g:aWsAAOSwKaVfMgpW" %}
+{% assign productphoto = "../uploads/noz_tapet.jpg" %}
+{% assign productname = "Tapetenmesser 18 mm" %}
+{% assign productprice = "EUR 2,70" %}
+{% assign productdesc = "Eine Klinge zum Entfernen verschiedener Substanzen von der Oberfläche" %}
+{% include product.html %}
+
+</div></div>
+
 ### Wie entfernt man Siliko, die abgebrochen sind und an der Oberfläche geblieben sind?
 
 Verteilen Sie das Fett auf eventuelle Reste der Silikon. Warten Sie einige Zeit, bis das Silikon das Öl absorbiert hat, und kratzen Sie es dann mit einem trockenen Schwamm oder einem Tuch ab. Da diese Methode die Oberfläche sehr ölig macht, muss sie entfettet werden, bevor eine neue Schicht Versiegelung aufgetragen wird. Verwenden Sie dazu ein Reinigungsmittel.
