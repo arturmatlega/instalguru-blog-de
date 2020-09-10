@@ -110,7 +110,7 @@ Nach der Reinigung der Oberfläche einen Schnitt auf einer Seite der Versiegelun
 
 Verteilen Sie das Fett auf eventuelle Reste der Silikon. Warten Sie einige Zeit, bis das Silikon das Öl absorbiert hat, und kratzen Sie es dann mit einem trockenen Schwamm oder einem Tuch ab. Da diese Methode die Oberfläche sehr ölig macht, muss sie entfettet werden, bevor eine neue Schicht Versiegelung aufgetragen wird. Verwenden Sie dazu ein Reinigungsmittel.
 
-![](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg)
+![Wie entfernt man Siliko, die abgebrochen sind und an der Oberfläche geblieben sind?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg "Wie entfernt man Siliko, die abgebrochen sind und an der Oberfläche geblieben sind?")
 
 ## Wie entfernt man Silikon von Kleidung, Holz, Händen? Temperatur verwenden
 
