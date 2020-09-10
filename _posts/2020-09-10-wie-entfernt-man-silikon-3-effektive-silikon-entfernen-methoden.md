@@ -57,6 +57,18 @@ author_desc: Spezialist für Vertrieb und Kundenbetreuung bei Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
+- lang: fr
+  link: ''
+- lang: it
+  link: ''
+- lang: es
+  link: ''
+- lang: cs
+  link: ''
+- lang: de
+  link: ''
+- lang: en
+  link: ''
 - lang: pl
   link: https://instalguru.pl/blog/jak-usunac-silikon-3-skuteczne-sposoby-na-usuwanie-silikonu.html
 
