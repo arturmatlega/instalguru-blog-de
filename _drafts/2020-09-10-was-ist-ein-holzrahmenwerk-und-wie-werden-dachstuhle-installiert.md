@@ -95,6 +95,32 @@ Beim Bau von Dachstühlen und Fachwerk werden verschiedene Konstruktionsbalken m
 
 Vorgefertigte Dachbinder werden mit speziellen Nagelplatten verbunden. Solche Dächer werden in der Regel von einem Team der Firma, die den Holzrahmenbau verkauft, montiert. Manchmal wird auch ein Kran eingesetzt. **Der Montageprozess dauert in der Regel nicht länger als 3 Tage.**
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "ebay.de/itm/Tellerkopfschrauben-Holzbauschrauben-Konstruktionsschrauben-fur-Holz-Tellerkopf/402325758614?hash=item5dac7be296:g:AVcAAOSwVgFfIA0Q" %}
+{% assign productphoto = "../uploads/wkret_podkladkowy.jpg" %}
+{% assign productname = "Konstruktionsschrauben für Holz Tellerkopf" %}
+{% assign productprice = "EUR 8,99" %}
+{% assign productdesc = "Entworfen für den Dachstuhl und das Tragwerk des Gebäudes" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Trapezblech-Schrauben-selbstbohrend-mit-Dichtung-4-8x35-Verzinkt-Bohrschrauben/402368060774?hash=item5daf015d66:g:sSIAAOSw6PdfPPQt" %}
+{% assign productphoto = "../uploads/wkret_farmer.jpg" %}
+{% assign productname = "Trapezblech Schrauben selbstbohrend mit Dichtung" %}
+{% assign productprice = "EUR 9,00" %}
+{% assign productdesc = "Wird zur Befestigung von Blech oder Fliesen verwendet" %}{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Konstruktionsschrauben-Senkkopf-Holzbauschrauben-Tellerkopf-Senkkopfschrauben/402325803145?hash=item5dac7c9089:g:TloAAOSwXvZfGtd4" %}
+{% assign productphoto = "../uploads/wkret_plaski.jpg" %}
+{% assign productname = "Konstruktionsschrauben Senkkopf" %}
+{% assign productprice = "EUR 5,69" %}
+{% assign productdesc = "Ideal für Spanplatten, OSB, MDF, Sperrholz und Massivholz" %}{% include product.html %}
+
+</div></div>
+
 ## Preis Dachstühle
 
 Dachstühle sind Elemente, deren Kosten abhängig von mehreren Faktoren variieren können. Am wichtigsten ist die **Größe des Gebäudes**, aber man sollte auch das Design des Daches und die Kompliziertheit der Konstruktion berücksichtigen.
