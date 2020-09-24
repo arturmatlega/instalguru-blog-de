@@ -45,66 +45,66 @@ Wenn es sichtbare Sedimente und größere Rückstände - Staub- und Rostpartikel
 
 Rückstände und kleine Partikel in einem Wassersystem beeinflussen nicht nur den Geschmack und die Qualität des Wassers. Sie können auch Schäden an einigen Elementen des Systems verursachen.
 
-Die chemische Zusammensetzung des Wassers aus dem Wasserversorgungsnetz ist in den meisten Fällen unzweifelhaft. Man sollte jedoch auf den Geruch und die Farbe der Flüssigkeit achten, die aus der eigenen Wasserversorgung stammt. Wenn Ihnen etwas verdächtig vorkommt und Sie einen merkwürdigen Nachgeschmack wahrnehmen: metallisch, salzig oder bitter - dann sollten Sie vielleicht eine Untersuchung durchführen. S**ie können auch eine Probe des Wassers in einem physikalisch-chemischen Labor** untersuchen lassen, um sicherzustellen, dass alles in Ordnung ist.
+Die chemische Zusammensetzung des Wassers aus dem Wasserversorgungsnetz ist in den meisten Fällen unzweifelhaft. Man sollte jedoch auf den Geruch und die Farbe der Flüssigkeit achten, die aus der eigenen Wasserversorgung stammt. Wenn Ihnen etwas verdächtig vorkommt und Sie einen merkwürdigen Nachgeschmack wahrnehmen: metallisch, salzig oder bitter - dann sollten Sie vielleicht eine Untersuchung durchführen. **Sie können auch eine Probe des Wassers in einem physikalisch-chemischen Labor** untersuchen lassen, um sicherzustellen, dass alles in Ordnung ist.
 
-## What is the reason for water taste issues?
+## Was ist der Grund für Probleme mit dem Wassergeschmack?
 
-Water taste is affected by many factors. The major role is played by chemical compounds. The condition of the plumbing and the temperature are also important aspects. **Each of them influences how the water looks and tastes**.
+Der Wassergeschmack wird von vielen Faktoren beeinflusst. Die Hauptrolle spielen dabei chemische Verbindungen. Auch der Zustand der Rohrleitungen und die Temperatur sind wichtige Aspekte. **Jeder von ihnen beeinflusst, wie das Wasser aussieht und schmeckt.**
 
-Many people are concerned about tap water quality. In reality, if the water is supplied from the local waterworks, the fear might be completely unjustified. Water supply providers are obliged to **constantly control the water quality - even several times a day**. In case of any irregularities, they must be diagnosed immediately. If there is any problem, the water supply is temporarily cut off and a warning message is issued.
+Viele Menschen sind besorgt über die Qualität des Leitungswassers. Wenn das Wasser von den örtlichen Wasserwerken geliefert wird, könnte die Angst in Wirklichkeit völlig ungerechtfertigt sein. Die Wasserversorger sind verpflichtet, die **Wasserqualität ständig - auch mehrmals täglich - zu kontrollieren**. Bei Unregelmässigkeiten müssen diese sofort diagnostiziert werden. Gibt es ein Problem, wird die Wasserversorgung vorübergehend unterbrochen und eine Warnmeldung ausgegeben.
 
-**The chemical taste which is common for tap water is a result of disinfection processes using chlorine**. It is one of the most frequently mentioned problems reported by tap water users. It doesn't mean, however, that water from a private well is flawless. In this case, a taste of iron is a common issue. Everything depends on the location and depth of the source.
+**Der chemische Geschmack, der für Leitungswasser üblich ist, ist das Ergebnis von Desinfektionsprozessen mit Chlor**. Es ist eines der am häufigsten genannten Probleme, das von Leitungswassernutzern berichtet wird. Es bedeutet jedoch nicht, dass Wasser aus einem privaten Brunnen einwandfrei ist. In diesem Fall ist der Geschmack von Eisen ein häufiges Problem. Alles hängt von der Lage und Tiefe der Quelle ab.
 
-![What is the reason for water taste issues?](/uploads/domowa-stacja-uzdatniania-wody-1.jpg "What is the reason for water taste issues?")
+![Was ist der Grund für Probleme mit dem Wassergeschmack?](/uploads/domowa-stacja-uzdatniania-wody-1.jpg "Was ist der Grund für Probleme mit dem Wassergeschmack?")
 
-## Water from your own source - is it healthier than the one from a provider?
+## Wasser aus eigener Quelle - ist es gesünder als das von einem Anbieter?
 
-It is believed that water from your own well has a better quality than the one from a local water supply system. What is the reality? **By connecting the house to the water main, one can be sure that the water is safe**, which has been already explained. Regular testing eliminates the presence of dangerous substances. In case of private wells, one has to control the water quality themselves. It is often neglected due to the amount of money charged for the procedure.
+Man geht davon aus, dass Wasser aus dem eigenen Brunnen eine bessere Qualität hat als das Wasser aus einem lokalen Wasserversorgungssystem. Wie sieht die Realität aus? **Wenn man das Haus an die Wasserleitung anschließt, kann man sicher sein, dass das Wasser sicher ist, was bereits erklärt wurde**. Durch regelmäßige Tests wird das Vorhandensein gefährlicher Substanzen ausgeschlossen. Im Falle von privaten Brunnen muss man die Wasserqualität selbst kontrollieren. Sie wird oft vernachlässigt, da für das Verfahren viel Geld verlangt wird.
 
-## How to purify water at home using carbon water filters?
+## Wie reinigt man Wasser zu Hause mit Kohlenstoff-Wasserfiltern?
 
-A popular method for improving the taste of water involves using a special **home water filter**. Are you wondering which water purifier is the best? The most commonly used filters contain activated carbon. They not only improve the taste, but also **eliminate contamination**. This type of water filtration works like a catalyst. It helps to remove various organic compounds, pesticides and - when using a better quality water purifier - heavy metals as well.
+Eine beliebte Methode zur Verbesserung des Wassergeschmacks ist die Verwendung eines speziellen **Wasserfilters für zu Hause**. Fragen Sie sich, welcher Wasserfilter der beste ist? Die am häufigsten verwendeten Filter enthalten Aktivkohle. Sie verbessern nicht nur den Geschmack, sondern **beseitigen auch Verunreinigungen**. Diese Art der Wasserfiltration wirkt wie ein Katalysator. Sie hilft, verschiedene organische Verbindungen, Pestizide und - bei Verwendung eines qualitativ besseren Wasserfilters - auch Schwermetalle zu entfernen.
 
-## Smell of the water - is it possible to change it?
+## Der Geruch des Wassers - ist es möglich, ihn zu verändern?
 
-To change an unpleasant smell of water, the already mentioned carbon water filters are used. Whole-house water filter is one of the options. One can also use a water purifier at one spot only - an under sink water filter is quite a common solution.
+Um einen unangenehmen Wassergeruch zu verändern, werden die bereits erwähnten Kohlenstoff-Wasserfilter eingesetzt. Der Ganzhaus-Wasserfilter ist eine der Optionen. Man kann auch nur an einer Stelle einen Wasserfilter einsetzen - ein Wasserfilter unter dem Waschbecken ist eine recht übliche Lösung.
 
-There are also other water filtration methods available on the market. A water softener is one of them - it can improve the taste of water. If the water quality issues are more serious, a **home water filtration system** might be the best option.
+Es sind auch andere Wasserfiltrationsmethoden auf dem Markt erhältlich. Ein Wasserenthärter ist eine davon - er kann den Geschmack des Wassers verbessern. Wenn die Probleme mit der Wasserqualität gravierender sind, könnte ein **Wasserfiltersystem für zu Hause** die beste Option sein.
 
-## Is water filter pitcher enough for water purification?
+## Reicht ein Wasserfilterkrug zur Wasserreinigung aus?
 
-**Home water filtration usually involves using a water filter pitcher or special bottles.** It's the easiest way to improve water quality. It's widely appreciated, as one doesn't have to install a special water filtration system, and it can be used anywhere. The mentioned bottles with a filter are commonly used for travelling.
+**Zur Wasserfiltration im Haushalt werden in der Regel ein Wasserfilterkrug oder spezielle Flaschen verwendet.** Es ist der einfachste Weg, die Wasserqualität zu verbessern. Sie wird weithin geschätzt, da man kein spezielles Wasserfiltersystem installieren muss, und sie kann überall eingesetzt werden. Die erwähnten Flaschen mit einem Filter werden häufig auf Reisen verwendet.
 
-But are such products enough? Keep in mind that water filtration used in such equipment is nothing else than using the previously described carbon filters. While they can **improve water quality in terms of taste and smell,** the effect is not that spectacular. Another issue is the fact that this solution allows for purification of only small amount of water, which in some cases might be problematic.
+Aber sind solche Produkte ausreichend? Denken Sie daran, dass die in solchen Geräten verwendete Wasserfilterung nichts anderes ist als die Verwendung der zuvor beschriebenen Kohlefilter. Sie können zwar die **Wasserqualität in Bezug auf Geschmack und Geruch verbessern**, aber der Effekt ist nicht so spektakulär. Ein weiteres Problem ist die Tatsache, dass diese Lösung nur die Reinigung einer kleinen Wassermenge ermöglicht, was in einigen Fällen problematisch sein kann.
 
-## Water filtration solutions - which water purifier is the best?
+## Lösungen zur Wasserfilterung - welcher Wasserfilter ist der beste?
 
-There are various types of water filters available on the market, with different parameters. The major difference is the construction. Filters for pitchers are different from those for bottles or for under sink systems. Home water filters also have **different efficiency and capability.** Apart from the mentioned carbon filter, there are other types of water filtration system cartridges.
+Es gibt verschiedene Arten von Wasserfiltern mit unterschiedlichen Parametern auf dem Markt. Der Hauptunterschied liegt in der Konstruktion. Filter für Krüge unterscheiden sich von denen für Flaschen oder für Untertischsysteme. Wasserfilter für den Haushalt haben auch eine **andere Effizienz und Leistungsfähigkeit**. Neben dem erwähnten Kohlefilter gibt es noch andere Arten von Patronen für Wasserfiltersysteme.
 
-The simplest types are **mesh, string and foam water filters. They are also called mechanical or sediment filters.** Thanks to them, the water filtration system eliminates sand and rust particles, invisible to the naked eye. The efficiency of such cartridges depends on their density and how large particles they can stop.
+Die einfachsten Typen sind **Maschen-, Schnur- und Schaumstoff-Wasserfilter.** Sie werden auch als mechanische oder Sedimentfilter bezeichnet. Dank ihnen eliminiert das Wasserfiltersystem Sand- und Rostpartikel, die mit bloßem Auge nicht sichtbar sind. Die Effizienz solcher Patronen hängt von ihrer Dichte ab und davon, wie große Partikel sie aufhalten können.
 
-![Water filtration solutions - which water purifier is the best?](/uploads/domowa-stacja-uzdatniania-wody-2.jpg "Water filtration solutions - which water purifier is the best?")
+![Lösungen zur Wasserfilterung - welcher Wasserfilter ist der beste?](/uploads/domowa-stacja-uzdatniania-wody-2.jpg "Lösungen zur Wasserfilterung - welcher Wasserfilter ist der beste?")
 
-Iron water filters are another popular option, used mostly for private wells. **Similar to mechanical cartridges, they are usually installed on pipes in a special casing of appropriate size and construction.** The role of such equipment is removing harmful iron compounds. They also partially remove nitrogen or even hydrogen sulfide.
+Eisen-Wasserfilter sind eine weitere beliebte Option, die vor allem für private Brunnen verwendet wird. **Ähnlich wie mechanische Patronen werden sie in der Regel auf Rohren in einem speziellen Gehäuse von entsprechender Größe und Konstruktion installiert**. Die Rolle solcher Geräte besteht darin, schädliche Eisenverbindungen zu entfernen. Sie entfernen auch teilweise Stickstoff oder sogar Schwefelwasserstoff.
 
-Many households have a problem of **so-called hard water**. It means that it contains a lot of calcium and magnesium. It's not an issue either, as an appropriate water softening filter will remove the sediments from the liquid.
+Viele Haushalte haben ein Problem mit dem **so genannten harten Wasser**. Das bedeutet, dass es sehr viel Kalzium und Magnesium enthält. Es ist auch kein Problem, da ein geeigneter Wasserenthärtungsfilter die Sedimente aus der Flüssigkeit entfernt.
 
-## Multimedia filter tank - how does a modern water purification system work?
+## Multimedia-Filtertank - wie funktioniert ein modernes Wasserreinigungssystem?
 
-A multimedia filter is one of the best choices for a household. This type of device is **highly efficient**. Thanks to this, the water purifier can remove various types of substances. Depending on the medium, various results can be achieved.
+Ein Multimedia-Filter ist eine der besten Entscheidungen für einen Haushalt. Diese Art von Gerät ist **sehr effizient**. Dank dessen kann der Wasserfilter verschiedene Arten von Stoffen entfernen. Je nach Medium können unterschiedliche Ergebnisse erzielt werden.
 
-**The medium is nothing else than special material filling of the tank,** which absorbs harmful substances. Depending on the type, one needs to wash it out or regenerate it from time to time. There is also another important aspect - a water purifier like a filter tank needs to be connected with the electric network and sewage system.
+**Das Medium ist nichts anderes als eine spezielle Materialfüllung des Tanks,** die schädliche Stoffe aufnimmt. Je nach Typ muss man sie von Zeit zu Zeit auswaschen oder regenerieren. Es gibt noch einen weiteren wichtigen Aspekt - ein Wasserfilter wie ein Filtertank muss an das Stromnetz und die Kanalisation angeschlossen werden.
 
-![Multi-media filter tank - how does a modern water purification system work?](/uploads/domowa-stacja-uzdatniania-wody-3.jpg "Multi-media filter tank - how does a modern water purification system work?")
+![Multimedia-Filtertank - wie funktioniert ein modernes Wasserreinigungssystem?](/uploads/domowa-stacja-uzdatniania-wody-3.jpg "Multimedia-Filtertank - wie funktioniert ein modernes Wasserreinigungssystem?")
 
-## Home water filtration system - is a reverse osmosis filter worth installing?
+## Hauswasser-Filtrationssystem - lohnt es sich, einen Umkehrosmosefilter zu installieren?
 
-If you want to have a good quality tap water, choose **complete solutions which provide effective and thorough filtration**. A reverse osmosis system is one of the most commonly chosen solutions among people who decide to give up bottled water.
+Wenn Sie Leitungswasser von guter Qualität haben möchten, wählen Sie **Komplettlösungen, die eine effektive und gründliche Filtration bieten**. Ein Umkehrosmosesystem ist eine der am häufigsten gewählten Lösungen bei Menschen, die sich dafür entscheiden, auf abgefülltes Wasser zu verzichten.
 
-This type of home water filtration system works across several levels, depending on the particular system. It can have five or six filtration levels. A reverse osmosis filter contains mechanical, carbon, iron and softening cartridges. A water filtration system of this type can also use additional filters which enrich the water with minerals.
+Diese Art von Wasserfiltersystemen für den Hausgebrauch arbeitet je nach System auf mehreren Ebenen. Es kann fünf oder sechs Filtrationsstufen haben. Ein Umkehrosmosefilter enthält mechanische, Kohlenstoff-, Eisen- und Enthärtungspatronen. Ein Wasserfiltersystem dieser Art kann auch zusätzliche Filter verwenden, die das Wasser mit Mineralien anreichern.
 
 {:.distinction.distinction-info.distinction-positive}
 
-A home water filtration system with a reverse osmosis filter significantly improves smell, taste and composition of water. Thanks to this, beverages and meals taste significantly better.
+Ein Hauswasserfiltersystem mit einem Umkehrosmosefilter verbessert Geruch, Geschmack und Zusammensetzung des Wassers erheblich. Dank dessen schmecken Getränke und Speisen deutlich besser.
 
-Do you care about the environment and your own savings? Choose tap instead of bottled water. All you need is a home water filtration system and proper water purification so that you will be able to enjoy a good quality water. If you do not have to overpay and you can benefit from it - it is definitely a solution worth choosing.
+Liegt Ihnen die Umwelt und Ihre eigenen Ersparnisse am Herzen? Wählen Sie Wasser aus dem Wasserhahn statt Flaschenwasser. Alles, was Sie brauchen, ist ein Wasserfiltersystem für zu Hause und eine ordnungsgemäße Wasseraufbereitung, damit Sie Wasser von guter Qualität genießen können. Wenn Sie nicht zu viel bezahlen müssen und davon profitieren können - es ist definitiv eine Lösung, die es wert ist, gewählt zu werden.
