@@ -22,12 +22,13 @@ intro: Wasser ist ein Element, ohne das der Mensch nicht in der Lage wäre, im A
 photo: "/uploads/domowa-stacja-uzdatniania-wody-glowne.jpg"
 photo_desc: Wasserreinigung - Hauswasser-Filtrationssystem
 faq:
-- question: What is the best water purifier for a single family house?
-  answer: Simple solutions like a mechanical, carbon or iron under sink water filter
-    are good for a single family house, as well as a whole home water filtration systems.
-    Water purifiers like a multi-media water tank or a reverse osmosis filter are
-    also highly recommended. This way one can create a good water purification system
-    and enjoy clean and tasty water.
+- question: Welches ist der beste Wasserfilter für ein Einfamilienhaus?
+  answer: Einfache Lösungen wie ein mechanischer, Kohle- oder Bügelwasserfilter unter
+    dem Waschbecken sind sowohl für ein Einfamilienhaus als auch für Wasserfiltersysteme
+    für das ganze Haus geeignet. Wasserfilter wie ein Multi-Media-Wassertank oder
+    ein Umkehrosmosefilter sind ebenfalls sehr empfehlenswert. Auf diese Weise kann
+    man ein gutes Wasserreinigungssystem schaffen und sauberes und schmackhaftes Wasser
+    genießen.
 author_name: Maksymilian Ignacyk
 author_desc: Verkaufs- und Marketing-Spezialist bei Instalguru
 author_photo: "/uploads/maks.jpg"
