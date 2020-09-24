@@ -35,17 +35,17 @@ toc: true
 hreflangs: []
 
 ---
-## How is the taste and quality of water determined?
+## Wie wird der Geschmack und die Qualität des Wassers bestimmt?
 
-In accordance with the research by experts, there are many places where tap water contains far more good ingredients for health than store-bought bottled water. Nevertheless, people often give up drinking tap water - mostly because of its poor taste or smell. Are those features a sign of poor quality? Quite the contrary! **Unusual smell or taste are typically indicators of various processes used in water purification.** It is important, however, to evaluate what kind of smell it is. Sometimes it might signify a lower quality of water and e.g. too high iron or calcium concentration.
+Nach der Forschung von Experten gibt es viele Orte, an denen Leitungswasser weitaus mehr gute Inhaltsstoffe für die Gesundheit enthält als im Handel gekauftes Flaschenwasser. Dennoch verzichten die Menschen oft darauf, Leitungswasser zu trinken - meist wegen seines schlechten Geschmacks oder Geruchs. Sind diese Merkmale ein Zeichen für schlechte Qualität? Ganz im Gegenteil! **Ungewöhnlicher Geruch oder Geschmack sind in der Regel Indikatoren für verschiedene Prozesse, die bei der Wasserreinigung eingesetzt werden**. Es ist jedoch wichtig, zu beurteilen, um welche Art von Geruch es sich handelt. Manchmal kann er auf eine geringere Wasserqualität und z.B. eine zu hohe Eisen- oder Kalziumkonzentration hinweisen.
 
-If there are visible sediments and larger residues - dust and rust particles in tap water, it is quite a different matter. It doesn't indicate a low quality of water, but a poor condition of the plumbing. This problem can be resolved by special home water purifier. **It usually contains mechanical cartridges which stop any particles on their surface.**
+Wenn es sichtbare Sedimente und größere Rückstände - Staub- und Rostpartikel im Leitungswasser - gibt, ist das eine ganz andere Sache. Es deutet nicht auf eine schlechte Wasserqualität hin, sondern auf einen schlechten Zustand der Rohrleitungen. Dieses Problem kann durch einen speziellen Wasserfilter für den Hausgebrauch gelöst werden. **Er enthält in der Regel mechanische Patronen, die alle Partikel auf ihrer Oberfläche aufhalten.**
 
 {:.distinction.distinction-quotation.distinction-negative}
 
-Residues and small particles in a water system do not only influence the taste and quality of water. It might also cause damage in some elements of the system.
+Rückstände und kleine Partikel in einem Wassersystem beeinflussen nicht nur den Geschmack und die Qualität des Wassers. Sie können auch Schäden an einigen Elementen des Systems verursachen.
 
-The chemical composition of water from water supply network in most cases is unquestionable. One should, however, pay attention to the smell and color of the liquid coming from their own water supply. If something seems suspicious and you detect a strange aftertaste: metallic, salty or bitter - you might want to do a research. You might also **get a sample of the water tested in a physicochemical lab**, to make sure everything is alright.
+Die chemische Zusammensetzung des Wassers aus dem Wasserversorgungsnetz ist in den meisten Fällen unzweifelhaft. Man sollte jedoch auf den Geruch und die Farbe der Flüssigkeit achten, die aus der eigenen Wasserversorgung stammt. Wenn Ihnen etwas verdächtig vorkommt und Sie einen merkwürdigen Nachgeschmack wahrnehmen: metallisch, salzig oder bitter - dann sollten Sie vielleicht eine Untersuchung durchführen. S**ie können auch eine Probe des Wassers in einem physikalisch-chemischen Labor** untersuchen lassen, um sicherzustellen, dass alles in Ordnung ist.
 
 ## What is the reason for water taste issues?
 
