@@ -7,8 +7,8 @@ seo_description: "Fragen Sie sich, wie man einen Schalter anschließt? \U0001F4A
 date: 2020-09-27 22:00:00 +0000
 update_date: 2020-09-27 22:00:00 +0000
 title: Wie installiert man Treppenhausschaltung? Klar Diagramm
-small-intro: A light switch is a modest device thanks to which everyday life in one's
-  house gets far easier.
+small-intro: Ein Lichtschalter ist ein bescheidenes Gerät, dank dem der Alltag im
+  eigenen Haus viel einfacher wird.
 intro: A light switch is a modest device thanks to which everyday life in one's house
   gets far easier. While standard interiors use singular switches, places such as
   stairs might get more complicated. For this, a special two way switch circuit is
