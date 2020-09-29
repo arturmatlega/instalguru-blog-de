@@ -9,86 +9,87 @@ update_date: 2020-09-27 22:00:00 +0000
 title: Wie installiert man Treppenhausschaltung? Klar Diagramm
 small-intro: Ein Lichtschalter ist ein bescheidenes Gerät, dank dem der Alltag im
   eigenen Haus viel einfacher wird.
-intro: A light switch is a modest device thanks to which everyday life in one's house
-  gets far easier. While standard interiors use singular switches, places such as
-  stairs might get more complicated. For this, a special two way switch circuit is
-  needed, which allows to control the light from two spots. How to connect a two way
-  switch? It is not that difficult - just take a look at a two way switch diagram
-  and use it at your own place.
-photo: ''
+intro: Ein Lichtschalter ist ein bescheidenes Gerät, dank dem der Alltag im eigenen
+  Haus viel einfacher wird. Während in Standardinterieurs einzelne Schalter verwendet
+  werden, können Orte wie Treppenhäuser komplizierter werden. Hierfür wird eine spezielle
+  Treppenlichtschaltung benötigt, die es ermöglicht, das Licht von zwei Punkten aus
+  zu steuern. Wie schließt man einen Zweiwegschalter an? Das ist gar nicht so schwierig
+  - schauen Sie sich einfach ein Schema eines Zweiwegschalters an und verwenden Sie
+  ihn an Ihrem eigenen Ort.
+photo: "/uploads/wlacznik-schodowe-glowne.jpg"
 photo_desc: ''
 faq: []
-author_name: ''
-author_desc: ''
-author_photo: ''
+author_name: Mateusz Knapik
+author_desc: Spezialist für Vertrieb und Kundenbetreuung bei Instalguru
+author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: false
 hreflangs: []
 
 ---
-## Two way light switch - what are its features?
+## Treppenlichtschaltung - was sind ihre Merkmale?
 
-There is probably not too many people who are not electricians and pay attention to devices such as light switches. It is enough that they serve their function - that is, turn the light on and off. These devices, however, concern exactly the matter of functionality - there are many types of them, and choosing the right one might not be that obvious for a layman.
+Es gibt wahrscheinlich nicht allzu viele Menschen, die keine Elektriker sind und auf Geräte wie Lichtschalter achten. Es genügt, dass sie ihre Funktion erfüllen - also das Licht ein- und ausschalten. Bei diesen Geräten geht es aber genau um die Frage der Funktionalität - es gibt viele Arten von ihnen, und die Wahl des richtigen ist für einen Laien vielleicht nicht so offensichtlich.
 
-Specialists classify light switches in accordance to several criterions. The most common types are:
+Spezialisten klassifizieren Lichtschalter nach mehreren Kriterien. Die gebräuchlichsten Typen sind:
 
-* **Surface and flush-mounted light switches** - the differentiation concerns the installation method.
-* **Single and double-pole switches** - the first ones control a single light source, whereas the latter can control two light bulbs at the same time.
-* **Multipole switches** - they control more light sources and usually have two or more buttons.
-* **Automatic switches** - they switch off the light automatically after a given time.
+* **Auf- und Unterputz-Lichtschalter** - die Unterscheidung betrifft die Installationsmethode.
+* **Ein- und zweipolige Schalter** - Ersterer steuert eine einzelne Lichtquelle, während letzterer zwei Glühbirnen gleichzeitig steuern kann.
+* **Mehrpolige Schalter** - sie steuern mehrere Lichtquellen und haben in der Regel zwei oder mehr Taster.
+* **Automatische Schalter** - sie schalten das Licht nach einer bestimmten Zeit automatisch aus.
 
-Judging by aesthetics, one can also distinguish light switches according to the type of buttons. Manufacturers offer traditional switches with a mechanical button. Touch light switches are gaining popularity. They have a smooth panel with a sensor which reacts to touch.
+Nach der Ästhetik kann man Lichtschalter auch nach der Art der Tasten unterscheiden. Die Hersteller bieten traditionelle Schalter mit einem mechanischen Taster an. Lichtschalter mit Berührung gewinnen an Popularität. Sie haben ein glattes Paneel mit einem Sensor, der auf Berührung reagiert.
 
-![Two way light switch - what are its features?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Two way light switch - what are its features?")
+![](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg)
 
-### Two way and three way light switch
+### Treppenlicht- und Dreiwege-Lichtschalter
 
-Two way light switches are a special type of devices. They allow to control one light source from two different locations. It's a particularly useful solution on staircases, so that one does not have to come back up or down to turn the light off.
+Treppenlichtschaltungen sind eine besondere Art von Geräten. Sie ermöglichen es, eine Lichtquelle von zwei verschiedenen Orten aus zu steuern. Es ist eine besonders nützliche Lösung an Treppenhäusern, so dass man nicht wieder nach oben oder unten kommen muss, um das Licht auszuschalten.
 
 {:.distinction.distinction-info.distinction-positive}
 
-For the same reason, the two way switch diagram is used in long corridors.
+Aus dem gleichen Grund wird das Diagramm der Treppenlichtschaltung in langen Korridoren verwendet.
 
-If more than two switches are needed for light control, one should use a three way light switch. Such circuit involves two external switches and one three way light switch between them.
+Wenn mehr als zwei Schalter für die Lichtsteuerung benötigt werden, sollte man einen Dreiwege-Lichtschalter verwenden. Eine solche Schaltung umfasst zwei externe Schalter und einen Dreiwege-Lichtschalter dazwischen.
 
-## How to connect a two way switch?
+## Wie wird eine Treppenlichtschaltung angeschlossen?
 
-Connecting any switch - a two way switch as well - is not a difficult task, although one needs to follow certain rules. Of course, the basic issue to remember when connecting a light switch is cutting the electricity off. Apart from this, one has to understand how a light switch works.
+Das Anschließen einer beliebigen Weiche - auch einer Treppenlichtschaltung - ist keine schwierige Aufgabe, allerdings muss man bestimmte Regeln beachten. Das Hauptproblem, an das man denken muss, wenn man einen Lichtschalter anschließt, ist natürlich das Abschalten des Stroms. Abgesehen davon muss man verstehen, wie ein Lichtschalter funktioniert.
 
-### Light switch - general principle of operation
+### Lichtschalter - allgemeines Funktionsprinzip
 
-Generally speaking, to connect a light switch, one needs several elements. They are:
+Um einen Lichtschalter anzuschließen, benötigt man im Allgemeinen mehrere Elemente. Sie sind:
 
-* Phase wire - it's usually the black or the brown wire, although it might also be marked with another color - except from blue and yellow-green. It is marked by letter L on the diagrams presented below.
-* Neutral wire (N) - it's blue.
-* Earth conductor (PE) - it's a grounded wire, marked with yellow-green insulation.
-* Wires connecting the switches (P1, P2...)
-* Light source.
-* One or several switches.
+* Phasendraht - es ist normalerweise der schwarze oder der braune Draht, obwohl er auch mit einer anderen Farbe markiert sein kann - außer blau und gelb-grün. In den unten dargestellten Diagrammen ist er mit dem Buchstaben L gekennzeichnet.
+* Neutralleiter (N) - er ist blau.
+* Erdleiter (PE) - es ist ein geerdeter Draht, der mit einer gelb-grünen Isolierung gekennzeichnet ist.
+* Drähte zur Verbindung der Schalter (P1, P2...)
+* Lichtquelle.
+* Ein oder mehrere Schalter.
 
-Each switch - one or multiple way, operates based on similar principle. To turn on the light, one has to move the switch, that is - close the electric circuit. Analogically, moving the switch back off cuts the circuit and the electricity stops flowing - the light  goes off.
+Jeder Schalter - ein- oder mehrfach - arbeitet nach einem ähnlichen Prinzip. Um das Licht einzuschalten, muss man den Schalter bewegen, d.h. - den Stromkreis schließen. Analog unterbricht das Zurückbewegen des Schalters den Stromkreis und der Strom hört auf zu fließen - das Licht geht aus.
 
-To connect the simplest one way light switch, one needs to connect wires between the switch and the light bulb. **See the diagram for such a circuit below:**
+Um den einfachsten Einweg-Lichtschalter anzuschließen, muss man Drähte zwischen dem Schalter und der Glühbirne anschließen. **Siehe das Diagramm für einen solchen Stromkreis unten:**
 
-![A light switch - general principle of operation](/uploads/jak_podlaczyc_wlacznik_schemat1_en.jpg "A light switch - general principle of operation")
+![Lichtschalter - allgemeines Funktionsprinzip](/uploads/jak_podlaczyc_wlacznik_schemat1_de.jpg "Lichtschalter - allgemeines Funktionsprinzip")
 
-Under no circumstance mix the wires - for instance phase with the neutral line. It would pose a threat during changing a light bulb - even when the light is turned off!
+Keinesfalls dürfen die Drähte vermischt werden - zum Beispiel die Phase mit dem Neutralleiter. Es würde beim Auswechseln einer Glühbirne eine Gefahr darstellen - auch wenn das Licht ausgeschaltet ist!
 
-### Two way switch - diagram
+### Treppenlichtschaltung - Diagramm
 
-Connecting a two way switch circuit is a little bit more complicated, as it uses two switches. So - **how to connect a two way switch?**
+Der Anschluss einer Treppenlichtschaltung ist etwas komplizierter, da sie zwei Schalter verwendet. **Wie wird also eine Treppenlichtschaltung angeschlossen?**
 
-A two way switch diagram is more elaborate. In this case, the phase wire is connected with one of the two way switches, and the light source - to the other. Neutral wire and earth conductor are lead to the light source independently. The two switches should be connected with each other with additional wires.
+Ein Schema für eine Treppenlichtschaltung ist etwas komplizierter. In diesem Fall wird der Phasendraht mit einem der beiden Treppenlichtschalter verbunden und die Lichtquelle mit dem anderen. Neutralleiter und Erdleiter werden unabhängig voneinander zur Lichtquelle geführt. Die beiden Schalter sollten durch zusätzliche Drähte miteinander verbunden werden.
 
-**See the two way switch diagram below:**
+**Siehe das Diagramm der Treppenlichtschaltung unten:**
 
-![Two way switch - diagram](/uploads/jak_podlaczyc_wlacznik_schemat2_en.jpg "Two way switch - diagram")
+![Treppenlichtschaltung - Diagramm](/uploads/jak_podlaczyc_wlacznik_schemat2_de.jpg "Treppenlichtschaltung - Diagramm")
 
-### How to connect a three way light switch?
+### Wie wird ein Dreiwege-Lichtschalter angeschlossen?
 
-As already mentioned, **it is possible to wire more than only two light switches for the same light source.** To do this, one needs to use a three way light switch. The scheme of such connection is not much different from the two way switch diagram - there is a third switch between the two external ones. The number of intermediate switches is unlimited, and it can be adjusted as needed. Thanks to this one will be able to turn off the staircase light while being in another room.
+Wie bereits erwähnt, **ist es möglich, mehr als nur zwei Lichtschalter für die gleiche Lichtquelle zu verdrahten.** Dazu muss man einen Dreiwege-Lichtschalter verwenden. Das Schema eines solchen Anschlusses unterscheidet sich nicht wesentlich vom Schema des Zweiwegschalters - es gibt einen dritten Schalter zwischen den beiden äußeren. Die Anzahl der Zwischenschalter ist unbegrenzt und kann je nach Bedarf eingestellt werden. Dank diesem wird man das Treppenhauslicht ausschalten können, während man sich in einem anderen Raum befindet.
 
-**See the three way light switch diagram presented below:**
+**Siehe das unten dargestellte Dreiwege-Lichtschalterdiagramm:**
 
-![How to connect a three way light switch?](/uploads/jak_podlaczyc_wlacznik_schemat3.jpg "How to connect a three way light switch?")
+![Wie wird ein Dreiwege-Lichtschalter angeschlossen?](/uploads/jak_podlaczyc_wlacznik_schemat3_de.jpg "Wie wird ein Dreiwege-Lichtschalter angeschlossen?")
 
-**Connecting a two way or a three way switch is not as difficult as it might seem.** If you have the right switch diagram, you can easily do it yourself.
+**Das Anschließen einer Treppenlichtschaltung ist nicht so schwierig, wie es scheinen mag.** Wenn Sie das richtige Weichendiagramm haben, können Sie es leicht selbst machen.
