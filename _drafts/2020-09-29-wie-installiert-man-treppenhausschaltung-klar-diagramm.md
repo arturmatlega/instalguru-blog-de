@@ -1,12 +1,12 @@
 ---
 main_keywords: []
 layout: post
-seo_title: Wie installiert man Treppenhausschaltung? Klar Diagramm
+seo_title: Wie Installiert Man Treppenhausschaltung? Klar Diagramm
 seo_description: "Fragen Sie sich, wie man einen Schalter anschließt? \U0001F4A1 Sehen
   Sie sich das Schema der Treppenlichtschaltung an. \U0001F44D Tu es selbst!"
 date: 2020-09-27 22:00:00 +0000
 update_date: 2020-09-27 22:00:00 +0000
-title: Wie installiert man Treppenhausschaltung? Klar Diagramm
+title: Wie Installiert Man Treppenhausschaltung? Klar Diagramm
 small-intro: Ein Lichtschalter ist ein bescheidenes Gerät, dank dem der Alltag im
   eigenen Haus viel einfacher wird.
 intro: Ein Lichtschalter ist ein bescheidenes Gerät, dank dem der Alltag im eigenen
@@ -22,8 +22,22 @@ faq: []
 author_name: Mateusz Knapik
 author_desc: Spezialist für Vertrieb und Kundenbetreuung bei Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
-toc: false
-hreflangs: []
+toc: true
+hreflangs:
+- lang: de
+  link: ''
+- lang: cz
+  link: ''
+- lang: fr
+  link: ''
+- lang: it
+  link: ''
+- lang: es
+  link: ''
+- lang: en
+  link: ''
+- lang: pl
+  link: ''
 
 ---
 ## Treppenlichtschaltung - was sind ihre Merkmale?
