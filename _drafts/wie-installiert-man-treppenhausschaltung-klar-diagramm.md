@@ -17,7 +17,7 @@ intro: Ein Lichtschalter ist ein bescheidenes Gerät, dank dem der Alltag im eig
   - schauen Sie sich einfach ein Schema eines Zweiwegschalters an und verwenden Sie
   ihn an Ihrem eigenen Ort.
 photo: "/uploads/wlacznik-schodowe-glowne.jpg"
-photo_desc: ''
+photo_desc: Ein einfaches Diagramm einer Treppenlichtschaltung
 faq: []
 author_name: Mateusz Knapik
 author_desc: Spezialist für Vertrieb und Kundenbetreuung bei Instalguru
