@@ -39,7 +39,7 @@ Spezialisten klassifizieren Lichtschalter nach mehreren Kriterien. Die gebräuch
 
 Nach der Ästhetik kann man Lichtschalter auch nach der Art der Tasten unterscheiden. Die Hersteller bieten traditionelle Schalter mit einem mechanischen Taster an. Lichtschalter mit Berührung gewinnen an Popularität. Sie haben ein glattes Paneel mit einem Sensor, der auf Berührung reagiert.
 
-![](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg)
+![Treppenlichtschaltung - was sind ihre Merkmale?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Treppenlichtschaltung - was sind ihre Merkmale?")
 
 ### Treppenlicht- und Dreiwege-Lichtschalter
 
