@@ -35,13 +35,19 @@ author_photo: "/uploads/maks.jpg"
 toc: true
 hreflangs:
 - lang: cs
-  link: ''
+  link: https://instalguru.cz/blog/jak-zlepsit-chut-vody-domaci-stanice-pro-cisteni-vody.html
+- lang: fr
+  link: https://instalguru.fr/blog/comment-purifier-l-eau-a-la-maison-systeme-de-filtration-de-l-eau.html
+- lang: it
+  link: https://instalguru.it/blog/come-purificare-l-acqua-a-casa-sistema-di-filtrazione-dell-acqua.html
+- lang: cs
+  link: https://instalguru.cz/blog/jak-zlepsit-chut-vody-domaci-stanice-pro-cisteni-vody.html
 - lang: de
-  link: ''
+  link: https://instalguru.de/blog/wie-reinigt-man-wasser-zu-hause-beste-wasserfiltersystem.html
 - lang: en
-  link: ''
+  link: https://instalguru.co.uk/blog/how-to-purify-water-at-home-home-water-filtration-system.html
 - lang: pl
-  link: ''
+  link: https://instalguru.pl/blog/jak-poprawic-smak-wody-domowa-stacja-uzdatniania-wody.html
 
 ---
 ## Wie wird der Geschmack und die Qualität des Wassers bestimmt?
