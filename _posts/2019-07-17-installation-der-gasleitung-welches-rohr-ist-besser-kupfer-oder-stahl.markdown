@@ -10,7 +10,8 @@ main_keywords:
 - Rohrleitungsmaterialien
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
-title: Installation der Gasleitung. Welches Rohr - Kupfer oder Stahl?
+title: Welche Rohre sind besser - Kupfer- oder Stahlrohre? Wesentliche Elemente der
+  Gasinstallation
 small-intro: Die Installation von Gasleitungen war in den letzten Jahren ein wesentliches
   Element für fast jedes neue Gebäude.
 intro: Die Installation von Gasleitungen war in den letzten Jahren ein wesentliches
