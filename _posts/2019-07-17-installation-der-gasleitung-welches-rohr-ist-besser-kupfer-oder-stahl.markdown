@@ -1,24 +1,26 @@
 ---
 layout: post
-seo_title: Installation der Gasleitung. Welches Rohr ist besser - Kupfer oder Stahl?
+seo_title: Installation der Gasleitung. Welches Rohr - Kupfer oder Stahl?
 seo_description: "Planen Sie die Installation von Gasarmaturen bei Ihnen zu Hause?
   ✔️ Welcher Rohrtyp ist für Ihre Rohrleitungen besser geeignet - Kupfer \U0001F19A
   Stahl? "
 main_keywords:
-  - Pfeifenwerk
-  - Installation der Gasleitung
-  - Rohrleitungsmaterialien
+- Pfeifenwerk
+- Installation der Gasleitung
+- Rohrleitungsmaterialien
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
-title: Welches Gasrohr ist besser - Kupfer oder Stahl?
-small-intro: Die Installation von Gasleitungen ist ein wesentliches Element wahrscheinlich
-  für jedes neue Gebäude.
-intro: Die Installation von Gasleitungen ist ein wesentliches Element wahrscheinlich
-  für jedes neue Gebäude. Sie ermöglicht den Anschluss des gesamten Gebäudes an das
-  Heizsystem. Die Gasleitungsinstallation kann aus Stahlrohren bestehen, obwohl auch
-  Kupferrohre verwendet werden. Bevor man sich für eine bestimmte Lösung entscheidet,
-  sollte man die Vor- und Nachteile von beiden kennen lernen. Dank solchen Kenntnissen
-  ist die Entscheidung leichter zu treffen.
+title: Installation der Gasleitung. Welches Rohr - Kupfer oder Stahl?
+small-intro: Die Installation von Gasleitungen war in den letzten Jahren ein wesentliches
+  Element für fast jedes neue Gebäude.
+intro: Die Installation von Gasleitungen war in den letzten Jahren ein wesentliches
+  Element für fast jedes neue Gebäude. Sie ist recht nützlich. Sie ermöglicht den
+  Anschluss des gesamten Gebäudes an das Heizungssystem. Nicht jede Gasleitungsinstallation
+  ist gleich, was von den für ihren Bau verwendeten Materialien abhängt. Typischerweise
+  werden Stahl- oder Kupferrohre verwendet. Sie müssen auch durch andere Komponenten
+  wie Ventile und Filter ergänzt werden. Bevor Sie sich für eine bestimmte Lösung
+  entscheiden, sollten Sie sich über die Eigenschaften der einzelnen Komponenten informieren.
+  Auf diese Weise können Sie leicht die für Sie beste Option bestimmen.
 photo: "/uploads/195e87ad8a354ffb801e5efc82cd9ffe.jpg"
 photo_desc: Gasinstallationen können aus Stahlrohren bestehen, obwohl auch Kupferrohre
   verwendet werden.
@@ -59,28 +61,30 @@ hreflangs:
   link: https://instalguru.cz/blog/ktere-plynove-potrubi-je-lepsi-med-nebo-ocel.html
 
 ---
-## Kupferrohr - warum es bei der Installation von Gasleitungen verwendet wird?
+## Kupferrohre für Gas? Was sind die Vorteile einer solchen Gasinstallation?
 
-Für die Installation von Gasleitungen werden in der Regel Rohre aus Kupfer empfohlen. Warum? Der Hauptgrund ist die Tatsache, dass Kupfer ein verformbares Metall ist, das sich ohne Beschädigung dehnen kann. Es ist ein sehr wichtiges Thema für Systeme, die bei hohen Temperaturen arbeiten. Es erfordert die Vorbereitung von genügend Platz für eine Installation, da diese sich vergrößern kann. Ein Kupferrohr ist definitiv kleiner als Rohre aus anderen Materialien - seine Wände sind dünner, da für ihre Herstellung weniger Material verwendet wird.
+Rohre aus Kupfer werden in der Regel von vielen Fachleuten für die Gasleitungsinstallation empfohlen. **Warum?** Der Hauptgrund ist die Tatsache, dass Kupfer ein verformbares Metall ist, das sich ohne Beschädigung dehnen kann. Es ist ein sehr wichtiges Thema für Systeme, die bei hohen Temperaturen arbeiten - wie zum Beispiel eine Gasarmatur.
+
+Bemerkenswert ist die Tatsache, dass Kupfergasrohre genügend Platz für die Installation vorbereiten müssen, da sie größer werden können. **Kupferrohre für eine Gasinstallation** sind definitiv kleiner als Rohre aus anderen Materialien. Ihre Wände sind dünner, da für ihre Herstellung weniger Material verwendet wird, als beispielsweise bei Stahlrohren.
 
 {:.distinction.distinction-info.distinction-positive}
 
-Kupfergasinstallationen sind dicht und resistent gegen verschiedene Faktoren, wie z.B. UV-Beleuchtung. Der größte Vorteil eines Kupferrohrs ist seine hohe Korrosionsbeständigkeit.
+Kupfergasinstallationen machen die Gasinstallation im Haus dicht und widerstandsfähig gegen verschiedene Faktoren, wie z.B. UV-Beleuchtung. Der größte Vorteil eines Kupferrohrs ist seine hohe Korrosionsbeständigkeit.
 
-## Kupferrohre - wie verbindet man die Elemente?
+### Wie verbindet man Kupferrohre?
 
-Kupferrohre, die bei der Installation von Gasleitungen im Haushalt verwendet werden, sind ziemlich widerstandsfähig. Ihre Wände sind typischerweise über 1 mm dick. Deshalb können die Rohre durch Hartlöten sehr effektiv verbunden werden. Sie sollten nicht versuchen, ein Gasrohr selbst zu löten - überlassen Sie das einem Fachmann. Eine andere Methode ist die Verwendung von Klemmverschraubungen. Die Montage solcher Rohre ist sehr einfach und sollte für einen Fachmann kein Problem darstellen. Diese Tatsache trägt wesentlich zur Senkung der Kosten für die Montage der Installation bei.
+Ein Gassystem mit Kupferrohren schafft viele Möglichkeiten für deren Verbindung. Kupferrohre sind hart und typischerweise 1 mm dick. Aus diesem Grund können die Rohre mit Hilfe von Hartlöten sehr effektiv verbunden werden. Bevor man die Verbindung herstellt, ist es ratsam, eine spezielle Kupferbürste zu verwenden, damit sie haltbarer ist. Experten empfehlen auch die Verwendung einer speziellen Lötpaste für Kupferrohre und Fittings.
 
 <div class="products-wrapper"><div class="products-container">
 
-{% assign producttype ="promoted" %} 
-{% assign productlink = "https://www.ebay.de/itm/Pressfitting-Ubergangsnippel-Ubergangsmuffe-Kupplung-Aluverbundrohr-PEX-16-32/401785988273?hash=item5d8c4fa4b1:g:G90AAOSwGnpd7gas" %} 
-{% assign productphoto = "../uploads/pex_zlaczka.jpg" %} 
-{% assign productname = "Aluverbundrohr PEX" %} 
-{% assign productprice = "EUR 1,29" %} 
-{% assign productdesc = "Beständig gegen Beschädigung, Feuchtigkeit, Korrosion und hohe Temperaturen" %} 
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Pressfitting-Ubergangsnippel-Ubergangsmuffe-Kupplung-Aluverbundrohr-PEX-16-32/401785988273?hash=item5d8c4fa4b1:g:G90AAOSwGnpd7gas" %}
+{% assign productphoto = "../uploads/pex_zlaczka.jpg" %}
+{% assign productname = "Aluverbundrohr PEX" %}
+{% assign productprice = "EUR 1,29" %}
+{% assign productdesc = "Beständig gegen Beschädigung, Feuchtigkeit, Korrosion und hohe Temperaturen" %}
 {% include product.html %}
-  
+
 {% assign producttype ="normal" %}
 {% assign productlink = "https://www.ebay.de/itm/Pressfitting-Bogen-Deckenwinkel-AG-IG-Aluverbundrohr-PEX-16-32-U-Profil/401786132711?hash=item5d8c51d8e7:g:Rp0AAOSwNT9dA5DX" %}
 {% assign productphoto = "../uploads/kolano_pex.jpg" %}
@@ -91,32 +95,40 @@ Kupferrohre, die bei der Installation von Gasleitungen im Haushalt verwendet wer
 
 </div></div>
 
+Eine weitere Methode ist die Verwendung von Pressfittings. In diesem speziellen Fall genügt ein gewöhnliches PEX-Fitting. Wenn Sie jedoch die Richtung des Gassystems ändern und es an die Konstruktion des Gebäudes anpassen möchten, verwenden Sie PEX-T-Stücke oder Pressbögen. Der Installationsprozess solcher Elemente ist derzeit einer der einfachsten, daher sollte jeder Fachmann in der Lage sein, dies zu tun. Diese Tatsache senkt definitiv die Kosten der Gasinstallation.
+
 ![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
 
-## Was sind die Vorteile von Stahlrohren?
+## Stahlrohre - Gasinstallation anfälliger für schädliche Faktoren?
 
-Die für die Installation von Gasleitungen verwendeten Stahlrohre haben größere Durchmesser als die Kupferrohre. Die Wände eines Stahlrohrs sind dicker, daher ist es steifer und es muss nicht mit zusätzlichen Elementen an einer Wand befestigt werden. Leider ist diese Art der Installation sehr schwer.
-
-Ähnlich wie Kupferrohre erfahren Stahlrohre für die Installation von Gasleitungen eine thermische Ausdehnung. Diese Eigenschaft macht sie für die Arbeit bei hohen Temperaturen geeignet. Stahlrohre können von einem Fachmann durch Löten oder mit Hilfe von Gewindefittings montiert werden.
+Stahlrohre, die für die Installation von Gasleitungen verwendet werden, haben größere Durchmesser als die Kupferrohre. Die Wände eines Stahlrohrs sind dicker, daher ist es steifer und braucht nicht mit zusätzlichen Elementen an einer Wand befestigt zu werden. Leider ist diese Art der Installation sehr schwer. **Leider ist eine solche Installation einer Hausgasleitung auch wesentlich schwerer.** Ähnlich wie Kupferleitungen sind steile Rohre thermisch ausdehnbar. Dank dieser Eigenschaft sind sie perfekt für hohe Temperaturen geeignet.
 
 {:.distinction.distinction-info.distinction-negative}
 
-Im Vergleich zu Kupferrohren nimmt der Prozess des Verbindens von Stahlrohren viel mehr Zeit in Anspruch. Sie sind auch weniger korrosionsbeständig und neigen eher dazu, im Inneren Kesselstein zu bilden (wenn sie für eine Wasserinstallation verwendet werden).
+_Stahlrohre können durch Löten oder mit Hilfe von Gewindefittings montiert werden. Im Vergleich zu Kupferrohren nimmt der Prozess des Verbindens von Stahlrohren viel mehr Zeit in Anspruch. Sie sind auch weniger korrosionsbeständig und neigen eher dazu, im Inneren Kalkablagerungen zu bilden (wenn sie für eine Wasserinstallation verwendet werden). Aus diesem Grund werden Stahlrohre seltener gewählt als Kupferrohre._
 
-### Lebensdauer der Rohre
+## Welche Gasleitungsinstallation ist besser - mit Kupfer- oder Stahlrohren?
 
-Sowohl Kupfer- als auch Stahlrohre können sehr lange halten, von 20 bis 50 Jahren und in einigen Fällen sogar noch länger. Diese Materialien werden oft durch PVC-Rohre (Polyvinylchlorid) ersetzt, doch ihre Lebensdauer ist umstritten. Sie werden jedoch nicht für Gasinstallationen verwendet.
+Beide Lösungen haben ihre Stärken und Schwächen. Die Kupferinstallation ist nicht nur funktional, sondern sieht auch gut aus. Rohre dieser Art können als Dekoration dienen. Dennoch sind sie nicht für Einbausysteme geeignet. Stahlrohre hingegen sind so stark wie Kupfer und können innerhalb einer Wand verlegt werden. Sie können jedoch nicht an Orten mit hoher Luftfeuchtigkeit installiert werden.
+
+Die Installation von Gasleitungen sollte daher auf die Gegebenheiten eines bestimmten Gebäudes abgestimmt werden.
+
+## Gasinstallation zu Hause - zusätzliche Ausrüstung, die eine Investition wert ist
+
+Wenn Sie sich für bestimmte Gasleitungen entscheiden, denken Sie daran, die restliche Ausrüstung zu sammeln, die den ordnungsgemäßen Betrieb des gesamten Systems unterstützt. Die **Gasleitungen** sind das Wesentliche, selbstverständlich, aber sie können nicht ohne zusätzliche Teile verwendet werden.
+
+Eines der wichtigsten Elemente, die gewöhnlich erwähnt werden, sind Kugelventile. Es handelt sich um eine äußerst wichtige Komponente - vor allem, wenn der Gasfluss schnell unterbrochen werden muss. Eine Fehlfunktion kann jederzeit auftreten, was ein perfektes Beispiel dafür ist. Wenn Sie ein Kugelgasventil verwenden, können Sie den Gasstrom in Ihrem Haus immer unterbrechen. Das ist eine große Bequemlichkeit - man muss keinen Spezialisten rufen, um so etwas Triviales zu tun.
 
 <div class="products-wrapper"><div class="products-container">
 
-{% assign producttype ="normal" %} 
-{% assign productlink = "https://www.ebay.de/itm/Messing-Muffe-Gewindmuffe-Fitting-Gewindefitting-Varianten-IG-1-2-3-4/401809894014?hash=item5d8dbc6a7e:g:vtIAAOSwgGJdsrUn" %} 
-{% assign productphoto = "../uploads/mufa_mosiezna.jpg" %} 
-{% assign productname = "Messing Muffe" %} 
-{% assign productprice = "EUR 1,99" %} 
-{% assign productdesc = "Ausgezeichnete Dichtheit der Installation, Korrosionsbeständigkeit" %} 
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Messing-Muffe-Gewindmuffe-Fitting-Gewindefitting-Varianten-IG-1-2-3-4/401809894014?hash=item5d8dbc6a7e:g:vtIAAOSwgGJdsrUn" %}
+{% assign productphoto = "../uploads/mufa_mosiezna.jpg" %}
+{% assign productname = "Messing Muffe" %}
+{% assign productprice = "EUR 1,99" %}
+{% assign productdesc = "Ausgezeichnete Dichtheit der Installation, Korrosionsbeständigkeit" %}
 {% include product.html %}
-  
+
 {% assign producttype ="promoted" %}
 {% assign productlink = "https://www.ebay.de/itm/Messing-T-Stuck-reduziert-Fitting-Gewindefitting-Heizkreisverteiler/401820475282?hash=item5d8e5ddf92:g:9ccAAOSwjJdd0qYq&var=671640455468" %}
 {% assign productphoto = "../uploads/trojnik_gaz.jpg" %}
@@ -127,6 +139,4 @@ Sowohl Kupfer- als auch Stahlrohre können sehr lange halten, von 20 bis 50 Jahr
 
 </div></div>
 
-## Installation von Gasleitungen - Kupfer- oder Stahlrohre?
-
-Beide Lösungen haben ihre Stärken und Schwächen. Die Kupferinstallation ist nicht nur funktional, sondern sieht auch gut aus. Rohre dieser Art können als Dekoration dienen. Dennoch sind sie nicht für eingelassene Systeme geeignet. Stahlrohre hingegen sind so stark wie Kupfer und können innerhalb einer Wand platziert werden. Aufgrund ihrer Korrosivität können sie jedoch nicht an Orten mit hoher Luftfeuchtigkeit installiert werden.
+Eine einwandfrei funktionierende Gasanlage hängt auch von Zubehör wie Gasfiltern ab. Dank diesem Element können Sie alle Verunreinigungen wirksam beseitigen. Dieses kleine, aber hochfunktionelle Produkt kann Funktionsstörungen mit möglicherweise schwerwiegenden Folgen und hohen Reparaturkosten verhindern.
