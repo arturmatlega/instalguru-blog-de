@@ -11,7 +11,7 @@ main_keywords:
 - Kupferfittings
 - pex-Rohrformstücke
 date: 2019-07-22T22:00:00.000+00:00
-update_date: 2019-07-22T22:00:00.000+00:00
+update_date: 2020-10-12 22:00:00 +0000
 title: Zentralheizung - welche Rohrformstücke garantieren die beste Heizung?
 small-intro: Jedes Zentralheizungssystem basiert auf verschiedenen Verbindungen verschiedener
   Elemente.
