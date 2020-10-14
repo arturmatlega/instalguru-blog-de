@@ -10,7 +10,7 @@ main_keywords:
 - Sanitäranlagen
 - Sanitärwaren
 date: 2020-01-21T11:00:00.000+00:00
-update_date: 2020-01-21T11:00:00.000+00:00
+update_date: 2020-10-14 10:00:00 +0000
 title: Installation des Waschbeckens im Badezimmer. Wie installiert man Badezimmerzubehör?
 small-intro: Der Anschluss der Sanitärartikel und -armaturen ist eine der wichtigsten
   Etappen bei der Fertigstellung eines Badezimmers.
