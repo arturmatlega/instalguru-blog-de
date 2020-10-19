@@ -58,6 +58,25 @@ Rohrabdeckung mit Trockenbau kann viele Formen annehmen. Es hängt vor allem von
 
 Das Verputzen lässt eine Vielzahl von Möglichkeiten, die den visuellen Aspekt des Raumes verbessern können. Sie können eine dekorative Lampe darin installieren, um **die Aufmerksamkeit auf die Details der Umgebung zu lenken**. Diese Methode zum Verbergen von Rohren ermöglicht auch das Verlegen von Fliesen oder anderen dekorativen Elementen auf der geschaffenen Oberfläche.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/SOUDAL-Gipskartonplatte-Acryl-Dichtung-Maleracryl-280-ml-Dichtstoff-weis/402151736912?hash=item5da21c8650:g:9z0AAOSwswdekErL" %}
+{% assign productphoto = "../uploads/akryl-usczelniajacy-plyty-gk.jpg" %}
+{% assign productname = "Acryl Dichtung für Gipskartonplatte" %}
+{% assign productprice = "EUR 4,80" %}
+{% assign productdesc = "Geruchloses Produkt - ideal zum Füllen von Lücken" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/SOUDAL-Universal-Dichtungsmittel-FixAll-Turbo-290-ml-Maleracryl-Acryl-weis/402154202302?hash=item5da24224be:g:wNQAAOSwwdhekEq6" %}
+{% assign productphoto = "../uploads/soudal-fixall.jpg" %}
+{% assign productname = "Universal Dichtungsmittel FixAll Turbo 290 ml" %}
+{% assign productprice = "EUR 13,00" %}
+{% assign productdesc = "Witterungsbeständige Substanz - schnelle Wirkung" %}{% include product.html %}
+
+</div></div>
+
 Denken Sie daran, dass die so entstandene Trockenbauwand nur dann gut aussieht, wenn Sie für eine gute Ausführung sorgen. Eventuelle neue Risse und Unebenheiten können mit Produkten wie Acryl-Dichtungsmittel für Gipskartonplatten entfernt werden. Sowohl die Installation von Gipskartonplatten als auch das Glätten des Trockenbaus sind einfache und leichte Aufgaben, die jeder ausführen kann. Daher müssen Sie sich um nichts kümmern, wenn Sie diese Methode wählen.
 
 Wenn Sie sich fragen, wie man in einem kleinen Badezimmer Rohre verbergen kann - auch in diesem Fall ist Trockenbau geeignet. **Sie müssen jedoch bedenken, dass Innenräume mit höherer Luftfeuchtigkeit spezielle wasserdichte Gipskartonplatten erfordern.** Sie sind wesentlich haltbarer und weniger anfällig für schädliche Faktoren.
