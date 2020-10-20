@@ -26,7 +26,12 @@ intro: Das Wohnungslüftungssystem ist zwar unsichtbar, aber es spielt in jeder 
 photo: "/uploads/wall-768765_960_720.webp"
 photo_desc: Das entsprechende System ermöglicht eine Luftzirkulation in jedem Raum
   eines Gebäudes.
-faq: []
+faq:
+- question: Was ist das beste Heimvergiftungssystem?
+  answer: Natürliche Lüftung ist die beste Lösung für jedes Gebäude. Manchmal ist
+    sie obligatorisch - so wie es das Gesetz vorschreibt. Denken Sie daran, dass man
+    in jedem Fall die Lüftungsanlage auf die einzelnen Aspekte eines Gebäudes abstimmen
+    sollte.
 author_name: Mateusz Knapik
 author_desc: Spezialist für Vertrieb und Kundenbetreuung bei Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
