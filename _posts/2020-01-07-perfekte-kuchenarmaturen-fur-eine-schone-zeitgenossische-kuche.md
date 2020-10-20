@@ -25,7 +25,13 @@ intro: Planen Sie, Ihr Haus fertigzustellen? Sie haben keine Ahnung, wie Sie Ihr
   In erster Linie - Küchenarmaturen.
 photo: "/uploads/tap-791172_960_720.webp"
 photo_desc: Der Markt bietet eine große Auswahl an verschiedenen Küchenarmaturen.
-faq: []
+faq:
+- question: Welchen Küchenwasserhahn wählen?
+  answer: Bei der Wahl der Küchenarmatur können Sie sich zwischen einem Wand- oder
+    Deckmodell entscheiden. Ersteres ist perfekt, wenn sich die Verrohrung oberhalb
+    des Spülbeckens befindet. Eine Küchenarmatur, die auf dem Deck montiert wird,
+    ist eine perfekte Option für moderne Küchen - ideal für eine Spüle auf einer Insel
+    oder am Fenster.
 author_name: Magdalena Data-Urban
 author_desc: Inhalts-Manager bei Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
