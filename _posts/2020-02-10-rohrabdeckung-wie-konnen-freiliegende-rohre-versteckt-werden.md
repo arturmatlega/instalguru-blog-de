@@ -21,7 +21,12 @@ intro: Kabel, die aus der Decke ragen? Rohre, die überhaupt nicht in den Innenr
 photo: "/uploads/61e19b6b343a4ba0880faea4a0184e68.jpg"
 photo_desc: Wie können Sie freiliegende Rohre verbergen, um Ihr Interieur perfekt
   zu gestalten? Dafür gibt es zwei gute Lösungen.
-faq: []
+faq:
+- question: Ist eine Rohrabdeckung immer notwendig?
+  answer: Die Verkleidung von Rohren in einem Raum beeinträchtigt die Ästhetik des
+    Interieurs. Wenn Sie sich für den Loft-Stil entschieden haben, müssen Sie es nicht
+    tun. Rohrabdeckungen sind in diesem Fall nicht notwendig, da die freiliegenden
+    Rohre dem Entwurf einen Charakter verleihen.
 author_name: Magdalena Data-Urban
 author_desc: Inhalts-Manager bei Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
