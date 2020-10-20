@@ -96,6 +96,25 @@ Die Belüftung mit den Luftkräften innerhalb und außerhalb des Gebäudes ist d
 
 **Bei der Lüftung mit Wärmerückgewinnung werden spezielle Vorrichtungen, so genannte Rekuperatoren, verwendet.** Sie entziehen der Luft, die das Gebäude verlässt, Wärme und erwärmen damit die in das Haus eintretende Frischluft. Eine solche Lösung ist besonders im Winter perfekt, wenn die Gebäude viel Wärme verlieren.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Luftungsgitter-Rund-Abluftgitter-Tur-Bad-WC-Zuluft-Abluft-Kunststoff-DN-100-120/401796250234?hash=item5d8cec3a7a:g:KIMAAOSwGTheOVka" %}
+{% assign productphoto = "../uploads/kratka_okr.jpg" %}
+{% assign productname = "Lüftungsgitter Rund" %}
+{% assign productprice = "EUR 1,39" %}
+{% assign productdesc = "Resistent gegen Feuchtigkeit und mechanische Beschädigung" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Luftungsgitter-Quadrat-Abluftgitter-Tur-Bad-WC-Zuluft-Abluft-Kunststoff/401819413338?hash=item5d8e4dab5a:g:2vUAAOSwdzZeOVlG" %}
+{% assign productphoto = "../uploads/kratka_kw.jpg" %}
+{% assign productname = "Lüftungsgitter Quadrat" %}
+{% assign productprice = "EUR 1,59" %}
+{% assign productdesc = "Hergestellt aus sehr haltbarem Material" %}{% include product.html %}
+
+</div></div>
+
 ## Ein unzureichendes Belüftungssystem stellt eine Gefahr für Ihre Gesundheit dar
 
 Abgesehen von den bereits erwähnten zwei Situationen, in denen Sie verdächtig sein können, dass Ihr Lüftungssystem schlecht konzipiert ist oder nicht zu Ihrem Gebäude passt, könnten Sie auch auf andere Probleme stoßen. Was sollte sonst noch Anlass zur Sorge geben?
