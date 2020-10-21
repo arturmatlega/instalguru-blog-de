@@ -13,7 +13,7 @@ main_keywords:
 - Fußbodenheizungen
 - Fußbodenheizungen
 date: 2019-12-30T11:00:00.000+00:00
-update_date: 2020-07-30T10:00:00.000+00:00
+update_date: 2020-10-21 10:00:00 +0000
 title: Beheizte Böden. Welches System ist besser - Wasser oder Strom?
 small-intro: Beheizte Fußböden haben in den letzten Jahren an Popularität gewonnen.
 intro: Stellen Sie sich einen frostigen, kühlen Tag vor. Sie beenden Ihre Arbeit und
