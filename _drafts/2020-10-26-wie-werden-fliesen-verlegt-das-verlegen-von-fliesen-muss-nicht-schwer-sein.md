@@ -18,7 +18,8 @@ intro: Das Fliesen von Boden und Wänden ist eine der beliebtesten Methoden zur 
   können. Sie müssen nur die grundlegenden Informationen über das Verlegen von Fliesen
   lernen.
 photo: "/uploads/plytki1.jpg"
-photo_desc: ''
+photo_desc: Obwohl das Verlegen von Fliesen nicht sehr kompliziert ist, ist es notwendig,
+  sich vor Beginn der Arbeiten darauf vorzubereiten.
 faq:
 - question: Bodenfliesen verlegen - wie beginnen?
   answer: Beim Fliesenlegen sollte man damit beginnen, alle notwendigen Materialien
