@@ -29,7 +29,7 @@ faq:
     - so können Sie eventuelle Anpassungen an den weniger sichtbaren Seiten des Innenraums
     vornehmen.
 author_name: Mateusz Knapik
-author_desc: ''
+author_desc: Spezialist für Vertrieb und Kundenbetreuung bei Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: false
 hreflangs: []
