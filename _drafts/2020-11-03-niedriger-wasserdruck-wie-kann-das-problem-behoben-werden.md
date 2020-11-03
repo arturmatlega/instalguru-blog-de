@@ -49,6 +49,25 @@ In diesem Fall empfiehlt es sich, einen speziellen Kompensator zu installieren, 
 
 Ein zu hoher Wasserdruck ist nicht nur unangenehm für die Benutzer, sondern kann auch schädlich für das Funktionieren des Systems sein. Rohrleitungen und Armaturen, die das Medium übertragen, könnten überlastet werden. Das bedeutet, dass ihre Haltbarkeit abnimmt und das ordnungsgemäße Funktionieren des Systems viel kürzer dauert, als es sollte. Aus diesem Grund sollte man darauf achten, die Intensität des Wasserflusses zu verringern und für einen korrekten Druck zu sorgen.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://www.ebay.de/itm/Druckminderer-mit-Manometer-Wasser-0-10-bar-DN15-DN20-1-2-3-4-Messing-NEU/401796268618?hash=item5d8cec824a:g:Fi4AAOSwtC1d09D6" %}
+{% assign productphoto = "../uploads/reduktor.jpg" %}
+{% assign productname = "Druckminderer mit Manometer" %}
+{% assign productprice = "EUR 20,99" %}
+{% assign productdesc = "Schutz des Wassersystems vor plötzlichen Druckstößen" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://www.ebay.de/itm/Manometer-bar-63-mm-Radial-1-4-Hydraulik-Druckminderer-Armatur-Druckluft/401820464214?hash=item5d8e5db456:g:aQwAAOSwRu5dragc" %}
+{% assign productphoto = "../uploads/manometr.jpg" %}
+{% assign productname = "Manometer" %}
+{% assign productprice = "EUR 4,29" %}
+{% assign productdesc = "Druckflussregelung in Anlagen" %}{% include product.html %}
+
+</div></div>
+
 ## Korrekter Wasserdruck in einem Wasserhahn - wie man ihn misst
 
 Die Überprüfung des Drucks in den Rohrleitungen ist recht einfach. Dazu benötigt man jedoch eine spezielle Apparatur. Manometer ist das Grundgerät, das zu diesem Zweck verwendet wird. Es ist ein kleines Instrument, das, nachdem es auf den Auslauf aufgesteckt wurde, den genauen Wasserdruck im Wasserhahn anzeigt. Um den Druck zu messen, muss man das Wasser aufdrehen und den vom Gerät angezeigten Wert ablesen.
