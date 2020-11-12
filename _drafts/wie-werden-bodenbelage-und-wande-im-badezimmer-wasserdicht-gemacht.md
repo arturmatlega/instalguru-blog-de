@@ -77,6 +77,8 @@ Badezimmerabdichtungen können mit drei Arten von Produkten ausgeführt werden -
 * **Dichtungsmassen** - eine perfekte Alternative zu einer flüssigen Membran. Sie wird aus Zementmörtel und Kunstharz hergestellt. Diese Art von Material hat eine viel dichtere Struktur als die zuvor erwähnte Membran. Sie wird typischerweise zur Sicherung mineralischer Oberflächen verwendet, aber die Hersteller bieten auch Produkte für Platten- oder Steinverkleidungen an. Die Verbindung sollte kreuzweise, in zwei Schichten aufgetragen werden. Sie kann nicht für Innenräume mit Fußbodenstrahlungsheizung verwendet werden.
 * **Abdichtmassen auf Zementbasis** - ebenfalls ein hochwirksames Material, das nicht nur in Badezimmern, sondern auch auf Balkonen, Terrassen und zum Schutz von Fundamenten verwendet wird. Das Material ist sehr langlebig, frostbeständig und flexibel.
 
+![](/uploads/hydroizolacja3.jpg)
+
 ## Wie man ein Badezimmer wasserdicht macht - eine Schritt-für-Schritt-Anleitung
 
 Die Vorbereitung des Untergrundes ist der wichtigste Punkt, den man vor dem Aufbringen einer Abdichtungsschicht tun sollte. Sie muss nach der Renovierung von allen nassen und fettigen Flecken, Staub und verbleibenden Elementen gereinigt werden. Größere Löcher müssen mit Mörtel gefüllt werden. Wenn die Oberfläche fertig ist, kann man mit dem Auftragen eines Abdichtungsproduktes beginnen. Während des Prozesses sollte man die Anweisungen des Herstellers sorgfältig befolgen. Alle notwendigen Informationen sind auf die Verpackung geschrieben. Es ist darauf zu achten, dass zwei Schichten aufgetragen werden.
