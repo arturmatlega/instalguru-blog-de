@@ -38,7 +38,21 @@ author_name: Mateusz Knapik
 author_desc: Spezialist für Vertrieb und Kundenbetreuung bei Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/dlaczego-warto-postawic-na-bidet-w-lazience-i-jak-go-zamontowac.html
+- lang: en
+  link: https://instalguru.co.uk/blog/why-should-you-have-a-bidet-for-your-bathroom-and-how-to-install-it.html
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
 noindex: false
 
 ---
