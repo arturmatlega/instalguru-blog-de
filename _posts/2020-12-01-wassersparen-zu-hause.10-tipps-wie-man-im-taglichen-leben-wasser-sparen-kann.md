@@ -63,13 +63,43 @@ Wie kann man bei fließendem Wasser täglich Wasser sparen? Ist das überhaupt m
 
 Benutzen Sie einen Geschirrspüler? Kein Problem - auch in diesem Fall ist Wasser sparen möglich. Schalten Sie sie einfach erst ein, wenn sie voll beladen ist.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/36qCIge" %}
+{% assign productphoto = "../uploads/wylewka2.jpg" %}
+{% assign productname = "Beweglicher Batterieauslauf" %}
+{% assign productprice = "EUR 10,99" %}
+{% assign productdesc = "Beständig gegen übermäßige Kesselstein- und Rostbildung" %}{% include product.html %}
+
+</div></div>
+
 ### Wie kann man bei der täglichen Waschroutine Wasser sparen?
 
-Wassereinsparung ist möglich beim erwähnten Zähneputzen oder - für Männer - beim Rasieren. Ähnlich wie beim Geschirrspülen muss man kontrollieren, wann der Wasserstrom tatsächlich benötigt wird. Wenn kein Bedarf besteht, denken Sie daran, den Wasserhahn zuzudrehen.**.**
+Wassereinsparung ist möglich beim erwähnten Zähneputzen oder - für Männer - beim Rasieren. Ähnlich wie beim Geschirrspülen muss man kontrollieren, wann der Wasserstrom tatsächlich benötigt wird. Wenn kein Bedarf besteht, denken Sie daran, den Wasserhahn zuzudrehen.
 
 ### Wechseln Sie Ihre Badezimmerausstattung und sparen Sie Wasser
 
 Der Markt bietet Zubehör an, das das Wassersparen erleichtern kann. Denken Sie über die Installation eines Spülmechanismus mit einem Start-Stopp-Knopf nach. Spülungen mit einer solchen Funktion könnten den Wasserverbrauch sogar um bis zu 50% reduzieren. Wenn Sie sehen, dass der Abfall aus der Toilettenschüssel entfernt wurde, drücken Sie einfach den "Stop"-Knopf. Die Hersteller bieten Geräte in verschiedenen Größen an - 9-Liter- und kleinere 7-Liter-Spülungen sind die beliebtesten Modelle.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/2KTzqtr" %}
+{% assign productphoto = "../uploads/wc.jpg" %}
+{% assign productname = "Toilettenspülung 7 Liter" %}
+{% assign productprice = "EUR 20,99" %}
+{% assign productdesc = "Die Spülkasten ist widerstandsfähig gegen Wasser und mechanische Beschädigungen." %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/3fVkHd8" %}
+{% assign productphoto = "../uploads/wc2.jpg" %}
+{% assign productname = "Spülkasten Toilette 7 Liter" %}
+{% assign productprice = "EUR 24,99" %}
+{% assign productdesc = "Universal-Toilettenspülkasten von Inter-Sano" %}{% include product.html %}
+
+</div></div>
 
 ### Wie kann man im täglichen Leben Wasser sparen? Verwenden Sie einen wassersparenden Belüfter
 
@@ -78,6 +108,25 @@ Die Installation eines wassersparenden Belüfters ist eine der einfachsten Mögl
 {:.distinction.distinction-info.distinction-positive}
 
 Dank ihm wird der Wasserverbrauch um bis zu 50-60% reduziert.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/36rRhAc" %}
+{% assign productphoto = "../uploads/perlator-1.jpg" %}
+{% assign productname = "Belüfter" %}
+{% assign productprice = "EUR 2,99" %}
+{% assign productdesc = "Schnelle und effiziente Wasserbelüftung" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/2VnkpSV" %}
+{% assign productphoto = "../uploads/perlatorlong.jpg" %}
+{% assign productname = "Einzelfunktions-Langstreckenbelüfter" %}
+{% assign productprice = "EUR 4,79" %}
+{% assign productdesc = "Flexibles Batterieelement mit Einzelfunktion" %}{% include product.html %}
+
+</div></div>
 
 ### Ein luftdichtes Klempnersystem spart auch Wasser
 
