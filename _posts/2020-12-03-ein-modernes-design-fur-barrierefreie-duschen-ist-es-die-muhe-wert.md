@@ -28,7 +28,21 @@ author_name: Maksymilian Ignacyk
 author_desc: Verkaufs- und Marketing-Spezialist bei Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/czy-warto-inwestowac-w-nowoczesny-prysznic-bez-brodzika.html
+- lang: en
+  link: https://instalguru.co.uk/blog/a-modern-curbless-shower-design-is-it-worth-the-effort.html
+- lang: de
+  link: https://instalguru.de/blog/ein-modernes-design-fur-barrierefreie-duschen-ist-es-die-muhe-wert.html
+- lang: it
+  link: https://instalguru.it/blog/un-design-moderno-e-senza-curvature-per-la-doccia-ne-vale-la-pena.html
+- lang: fr
+  link: https://instalguru.fr/blog/une-douche-sans-bac-a-douche-moderne-cela-en-vaut-il-la-peine.html
+- lang: es
+  link: https://instalguru.es/blog/un-moderno-diseno-de-ducha-sin-rizo-merece-la-pena-el-esfuerzo.html
+- lang: cz
+  link: https://instalguru.cz/blog/stoji-za-to-investovat-do-moderni-sprchy-bez-palety.html
 noindex: false
 
 ---
@@ -57,6 +71,25 @@ Eine barrierefreie Dusche ist eine sehr praktische Lösung; außerdem ist sie f�
 Wenn Sie sich für eine barrierefreie Dusche entscheiden, müssen Sie jedoch die richtigen Abdichtungsprodukte und einen geeigneten Fliesenmörtel verwenden. Dank dessen ist das barrierefreie Duschsystem sicher für den Raum.
 
 Heute bietet der Markt Abdichtungen und Fugenmörtel mit höheren Abdichtungsparametern an, dank derer die Duschzone über lange Jahre sicher ist. Neben dem Standard-Ablaufschutz bieten die Hersteller auch Abdichtungsmaterialien wie Flüssigmembranen und Dichtungen an. Für den Notfall kann man Abdichtungsmaterialien separat kaufen.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/3odhetc" %}
+{% assign productphoto = "../uploads/sleek.jpg" %}
+{% assign productname = "Linienentwässerung Sleek" %}
+{% assign productprice = "EUR 61,00" %}
+{% assign productdesc = "Produkt extrem widerstandsfähig gegen Beschädigung und Korrosion" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/36AaorO" %}
+{% assign productphoto = "../uploads/odwodnieniepkt.jpg" %}
+{% assign productname = "Bodenablauf" %}
+{% assign productprice = "EUR 3,49" %}
+{% assign productdesc = "Langlebiges Produkt aus langlebigem rostfreiem Stahl" %}{% include product.html %}
+
+</div></div>
 
 ## Wie viel kostet eine barrierefreie Dusche?
 
@@ -89,6 +122,25 @@ Warum ist eine barrierefreie Dusche eine Überlegung wert? Zunächst einmal:
 * es nimmt viel weniger Platz ein, so dass es mehr Gestaltungsmöglichkeiten für den Innenraum gibt, da jede Ecke und Nische im Bad genutzt wird; bei klassischen Duschkabinen ist das unmöglich,
 * es sieht großartig aus - es ist also eine perfekte Wahl für diejenigen, die moderne Lösungen und ungewöhnliche Ästhetik schätzen; es begrenzt das Risiko einer gefährlichen Situation, da es keinen Bordstein gibt, der einen Unfall verursachen könnte,
 * sie ist relativ einfach zu installieren - wenn Sie über bestimmte Grundkenntnisse verfügen, könnten Sie versuchen, eine barrierefreie Dusche ohne einen Spezialisten zu installieren.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/3g4dhEe" %}
+{% assign productphoto = "../uploads/sluchawka.jpgg" %}
+{% assign productname = "Duschgarnitur Handbrause 3 Funktionen" %}
+{% assign productprice = "EUR 14,99" %}
+{% assign productdesc = "Für Wandmontage ausgelegt" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/3g7Orng" %}
+{% assign productphoto = "../uploads/deszcz.jpg" %}
+{% assign productname = "Quadratischer Regenschauer" %}
+{% assign productprice = "EUR 9,50" %}
+{% assign productdesc = "Ausgestattet mit speziellen Gummidüsen, die im Anti-Calc-System erstellt wurden" %}{% include product.html %}
+
+</div></div>
 
 ## Eine funktionelle barrierefreie Dusche - wählen Sie das richtige Zubehör
 
