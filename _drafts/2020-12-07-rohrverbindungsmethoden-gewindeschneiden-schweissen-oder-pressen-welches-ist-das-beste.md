@@ -59,6 +59,32 @@ Bei Sanitärsystemen gibt es auch direkte und indirekte Verbindungen. Indirekte 
 
 PP-R-Rohre sind sehr beliebt. Sie bestehen aus einem Kunststoffmaterial namens Polypropylen - daher die Abkürzung PP-R. Rohre dieser Art werden üblicherweise durch Schweißen verbunden. Eine PP-R-Muffe ist das Grundelement, das zur Herstellung von Verbindungen in diesem System verwendet wird - sie ermöglicht es, zwei Rohre miteinander zu verbinden. Wenn Sie den Verlauf des Systems ändern wollen, ist ein PP-R-T-Stück praktisch. Manchmal müssen Rohre mit unterschiedlichen Durchmessern verbunden werden. In einem solchen Fall müssen Sie eine Reduziermuffe oder ein T-Stück verwenden.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/3oprO0i" %}
+{% assign productphoto = "../uploads/kolano-1.jpg" %}
+{% assign productname = "PP-R Rohr Bogen" %}
+{% assign productprice = "EUR 1,49" %}
+{% assign productdesc = "Robust und einfach zu installieren" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/3qv49gZ" %}
+{% assign productphoto = "../uploads/mufa.jpg" %}
+{% assign productname = "Reduzierung Muffe PP-R" %}
+{% assign productprice = "EUR 1,19" %}
+{% assign productdesc = "Getestet beim Erstellen, Reparieren oder Aufrüsten von Installationssystemen" %}{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/39SHG7w" %}
+{% assign productphoto = "../uploads/trojnik.jpg" %}
+{% assign productname = "T-Stück Reduziert PP-R" %}
+{% assign productprice = "EUR 2,29" %}
+{% assign productdesc = "Geeignet für Wasser- und Heizungsinstallationen" %}{% include product.html %}
+
+</div></div>
+
 Polypropylenrohre müssen mit einem Schmelzschweißgerät für thermoplastische Kunststoffe verbunden werden. Geräte dieser Art unterscheiden sich durch die Leistung. Ein 1100W-Schmelzschweißgerät ist recht beliebt. Wenn Sie jedoch eine bessere Effizienz wünschen, könnte ein 2660W-Rohrschweißgerät die bessere Wahl sein. Die Außenschicht des Rohrs wird erwärmt und schmilzt und verbindet sich mit der Innenfläche des Fittings. Die Verbindung ist dauerhaft und lecksicher.
 
 PP-R-Systemelemente können auch durch Gewinde verbunden werden. Dazu benötigt man Fittings mit einem speziellen Messing-Außen- oder Innengewinde. Zusätzlich wird ein spezielles Produkt benötigt, um den Prozess zu erleichtern. Gewindeöl wird dringend empfohlen.
@@ -70,6 +96,32 @@ PP-R-Systemelemente können auch durch Gewinde verbunden werden. Dazu benötigt 
 Zur Verbindung von Rohren von Zentralheizungs- und Warmwassersystemen werden Gewinde- oder Klemmverschraubungen verwendet. Beide PEX-Rohrverbindungsmethoden liefern zufriedenstellende Ergebnisse und sind gegen verschiedene Faktoren beständig.
 
 Wenn Gewindeelemente verwendet werden, muss man nur die Mutter anziehen, um das Rohr und das Rohrstück zu verbinden. Auf diese Weise wird der Befestigungsring an das Rohr gepresst. Die spezielle Form des Rings verhindert, dass er sich beim Anziehen der Mutter bewegt.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/3ox6S7C" %}
+{% assign productphoto = "../uploads/kolano-2.jpg" %}
+{% assign productname = "Pressfitting Bogen" %}
+{% assign productprice = "EUR 2,69" %}
+{% assign productdesc = "Effiziente und dichte Verbindung des Heizsystems" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/3owZHwh" %}
+{% assign productphoto = "../uploads/pexzlaczka.jpg" %}
+{% assign productname = "Pressfitting Übergangsnippel" %}
+{% assign productprice = "EUR 2,19" %}
+{% assign productdesc = "Befestigung durch Schweißverfahren" %}{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/2VNEvWv" %}
+{% assign productphoto = "../uploads/trojnik-1.jpg" %}
+{% assign productname = "Pressfitting T-Stück" %}
+{% assign productprice = "EUR 6,89" %}
+{% assign productdesc = "Beständig gegen Beschädigung, Kesselsteinbildung und Korrosion" %}{% include product.html %}
+
+</div></div>
 
 Wenn Sie komprimierte Rohrstücke verwenden, muss eine spezielle Kontraktionsspannzange direkt auf das Rohr gesetzt werden. Diese Rohrverbindungsmethode erfordert auch ein spezielles Presswerkzeug. Das Werkzeug muss auf die Spannzange aufgesetzt werden, und der Kompressor wird eingeschaltet. Nach einigen Sekunden ist ein charakteristischer Riss zu hören - dies bedeutet, dass die Spannzange mit dem Rohr verbunden wurde.
 
