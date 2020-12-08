@@ -133,6 +133,18 @@ PE-Rohrsysteme verwenden zwei Verbindungsmethoden. Eine davon ist das Schweißen
 
 Eine andere Methode zur Verbindung von PE-Rohren besteht in der Verwendung von Rohrstücken - ebenfalls aus Polyethylen. Diese Verbindungsmethode ist perfekt für kleine Rohre, die z.B. in Sanitärsystemen verwendet werden.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/3qCLlwb" %}
+{% assign productphoto = "../uploads/rurape.jpg" %}
+{% assign productname = "PE Bogen" %}
+{% assign productprice = "EUR 1,59" %}
+{% assign productdesc = "Dauerhaftes Formteil aus widerstandsfähigem Kunststoff" %}
+{% include product.html %}
+
+</div></div>
+
 ## Wie verbindet man Kupferrohre?
 
 Die Verbindungstechnik von Kupferrohren unterscheidet sich deutlich von den anderen Methoden. Das entscheidende Element in diesem Fall ist der Lötprozess. Man kann Rohrstücke verwenden, sie schweißen oder Gewindeelemente verwenden. Diese Methoden werden jedoch selten verwendet, um Systeme mit Kupferelementen zu montieren.
@@ -141,6 +153,25 @@ Die Verbindungstechnik von Kupferrohren unterscheidet sich deutlich von den ande
 
 * Weichlöten, auch als Zinnlot bekannt, wird in Wasser- und Heizungssystemen zum Verbinden oder Reparieren von Rohren verwendet. Bei diesem Lötverfahren wird das Metall auf bis zu 200-250ºC erhitzt. Dazu kann ein einfacher elektrischer Lötkolben oder ein Gasbrenner verwendet werden. Lötmittel oder Lötpaste sind entscheidende Elemente - sie können austauschbar verwendet werden.
 * Hartlöten - es unterscheidet sich vom ersten Typ durch die Schmelztemperatur des Lotes. Sie muss viel höher sein als beim Lötzinn. Normalerweise liegt sie bei 630-890ºC. In diesem Fall muss man einen Hochleistungslötkolben oder einen Gasbrenner verwenden. Diese Art der Verbindung wird für Rohre mit einem Durchmesser über 28 mm und in Gassystemen verwendet.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/2JJsAqk" %}
+{% assign productphoto = "../uploads/uszczelniacz.jpg" %}
+{% assign productname = "Gewindedichtfaden Twineflon 175 m" %}
+{% assign productprice = "EUR 14,99" %}
+{% assign productdesc = "Beständig gegen schädliche Chemikalien, Lösungsmittel und Kraftstoffe" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/2JAQAfn" %}
+{% assign productphoto = "../uploads/pastadolutu.jpg" %}
+{% assign productname = "Lotpaste Degufit 3000" %}
+{% assign productprice = "EUR 9,00" %}
+{% assign productdesc = "Ausgelegt für Rohre und Fittings aus Kupfer" %}{% include product.html %}
+
+</div></div>
 
 ## Verbindungsmethoden für PP-Rohre
 
@@ -155,3 +186,22 @@ Andere Methoden zur Verbindung von PP-Rohren erfordern die Verwendung von Klebst
 Wenn Sie das Rohr einschieben, drehen Sie es um 90°. Auf diese Weise verteilt sich der Klebstoff gleichmäßig über die gesamte Oberfläche. Wischen Sie den Überschuss mit einem feuchten Tuch ab.
 
 Der Anschluss der PCV-Rohre ist schnell und einfach, es werden keine Spezialwerkzeuge benötigt, und Sie können sie selbst installieren. Sie brauchen nur die richtigen Produkte.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/2LiZIpl" %}
+{% assign productphoto = "../uploads/gwintol.jpg" %}
+{% assign productname = "Öl für Gewinde" %}
+{% assign productprice = "EUR 13,50" %}
+{% assign productdesc = "Auf der Basis von Mineralölen" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/3oxN7gb" %}
+{% assign productphoto = "../uploads/srodek.jpg" %}
+{% assign productname = "Schmiermittel für Rohre" %}
+{% assign productprice = "EUR 4,40" %}
+{% assign productdesc = "/uploads/srodek.jpg" %}{% include product.html %}
+
+</div></div>
