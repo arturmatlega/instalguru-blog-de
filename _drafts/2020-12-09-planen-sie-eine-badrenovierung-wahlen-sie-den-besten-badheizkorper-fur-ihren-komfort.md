@@ -89,6 +89,25 @@ Ein klassischer Badheizkörper ist auch für einen Toilettenraum eine gute Optio
 
 Interessanterweise werden moderne Badheizkörper häufig in anderen Innenräumen eingesetzt - nicht nur in Badezimmern oder Toilettenräumen. Sie erscheinen in Fluren und Wohnzimmern - wo sie als Dekoration dienen.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/2VURjKP" %}
+{% assign productphoto = "../uploads/glowica.jpg" %}
+{% assign productname = "Heizkörper Thermostatkopf" %}
+{% assign productprice = "EUR 20,90" %}
+{% assign productdesc = "Funktionaler Wärmeversorgungsregler" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/33YhMvn" %}
+{% assign productphoto = "../uploads/rozdzielacz.jpg" %}
+{% assign productname = "Fußbodenheizung Verteiler Heizkreise" %}
+{% assign productprice = "EUR 45,99" %}
+{% assign productdesc = "Gleichmäßige Wärmeverteilung" %}{% include product.html %}
+
+</div></div>
+
 ### Wie viel kostet ein Badheizkörper?
 
 Diese Frage ist mit mehreren entscheidenden Aspekten verbunden. Die Leistung eines Badheizkörpers ist entscheidend - je höher sie ist, desto teurer ist der Heizkörper. Auch das Material, die Qualität des Geräts und der Hersteller sind wichtig. Badheizkörper aus Messing sind einige Male teurer als Aluminiumheizkörper. Auch die Angaben des Herstellers zur Haltbarkeit wirken sich auf den Preis aus.
