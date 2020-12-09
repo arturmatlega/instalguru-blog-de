@@ -56,6 +56,25 @@ Auf dem Markt sind verschiedene Typen von Wasserzählern erhältlich. Sie unters
 
 Wasserfluss ist die einfachste Klassifizierung. In dieser Hinsicht können Sie einen mechanischen oder digitalen Wasserzähler wählen. Jeder von ihnen hat seine Vor- und Nachteile - es gibt also keine endgültige Lösung. Wenn Sie einen Spezialisten, einen Klempner, zu Rate ziehen, werden Sie wahrscheinlich eines hören - der Wasserzähler sollte Ihren eigenen Erwartungen und Ihrem Budget entsprechen. Jeder Wasserzähler steht für einen anderen Preis - und das sollten Sie im Hinterkopf behalten.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/37KZ63r" %}
+{% assign productphoto = "../uploads/piep.jpg" %}
+{% assign productname = "Messing Rückschlagventil" %}
+{% assign productprice = "EUR 8,99" %}
+{% assign productdesc = "Hergestellt aus langlebigem Messing" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/36XoyDE" %}
+{% assign productphoto = "../uploads/mufa-1.jpg" %}
+{% assign productname = "Messing Muffe" %}
+{% assign productprice = "EUR 1,99" %}
+{% assign productdesc = "Es funktioniert gut unter schwierigen Bedingungen" %}{% include product.html %}
+
+</div></div>
+
 ### Ein traditioneller oder moderner Wasserzähler?
 
 Ein mechanischer Wasserzähler misst den Wasserverbrauch mit einem Flügelrad. Das Element bewegt sich, wenn Wasser durchfließt. Solche Modelle werden seltener verwendet als die anderen, da die Ablesungen fehlerhaft sein können. Dennoch gibt es verschiedene Arten von mechanischen Wasserzählern. Sie können Modelle erhalten wie z.B:
@@ -98,6 +117,25 @@ Sie fragen sich, wo und wie ein Wasserzähler installiert werden soll? Wie Ihnen
 * Wählen Sie eine Stelle, an der der Wasserzähler nicht den Vibrationen des Wassersystems ausgesetzt ist.
 * Ein Wasserzähler sollte nicht an einem Ort mit sehr hohen oder sehr niedrigen Temperaturen aufgestellt werden. Im ersten Fall könnte er zerstört werden, und im zweiten Fall - könnte das Gerät einfrieren und reißen.
 * Wasserzähler müssen leicht zugänglich sein. Manchmal kann es vorkommen, dass ein Wasserzähler nicht richtig funktioniert. Aus diesem Grund muss er an einem leicht zugänglichen Ort aufgestellt werden, damit der Reparatur- oder Austauschprozess schnell vonstatten geht.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/2IzEGlo" %}
+{% assign productphoto = "../uploads/konsola_wodo.jpg" %}
+{% assign productname = "Wasserzählerbügel" %}
+{% assign productprice = "EUR 18,99" %}
+{% assign productdesc = "Langlebiger und stabiler Halter für Messgeräte" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/2Iw0Uol" %}
+{% assign productphoto = "../uploads/srubunek.jpg" %}
+{% assign productname = "Messing Verschraubung zum Wasserzähler" %}
+{% assign productprice = "EUR 3,09" %}
+{% assign productdesc = "Beständig gegen hohe Temperaturen und Feuchtigkeit" %}{% include product.html %}
+
+</div></div>
 
 ## Brauchen Sie einen Klempner, um einen Wasserzähler zu installieren?
 
