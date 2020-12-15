@@ -88,18 +88,40 @@ Einstiegsaugen ermöglichen es Ihnen, das Innere der Wannenschürze schnell und 
 {:.list.list-positive}
 
 * Wasserzähler,
-
-  Wärmezähler,
-
-  Geruchsverschlüsse für Badewannen,
-
-  Ventile,
-
-  Filter.
+* Wärmezähler,
+* Geruchsverschlüsse für Badewannen,
+* Ventile,
+* Filter.
 
 {:.distinction.distinction-info.distinction-negative}
 
 Das Loch sollte groß genug sein, um die Werkzeuge leicht manövrieren zu können. Vergessen Sie das nicht, denn im Falle einer Störung und fehlender Zugangsaugen kann die Wannenschürze beschädigt werden.
+
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/3r16Ffg" %}
+{% assign productphoto = "../uploads/silikon-2.jpg" %}
+{% assign productname = "Sanitärsilikon 280 ml" %}
+{% assign productprice = "EUR 6,00" %}
+{% assign productdesc = "Es funktioniert in der Küche, im Bad, in der Waschküche, im Trockner oder im Kühlraum" %}
+{% include product.html %}
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/3gM7jZf" %}
+{% assign productphoto = "../uploads/klejm.jpg" %}
+{% assign productname = "Konstruktionskleber" %}
+{% assign productprice = "EUR 8,80" %}
+{% assign productdesc = "Geeignet für Holz, Keramik, Glas, Metalle, Ziegelstein, Beton und Kunststoffe." %}{% include product.html %}
+
+{% assign producttype = "normal" %}
+{% assign productlink = "https://bit.ly/3ajU28O" %}
+{% assign productphoto = "../uploads/akryl.jpg" %}
+{% assign productname = "Dichtungsacryl für Gipskartonplatten 280 ml" %}
+{% assign productprice = "EUR 4,70" %}
+{% assign productdesc = "Konzipiert für verschiedene Renovierungs-, Bau- und Ausbauarbeiten" %}{% include product.html %}
+
+</div></div>
 
 ## Wannenschürze - die beliebtesten Trends 2020
 
