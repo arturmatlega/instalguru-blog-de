@@ -8,7 +8,7 @@ seo_description: "Fragen Sie sich, wie man eine Gartenlaube baut? \U0001F6E0️ 
   und Plan."
 date: 2020-12-15 23:00:00 +0000
 update_date: 2020-12-15 23:00:00 +0000
-title: Wie baut man eine Gartenlaube? Gazebo DIY - Einfache Schritt-für-Schritt-Anleitung
+title: Wie baut man eine Gartenlaube? Gazebo DIY - Einfache Anleitung
 small-intro: Gartenlauben werden für verschiedene Zwecke hergestellt. In der Regel
   werden sie für die Freizeitgestaltung mit Familie und Freunden verwendet.
 intro: Gartenlauben werden für verschiedene Zwecke hergestellt. In der Regel werden
