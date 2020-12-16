@@ -86,6 +86,32 @@ Die Dachabdeckung ist ein weiteres sehr wichtiges Thema beim Bau einer Gartenlau
 
 Was, wenn nicht Metall? Sie könnten besser aussehende Schindeln wählen. Aber bedenken Sie, dass diese Lösung nicht nur schwieriger in der Installation, sondern auch teurer ist.
 
+<div class="products-wrapper"><div class="products-container">
+
+{% assign producttype ="promoted" %}
+{% assign productlink = "https://bit.ly/3gQzTc1" %}
+{% assign productphoto = "../uploads/wkret1.jpg" %}
+{% assign productname = "Trapezblech Schrauben selbstbohrend mit Dichtung" %}
+{% assign productprice = "EUR 9,00" %}
+{% assign productdesc = "Dauerhafte Befestigung von Blechen oder Fliesen" %}
+{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/38oPiMX" %}
+{% assign productphoto = "../uploads/wkret2.jpg" %}
+{% assign productname = "Senkkopf Holzbauschrauben TX" %}
+{% assign productprice = "EUR 11,29" %}
+{% assign productdesc = "Konzipiert für Holz und holzähnliche Materialien" %}{% include product.html %}
+
+{% assign producttype ="normal" %}
+{% assign productlink = "https://bit.ly/2Wy6WIB" %}
+{% assign productphoto = "../uploads/wkret3.jpg" %}
+{% assign productname = "Konstruktionsschrauben für Holz Tellerkopf" %}
+{% assign productprice = "EUR 17,99" %}
+{% assign productdesc = "Ideal für Massivholz- und Leimholzbauteile" %}{% include product.html %}
+
+</div></div>
+
 ## Eine Gartenlaube bauen - nach eigenem Plan oder vom Fachmann?
 
 Fertige Gartenlaubenprojekte haben einen großen Nachteil - ihre Größe oder Form kann nicht an ein bestimmtes Grundstück oder einen Garten angepasst werden. Aus diesem Grund ist der Eigenbau einer Gartenlaube vielleicht die bessere Option. In einem solchen Fall sollten Sie eine Entscheidung über den Plan treffen. Selber machen oder mit einem Spezialisten? Beide Optionen haben Vor- und Nachteile - daran sollten Sie denken.
