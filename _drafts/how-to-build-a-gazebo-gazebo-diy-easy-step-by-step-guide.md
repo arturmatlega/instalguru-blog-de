@@ -3,29 +3,31 @@ main_keywords: []
 segmenting_tags: []
 layout: post
 seo_title: Wie Baut Man Eine Gartenlaube? Gartenlaube - Einfache Anleitung
-seo_description: "Are you wondering how to build a gazebo? \U0001F6E0️ It's easy!
-  You can do it yourself \U0001F449 Just choose the right material, accessories and
-  plan."
+seo_description: "Fragen Sie sich, wie man eine Gartenlaube baut? \U0001F6E0️ Sie
+  können es selbst tun \U0001F449 Wählen Sie einfach das richtige Material, Zubehör
+  und Plan."
 date: 2020-12-15 23:00:00 +0000
 update_date: 2020-12-15 23:00:00 +0000
-title: How To Build A Gazebo? Gazebo DIY - Easy Step By Step Guide
-small-intro: Gazebos are made for various purposes. Usually, they are use for spending
-  free time with family and friends.
-intro: Gazebos are made for various purposes. Usually, they are used for spending
-  free time with family and friends. One can rest in them and hide from the sun and
-  wind. Sometimes it is a place for gardening tools and a grill storage - especially
-  after the season. There are many possibilities available. Of course, you could buy
-  the whole construction - all you have to do is assemble it. A gazebo of this type,
-  however, not always matches the user's needs. Many homeowners decide to build a
-  gazebo themselves. Is it difficult and how to build a gazebo? You might use several
-  tips which will help you at various stages of building the construction.
+title: Wie baut man eine Gartenlaube? Gazebo DIY - Einfache Schritt-für-Schritt-Anleitung
+small-intro: Gartenlauben werden für verschiedene Zwecke hergestellt. In der Regel
+  werden sie für die Freizeitgestaltung mit Familie und Freunden verwendet.
+intro: Gartenlauben werden für verschiedene Zwecke hergestellt. In der Regel werden
+  sie für die Freizeitgestaltung mit Familie und Freunden genutzt. Man kann sich in
+  ihnen ausruhen und sich vor der Sonne und dem Wind verstecken. Manchmal ist es ein
+  Ort für Gartengeräte und ein Grill Lager - vor allem nach der Saison. Es sind viele
+  Möglichkeiten vorhanden. Natürlich könnten Sie die ganze Konstruktion kaufen - Sie
+  müssen sie nur noch zusammenbauen. Eine solche Gartenlaube entspricht jedoch nicht
+  immer den Bedürfnissen des Nutzers. Viele Hausbesitzer entscheiden sich, eine Gartenlaube
+  selbst zu bauen. Ist es schwierig und wie kann man eine Gartenlaube bauen? Sie können
+  einige Tipps verwenden, die Ihnen in verschiedenen Phasen des Baus helfen werden.
 photo: "/uploads/gazebo.jpg"
-photo_desc: Building a gazebo - step by step guide.
+photo_desc: Bau einer Gartenlaube - Schritt-für-Schritt-Anleitung.
 faq:
-- question: How much does it cost to build a gazebo?
-  answer: It all depends on the size of the construction, the material and the project.
-    If you want a small gazebo for your garden, consider buying a ready-to-assemble
-    product. You can find one in any hardware shop or a gardening centre.
+- question: Wie viel kostet es, eine Gartenlaube zu bauen?
+  answer: Es hängt alles von der Größe der Konstruktion, dem Material und dem Projekt
+    ab. Wenn Sie eine kleine Gartenlaube für Ihren Garten wünschen, sollten Sie den
+    Kauf eines montagefertigen Produkts in Betracht ziehen. Sie finden ein solches
+    in jedem Baumarkt oder Gartencenter.
 author_name: Magdalena Data-Urban
 author_desc: Inhalts-Manager bei Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
@@ -34,58 +36,58 @@ hreflangs: []
 noindex: false
 
 ---
-## How to build a gazebo - what to know before beginning the construction
+## Wie man eine Gartenlaube baut - was man vor Baubeginn wissen sollte
 
-Are you wondering how to design your garden? It's a perfect moment to consider building a gazebo. **If your garden is still quite empty, you can easily choose the spot you are going to install a gazebo, adjust the size and the arrangement of other elements around it.** It's a perfect situation, as you have no limitations.
+Fragen Sie sich, wie Sie Ihren Garten gestalten sollen? Das ist ein perfekter Moment, um über den Bau einer Gartenlaube nachzudenken. Wenn Ihr Garten noch ziemlich leer ist, können Sie ganz einfach den Platz für die Gartenlaube wählen, die Größe und die Anordnung der anderen Elemente um sie herum anpassen. Es ist eine perfekte Situation, da Sie keine Einschränkungen haben.
 
-Do you want to add a gazebo to an already arranged garden? It is not as easy as in the first case but if you keep a few issues in mind, building a gazebo will not be a problem. You have to remember about:
+Möchten Sie eine Gartenlaube zu einem bereits angelegten Garten hinzufügen? Es ist nicht so einfach wie im ersten Fall, aber wenn Sie ein paar Dinge beachten, wird der Bau einer Gartenlaube kein Problem sein. Sie müssen an Folgendes denken:
 
 {:.list.list-positive}
 
-* matching the size of the construction with the space available in your garden,
-* creating a path which will give you an access to the gazebo without destroying the greenery.
-* matching the style of the construction to other elements in your garden.
+* Anpassung der Größe der Konstruktion an den verfügbaren Platz in Ihrem Garten,
+* Schaffung eines Weges, der Ihnen einen Zugang zur Gartenlaube ermöglicht, ohne das Grün zu zerstören.
+* Abstimmung des Stils der Konstruktion auf andere Elemente in Ihrem Garten.
 
-### Gazebos vs. law regulations
+### Gartenlauben vs. gesetzliche Vorschriften
 
-As many homeowners seem to think, building a gazebo on their property does not require any building permits. In fact, that depends on the state or the country you live in. Regardless whether you need a building permit or not, you should probably report the construction to your local government.
+Wie viele Hausbesitzer zu denken scheinen, ist für den Bau einer Gartenlaube auf ihrem Grundstück keine Baugenehmigung erforderlich. In der Tat hängt das von dem Staat oder dem Land ab, in dem Sie leben. Unabhängig davon, ob Sie eine Baugenehmigung benötigen oder nicht, sollten Sie den Bau wahrscheinlich bei Ihrer Gemeindeverwaltung anmelden.
 
-You might also encounter limitations about the allowed number of such facilities on your property, their height and distance from the property's border. Make sure to familiarize yourself with all the regulations and requirements before you even start planning the construction.
+Möglicherweise stoßen Sie auch auf Einschränkungen bezüglich der zulässigen Anzahl solcher Anlagen auf Ihrem Grundstück, ihrer Höhe und des Abstands zur Grundstücksgrenze. Machen Sie sich unbedingt mit allen Vorschriften und Anforderungen vertraut, bevor Sie mit der Planung des Baus beginnen.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-Apart from gazebos, building restrictions and permissions also concern other types of facilities such as utility sheds and detached garages.
+Abgesehen von Gartenlauben betreffen Baubeschränkungen und -genehmigungen auch andere Arten von Einrichtungen wie Geräteschuppen und freistehende Garagen.
 
 ![](/uploads/gazebo2.jpg)
 
-## How to build a gazebo? Start from the foundations!
+## Wie baut man eine Gartenlaube? Beginnen Sie mit dem Fundament!
 
-Stable foundations are one of the most important issues when building a gazebo. **The facility should be resistant to weather conditions** - such as strong winds.
+Ein stabiles Fundament ist einer der wichtigsten Punkte beim Bau einer Gartenlaube. Die Anlage sollte gegen Witterungseinflüsse - wie zum Beispiel starken Wind - resistent sein.
 
-Typically, when building a gazebo, one has to use point foundation as a base for poles. First, you should dig holes, 70-80 cm deep. They should be three times wider than the pole. For instance, if the pole is 20 cm thick, the hole in the ground should be around 60 cm wide.
+Typischerweise muss man beim Bau einer Gartenlaube ein Punktfundament als Basis für Stangen verwenden. Zuerst sollten Sie Löcher graben, 70-80 cm tief. Sie sollten dreimal so breit sein wie der Mast. Wenn der Pfosten zum Beispiel 20 cm dick ist, sollte das Loch im Boden etwa 60 cm breit sein.
 
-Put some gravel at the bottom of each hole and fill the holes with concrete. When it starts coagulating, insert a steel anchor of the right size. After the concrete fully hardens, you will attach the poles to the anchors.
+Geben Sie etwas Kies auf den Boden jedes Lochs und füllen Sie die Löcher mit Beton. Wenn dieser zu gerinnen beginnt, setzen Sie einen Stahlanker der richtigen Größe ein. Nachdem der Beton vollständig ausgehärtet ist, befestigen Sie die Pfosten an den Ankern.
 
-## Wood protection. How to build a solid gazebo?
+## Holzschutz. Wie baut man eine solide Gartenlaube?
 
-Durability of garden facilities mostly depends on the materials you use. **Wood is the typical material used for a gazebo construction. To make it weather resistant, one has to protect it properly.** Impregnation is the key element in this matter.
+Die Langlebigkeit einer Gartenanlage hängt hauptsächlich von den verwendeten Materialien ab. Holz ist das typische Material, das für den Bau einer Gartenlaube verwendet wird. Um es witterungsbeständig zu machen, muss man es richtig schützen. Die Imprägnierung ist das Schlüsselelement in dieser Angelegenheit.
 
-As specialists claim, products based on resin or flaxseed oil are the best for impregnation. It's not the only possibility, however. Products that leave a bituminous film on the surface are also very good.
+Wie Fachleute behaupten, sind Produkte auf der Basis von Harz oder Leinsamenöl die besten für die Imprägnierung. Das ist aber nicht die einzige Möglichkeit. Produkte, die einen bituminösen Film auf der Oberfläche hinterlassen, sind ebenfalls sehr gut.
 
 {:.distinction.distinction-info.distinction-negative}
 
-Although varnish is generally perfect for wood protection, it is not recommended to use it in a gazebo. Certain plants might use the gazebo as the basis for their further growth. If the surface is too slippery - the plant is not able to attach itself and its growth is hindered.
+Obwohl sich Lack im Allgemeinen perfekt für den Holzschutz eignet, ist es nicht empfehlenswert, ihn in einer Gartenlaube zu verwenden. Bestimmte Pflanzen könnten die Gartenlaube als Basis für ihr weiteres Wachstum nutzen. Wenn die Oberfläche zu glitschig ist - kann sich die Pflanze nicht festsetzen und ihr Wachstum wird behindert.
 
-![](/uploads/gazebo3.jpg)
+![](/uploads/gazebo2.jpg)
 
-## Building a gazebo - what kind of roof cover to choose?
+## Bau einer Gartenlaube - welche Art von Dachabdeckung soll gewählt werden?
 
-Roof cover is another highly important issue when building a gazebo. The construction has a specified durability, so the roof cannot be too heavy. **Covering the gazebo with metal sheets** - it's a quick and without trouble. It might not be a perfect solution for everyone.
+Die Dachabdeckung ist ein weiteres sehr wichtiges Thema beim Bau einer Gartenlaube. Die Konstruktion hat eine bestimmte Haltbarkeit, deshalb darf das Dach nicht zu schwer sein. Die Gartenlaube mit Blechen zu bedecken - das geht schnell und ohne Probleme. Es ist vielleicht nicht für jeden eine perfekte Lösung.
 
-What if not metal? You might choose better-looking shingles. But keep in mind that this solution is not only more difficult in installation, but also more expensive.
+Was, wenn nicht Metall? Sie könnten besser aussehende Schindeln wählen. Aber bedenken Sie, dass diese Lösung nicht nur schwieriger in der Installation, sondern auch teurer ist.
 
-## Making a gazebo - your own plan or one from a specialist?
+## Eine Gartenlaube bauen - nach eigenem Plan oder vom Fachmann?
 
-Ready-to-assemble gazebo projects have one major drawback - their size or shape cannot be adjusted to a specific property or garden. Because of this, building a gazebo yourself might be a better option. In such a case, you should make a decision about the plan. Make it yourself or with a specialist? Both options have benefits and drawbacks - you should remember about it.
+Fertige Gartenlaubenprojekte haben einen großen Nachteil - ihre Größe oder Form kann nicht an ein bestimmtes Grundstück oder einen Garten angepasst werden. Aus diesem Grund ist der Eigenbau einer Gartenlaube vielleicht die bessere Option. In einem solchen Fall sollten Sie eine Entscheidung über den Plan treffen. Selber machen oder mit einem Spezialisten? Beide Optionen haben Vor- und Nachteile - daran sollten Sie denken.
 
-**To create a durable construction - make sure that every detail of the plan is carefully refined.** Determine the size of each element - especially the ones bearing load. It's not a task for everyone, so some homeowners decide to have the project done for them by an external company. It might be a costly solution, but it is also more safe for the users.
+Um eine dauerhafte Konstruktion zu schaffen - stellen Sie sicher, dass jedes Detail des Plans sorgfältig ausgearbeitet ist. Bestimmen Sie die Größe der einzelnen Elemente - insbesondere derjenigen, die eine Last tragen. Das ist keine Aufgabe für jeden, deshalb entscheiden sich einige Hausbesitzer, das Projekt von einer externen Firma durchführen zu lassen. Es mag eine kostspielige Lösung sein, aber sie ist auch sicherer für die Nutzer.
