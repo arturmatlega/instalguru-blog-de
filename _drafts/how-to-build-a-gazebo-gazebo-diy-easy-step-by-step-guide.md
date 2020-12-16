@@ -2,7 +2,7 @@
 main_keywords: []
 segmenting_tags: []
 layout: post
-seo_title: How To Build A Gazebo? Gazebo DIY - Easy Step By Step Guide
+seo_title: Wie Baut Man Eine Gartenlaube? Gartenlaube - Einfache Anleitung
 seo_description: "Are you wondering how to build a gazebo? \U0001F6E0️ It's easy!
   You can do it yourself \U0001F449 Just choose the right material, accessories and
   plan."
