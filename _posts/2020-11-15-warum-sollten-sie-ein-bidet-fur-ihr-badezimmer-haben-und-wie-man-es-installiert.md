@@ -96,8 +96,6 @@ Der Mindestabstand zwischen dem Arbeiter und einem Bidet beträgt etwa 30 cm. De
 
 Befindet sich das Bidet an der Wand, empfiehlt es sich, es in einem Abstand von ca. 30-40 cm von der Wand aufzustellen. Es ist wichtig, den richtigen Abstand vor dem Bidet einzuhalten. Am besten ist es, wenn vor dem Element ein Freiraum von etwa 60 cm eingehalten wird.
 
-![](/uploads/bidet2.jpg)
-
 ## Wie installiert man ein Bidet? Ist es schwierig?
 
 Die Installation eines Bidets sieht genauso aus wie jede andere Badezimmerausstattung - und sie kann sehr schnell durchgeführt werden.
