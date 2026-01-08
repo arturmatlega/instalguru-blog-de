@@ -72,8 +72,6 @@ Möglicherweise stoßen Sie auch auf Einschränkungen bezüglich der zulässigen
 
 Abgesehen von Gartenlauben betreffen Baubeschränkungen und -genehmigungen auch andere Arten von Einrichtungen wie Geräteschuppen und freistehende Garagen.
 
-![](/uploads/gazebo2.jpg)
-
 ## Wie baut man eine Gartenlaube? Beginnen Sie mit dem Fundament!
 
 Ein stabiles Fundament ist einer der wichtigsten Punkte beim Bau einer Gartenlaube. Die Anlage sollte gegen Witterungseinflüsse - wie zum Beispiel starken Wind - resistent sein.
@@ -91,8 +89,6 @@ Wie Fachleute behaupten, sind Produkte auf der Basis von Harz oder Leinsamenöl 
 {:.distinction.distinction-info.distinction-negative}
 
 Obwohl sich Lack im Allgemeinen perfekt für den Holzschutz eignet, ist es nicht empfehlenswert, ihn in einer Gartenlaube zu verwenden. Bestimmte Pflanzen könnten die Gartenlaube als Basis für ihr weiteres Wachstum nutzen. Wenn die Oberfläche zu glitschig ist - kann sich die Pflanze nicht festsetzen und ihr Wachstum wird behindert.
-
-![](/uploads/gazebo2.jpg)
 
 ## Bau einer Gartenlaube - welche Art von Dachabdeckung soll gewählt werden?
 
