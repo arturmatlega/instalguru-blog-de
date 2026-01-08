@@ -99,8 +99,6 @@ Die Standardverlegung von Fliesen an der Wand oder auf dem Boden erfordert den E
 
 Sowohl Wand-, als auch Bodenfliesen sind ein sehr wichtiges dekoratives Element in einem Innenraum. Dank der richtigen Verlegung der Fliesen kann der Raum elegant und ästhetisch aussehen, deshalb **sollte man besonders auf Aspekte wie die Form und das Muster der Fliesen achten.** Unabhängig von diesen Parametern kann das Verlegen von Fliesen ganz anders aussehen. Lernen Sie die beliebtesten Methoden der Fliesenverlegung kennen. Dank ihnen wird Ihr Interieur jeden verblüffen.
 
-![](/uploads/plytki2.jpg)
-
 ### Wie werden quadratische Fliesen verlegt?
 
 Quadratische Fliesen sind eine der gebräuchlichsten Arten, die auf dem Markt erhältlich sind. Kein Wunder, dass sie von vielen Hausbesitzern gewählt wird.
@@ -145,8 +143,6 @@ Das Verlegen von Fliesen mit einem modernen Fliesen-Nivelliersystem ist eine vie
 
 Auch für Spezialisten ist ein Fliesenausgleichssystem eine perfekte Hilfe. Was sind seine Vorteile für einen Fachmann? **Das Verlegen von Fliesen kann doppelt so schnell wie üblich werden. Dadurch kann man vielleicht doppelt so viel Arbeit erledigen und - als Ergebnis - doppelt so viel Geld verdienen.**
 
-![](/uploads/plytki3.jpg)
-
 ## Wie werden Fliesen verlegt? Eine kurze Schritt-für-Schritt-Anleitung
 
 Die Vorbereitung vor dem **Verlegen von Fliesen** sollte das Sammeln aller notwendigen Werkzeuge und die Überprüfung der Verpackungen mit den Fliesen umfassen. Wenn alles in Ordnung ist, können Sie alle Elemente auf den Boden legen.
@@ -181,8 +177,6 @@ Verfugen. Nachdem der Mörtel getrocknet ist, muss man das Fliesenausgleichssyst
 ## Wie verlegt man Fliesen ohne Fugenmörtel?
 
 Viele Hausbesitzer träumen von einem perfekt ebenen Boden ohne unästhetische Fugen. **Ein makelloser, glatter Boden lässt den Raum elegant und minimalistisch erscheinen und erweckt den Eindruck eines größeren Raumes.** Aber ist es möglich, Fliesen so zu verlegen, dass die Fugen zwischen ihnen unsichtbar sind? Anscheinend ist heutzutage nichts mehr unmöglich. Die Verlegung von Fliesen auf diese Weise könnte jedoch ein gewisses Risiko darstellen. Überprüfen Sie es, bevor Sie sich für eine bestimmte Lösung entscheiden.
-
-![](/uploads/plytki4.jpg)
 
 ### Was ist der Zweck von Mörtel?
 
