@@ -53,8 +53,6 @@ Spezialisten klassifizieren Lichtschalter nach mehreren Kriterien. Die gebräuch
 
 Nach der Ästhetik kann man Lichtschalter auch nach der Art der Tasten unterscheiden. Die Hersteller bieten traditionelle Schalter mit einem mechanischen Taster an. Lichtschalter mit Berührung gewinnen an Popularität. Sie haben ein glattes Paneel mit einem Sensor, der auf Berührung reagiert.
 
-![Treppenlichtschaltung - was sind ihre Merkmale?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Treppenlichtschaltung - was sind ihre Merkmale?")
-
 ### Treppenlicht- und Dreiwege-Lichtschalter
 
 Treppenlichtschaltungen sind eine besondere Art von Geräten. Sie ermöglichen es, eine Lichtquelle von zwei verschiedenen Orten aus zu steuern. Es ist eine besonders nützliche Lösung an Treppenhäusern, so dass man nicht wieder nach oben oder unten kommen muss, um das Licht auszuschalten.
@@ -82,10 +80,6 @@ Um einen Lichtschalter anzuschließen, benötigt man im Allgemeinen mehrere Elem
 
 Jeder Schalter - ein- oder mehrfach - arbeitet nach einem ähnlichen Prinzip. Um das Licht einzuschalten, muss man den Schalter bewegen, d.h. - den Stromkreis schließen. Analog unterbricht das Zurückbewegen des Schalters den Stromkreis und der Strom hört auf zu fließen - das Licht geht aus.
 
-Um den einfachsten Einweg-Lichtschalter anzuschließen, muss man Drähte zwischen dem Schalter und der Glühbirne anschließen. **Siehe das Diagramm für einen solchen Stromkreis unten:**
-
-![Lichtschalter - allgemeines Funktionsprinzip](/uploads/jak_podlaczyc_wlacznik_schemat1_de.jpg "Lichtschalter - allgemeines Funktionsprinzip")
-
 Keinesfalls dürfen die Drähte vermischt werden - zum Beispiel die Phase mit dem Neutralleiter. Es würde beim Auswechseln einer Glühbirne eine Gefahr darstellen - auch wenn das Licht ausgeschaltet ist!
 
 ### Treppenlichtschaltung - Diagramm
@@ -94,16 +88,8 @@ Der Anschluss einer Treppenlichtschaltung ist etwas komplizierter, da sie zwei S
 
 Ein Schema für eine Treppenlichtschaltung ist etwas komplizierter. In diesem Fall wird der Phasendraht mit einem der beiden Treppenlichtschalter verbunden und die Lichtquelle mit dem anderen. Neutralleiter und Erdleiter werden unabhängig voneinander zur Lichtquelle geführt. Die beiden Schalter sollten durch zusätzliche Drähte miteinander verbunden werden.
 
-**Siehe das Diagramm der Treppenlichtschaltung unten:**
-
-![Treppenlichtschaltung - Diagramm](/uploads/jak_podlaczyc_wlacznik_schemat2_de.jpg "Treppenlichtschaltung - Diagramm")
-
 ### Wie wird ein Dreiwege-Lichtschalter angeschlossen?
 
 Wie bereits erwähnt, **ist es möglich, mehr als nur zwei Lichtschalter für die gleiche Lichtquelle zu verdrahten.** Dazu muss man einen Dreiwege-Lichtschalter verwenden. Das Schema eines solchen Anschlusses unterscheidet sich nicht wesentlich vom Schema des Zweiwegschalters - es gibt einen dritten Schalter zwischen den beiden äußeren. Die Anzahl der Zwischenschalter ist unbegrenzt und kann je nach Bedarf eingestellt werden. Dank diesem wird man das Treppenhauslicht ausschalten können, während man sich in einem anderen Raum befindet.
-
-**Siehe das unten dargestellte Dreiwege-Lichtschalterdiagramm:**
-
-![Wie wird ein Dreiwege-Lichtschalter angeschlossen?](/uploads/jak_podlaczyc_wlacznik_schemat3_de.jpg "Wie wird ein Dreiwege-Lichtschalter angeschlossen?")
 
 **Das Anschließen einer Treppenlichtschaltung ist nicht so schwierig, wie es scheinen mag.** Wenn Sie das richtige Weichendiagramm haben, können Sie es leicht selbst machen.
