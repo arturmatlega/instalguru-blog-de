@@ -103,8 +103,6 @@ Polypropylenrohre müssen mit einem Schmelzschweißgerät für thermoplastische 
 
 PP-R-Systemelemente können auch durch Gewinde verbunden werden. Dazu benötigt man Fittings mit einem speziellen Messing-Außen- oder Innengewinde. Zusätzlich wird ein spezielles Produkt benötigt, um den Prozess zu erleichtern. Gewindeöl wird dringend empfohlen.
 
-![](/uploads/pipes2.jpg)
-
 ## Wie werden PEX-Rohre angeschlossen? Die wichtigsten Informationen
 
 Zur Verbindung von Rohren von Zentralheizungs- und Warmwassersystemen werden Gewinde- oder Klemmverschraubungen verwendet. Beide PEX-Rohrverbindungsmethoden liefern zufriedenstellende Ergebnisse und sind gegen verschiedene Faktoren beständig.
@@ -138,8 +136,6 @@ Wenn Gewindeelemente verwendet werden, muss man nur die Mutter anziehen, um das 
 </div></div>
 
 Wenn Sie komprimierte Rohrstücke verwenden, muss eine spezielle Kontraktionsspannzange direkt auf das Rohr gesetzt werden. Diese Rohrverbindungsmethode erfordert auch ein spezielles Presswerkzeug. Das Werkzeug muss auf die Spannzange aufgesetzt werden, und der Kompressor wird eingeschaltet. Nach einigen Sekunden ist ein charakteristischer Riss zu hören - dies bedeutet, dass die Spannzange mit dem Rohr verbunden wurde.
-
-![](/uploads/pipes3.jpg)
 
 ## Verbindung von PE-Rohren - welche Methoden sind die besten?
 
