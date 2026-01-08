@@ -105,8 +105,6 @@ Ein digitaler Wasserzähler ist definitiv viel präziser, daher wird er vor alle
 
 Wenn Sie sich für einen Wasserzähler entscheiden, sollten Sie wissen, dass die Geräte nach ihrem Verwendungszweck für Warm- und Kaltwasser klassifiziert sind. Ein Gerät reicht nicht aus, es sei denn, Sie verwenden eine Heizung, um kaltes Wasser zu erwärmen. In diesem Fall benötigen Sie nur einen Wasserzähler für kaltes Wasser.
 
-![](/uploads/wodomierz2.jpg)
-
 ### Ein spezialisierter Wasserzähler
 
 Wenn Sie nur einen Hauswasserzähler für Ihr Haus oder Ihre Wohnung benötigen - sollte es kein Problem sein, den richtigen zu finden. Möglicherweise benötigen Sie jedoch einen Klempner und sein Wissen, wenn Sie einen spezialisierten Wasserzähler benötigen. Die folgenden Geräte finden Sie auf dem Markt:
