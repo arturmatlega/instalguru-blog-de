@@ -110,8 +110,6 @@ Eine Tropfleitung ist eine einzigartige Lösung und hat viele Vorteile. Sie kann
 * **Ein Tröpfchenbewässerungssystem bedeutet ein geringeres Risiko von Pflanzenkrankheiten.** Das Wasser wird direkt in den Boden verteilt, so dass es keinen Kontakt mit oberirdischen Teilen der Pflanzen hat. Es verhindert die Ausbreitung von Pilzen und Schimmelpilzen, die recht häufig auftreten, wenn die Pflanzen von oben mit Wasser besprüht werden. Eine Tropfleitung eliminiert auch das Problem der sonnenverbrannten Blätter.
 * **Ein solches System könnte zu einer besseren Gemüse-, Obst- und Kräuterernte beitragen.** Ein Tropfbewässerungssystem unterstützt eine bessere Pflanzenpflege und Unabhängigkeit von den Wetterbedingungen. Es besteht kein Grund zur Sorge, dass eine Dürre die Ernten vernichten könnte.
 
-![Was sind die Vorteile der Tropfbewässerung?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "Was sind die Vorteile der Tropfbewässerung?")
-
 ## Wo kann man ein Tropfbewässerungssystem einsetzen?
 
 Da Tropfleitungen recht große Flächen abdecken können, ist es ein **empfohlenes System für Ackerflächen**. Es eignet sich perfekt für die Bewässerung von Pflanzen wie Erdbeeren, Heidelbeeren und Obstbäumen. Die Installation gibt Ihnen die volle Kontrolle über die Wassermenge, die zu einer Pflanze transportiert wird. Dank dessen besteht keine Gefahr der Überwässerung, die zum Verfall der Pflanzen führen könnte. Das ist ein wichtiger Aspekt, der sich auf die Qualität der Ernte auswirkt.
@@ -125,8 +123,6 @@ Ein Tröpfchenbewässerungssystem ist für Rasenflächen nicht zu empfehlen. In 
 ## Gibt es irgendwelche Nachteile der Tropfbewässerung?
 
 Trotz der unbestreitbaren Vorteile eines Tropfbewässerungssystems sollte man auch seine Nachteile kennen. Es handelt sich um ein System, das nicht wirklich bewegt werden kann, daher sollte es hauptsächlich für mehrjährige Pflanzen eingesetzt werden. Eine Tropfleitung ist, wie jede Wasserinstallation, anfällig für Schmutz. Sie kann Verstopfungen verursachen. **Jedes Element des Systems sollte regelmäßig gewartet werden.** Ein weiteres Problem ist die Schwierigkeit, die Bewässerungsintensität für bestimmte Pflanzen anzupassen. Es kann gelöst werden, indem man einen Verteiler verwendet, um mehrere unabhängige Tropfleitungen zu schaffen.
-
-![Gibt es irgendwelche Nachteile der Tropfbewässerung?](/uploads/linia-kroplujaca-nawadnianie.jpg "Gibt es irgendwelche Nachteile der Tropfbewässerung?")
 
 ## Tröpfchenbewässerungssystem - welche Elemente sind zur Erstellung einer Anlage erforderlich?
 
@@ -201,8 +197,6 @@ Fragen Sie sich, wie teuer ein Tropfbewässerungssystem ist? Wie bei den meisten
 {:.distinction.distinction-info.distinction-positive}
 
 Je weniger kompliziert die Installation ist, desto weniger kostet sie. Aus diesem Grund sollte man alle Lösungen, die verwendet werden könnten, überprüfen. Kleine Designs können sicherlich auf elektronische Steuerungen verzichten, es sei denn, die Bequemlichkeit steht im Vordergrund. Man kann die Kosten auch dadurch senken, dass man sich dafür entscheidet, das System selbst zu installieren.
-
-![Tröpfchenbewässerungssystem - geschätzte Kosten](/uploads/podlewanie-kropelkowe.jpg "Tröpfchenbewässerungssystem - geschätzte Kosten")
 
 ## Was sollte man bei der Installation einer Tropfbewässerung noch beachten?
 
