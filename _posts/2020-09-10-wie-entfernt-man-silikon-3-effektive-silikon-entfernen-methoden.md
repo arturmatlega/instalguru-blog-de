@@ -79,8 +79,6 @@ Die Methode der Silikonentfernung hängt von der Art der Oberfläche ab, **die v
 
 Sie müssen sicherstellen, dass die Oberfläche sauber ist, insbesondere wenn Sie Silikondichtungsmittel in einem gefliesten Badezimmer entfernen. Nehmen Sie alle Gegenstände, die auf der Wanne oder dem Duschboden stehen, und waschen Sie die **Fliesen und Dichtungen sorgfältig** ab. Verwenden Sie entweder einen speziellen Cremereiniger oder ein gewöhnliches Reinigungsmittel wie z.B. Spülseife. Achten Sie darauf, Seifenflecken zu entfernen - auf diese Weise wird das  Silikonentfernen einfacher und effektiver.
 
-![Ein Silikonentferner: die wichtigsten Punkte](/uploads/jak-usunac-silikon-3-skuteczne-metody-na-usuwanie-silikonu.jpg "Ein Silikonentferner: die wichtigsten Punkte")
-
 ## Ein chemischer Silikonentferner - ist er eine wirksame Methode?
 
 **Ein chemischer Silikonentferner, den man in typischen Eisenwarengeschäften kaufen kann**, ist eine der beliebtesten Methoden. Solche Produkte enthalten starke Lösungsmittel, die Silikondichtungsmassen schnell auflösen und eine einfache Entfernung ermöglichen.
@@ -102,8 +100,6 @@ Eine so vorbereitete Oberfläche ist bereit, eine neue Schicht Versiegelung aufz
 Ein zu aggressiver Silikonentferner könnte die Oberfläche anlaufen lassen. In solchen Situationen können Sie nicht viel tun. Lesen Sie deshalb unbedingt das Etikett jedes Produkts, das Sie verwenden wollen, um sicherzustellen, dass es für Ihre Oberfläche geeignet ist.
 
 Der **unangenehme Geruch** ist definitiv ein großer Nachteil der Verwendung eines chemischen Silikonentferners. Derartige Produkte enthalten in der Regel Aceton. Nach dem Silikon Entfernen mit dieser Methode ist darauf zu achten, dass der Raum gelüftet wird. Falls Sie oder Ihre Mitbewohner besonders sensibel auf solche stechenden Gerüche reagieren, ziehen Sie in Betracht, die Silikon mit einer umweltfreundlicheren Methode zu entfernen.
-
-![Wie verwendet man einen chemischen Silikonentferner?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu-chemia.jpg "Wie verwendet man einen chemischen Silikonentferner?")
 
 ## Ein umweltfreundlicher Silikonentferner. Wie entfernt man Silikondichtungsmittel ohne Chemikalien?
 
@@ -148,8 +144,6 @@ Nach der Reinigung der Oberfläche einen Schnitt auf einer Seite der Versiegelun
 ### Wie entfernt man Siliko, die abgebrochen sind und an der Oberfläche geblieben sind?
 
 Verteilen Sie das Fett auf eventuelle Reste der Silikon. Warten Sie einige Zeit, bis das Silikon das Öl absorbiert hat, und kratzen Sie es dann mit einem trockenen Schwamm oder einem Tuch ab. Da diese Methode die Oberfläche sehr ölig macht, muss sie entfettet werden, bevor eine neue Schicht Versiegelung aufgetragen wird. Verwenden Sie dazu ein Reinigungsmittel.
-
-![Wie entfernt man Siliko, die abgebrochen sind und an der Oberfläche geblieben sind?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg "Wie entfernt man Siliko, die abgebrochen sind und an der Oberfläche geblieben sind?")
 
 ## Wie entfernt man Silikon von Kleidung, Holz, Händen? Temperatur verwenden
 
