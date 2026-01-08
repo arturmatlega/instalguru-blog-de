@@ -62,8 +62,6 @@ Ein linearer Ablauf ist eine Art der Entwässerung in Form eines langen Schlitze
 
 Eine barrierefreie Dusche mit dieser Art von Ablauf schafft viele Möglichkeiten der Raumgestaltung, da sie wenig Platz benötigt und überall dort angebracht werden kann, wo der Benutzer es wünscht. Außerdem kann man zwischen einem klassischen geradlinigen Ablauf mit einfachem Design und einem geradlinigen Ablauf mit ungewöhnlichen Schnitzereien wählen.
 
-![](/uploads/curbless2.jpg)
-
 ## Ist eine barrierefreie Dusche sicher für das Badezimmer?
 
 Eine barrierefreie Dusche ist eine sehr praktische Lösung; außerdem ist sie für das Badezimmer völlig unbedenklich, so dass man sich keine Sorgen über eine mögliche Überschwemmung machen muss.
@@ -108,8 +106,6 @@ Barrierefreie Duschkabinen werden von vielen Herstellern angeboten. Aber das Feh
 Sie könnten solche Wände zu einem sehr niedrigen Preis bekommen, obwohl es auch sehr teure Modelle gibt. Die Preisspanne bei Duschtüren ist ähnlich.
 
 Eine andere Lösung ist eine begehbare Duschkabine, die nur eine oder zwei Wände hat. Es könnte eine billigere Lösung sein, aber wie immer - es hängt alles vom Hersteller, dem Material und dem jeweiligen Modell ab. Typischerweise bedeutet ein höherer Preis auch ein höheres Maß an Komfort und Ästhetik der Dusche.
-
-![](/uploads/curbless3.jpg)
 
 ## Was sind die Vorteile einer barrierefreien Dusche
 
