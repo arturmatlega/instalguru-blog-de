@@ -70,8 +70,6 @@ Es gibt viele Gründe für einen undichten Wasserhahn. Das häufigste Problem, b
 
 Gummielemente schützen das Gerät vor Undichtigkeiten, aber sie nutzen sich nach einiger Zeit ab. Als Folge verlieren sie ihre Dichtheitseigenschaften. Sie sind Produkte mit einer begrenzten Lebensdauer, vor allem, wenn sie intensiv genutzt werden. Das Problem eines undichten Wasserhahns können Sie selbst lösen. Der Austausch der Unterlegscheibe ist nur eine Sache von einigen Minuten Arbeit und sehr geringen Kosten. Vergewissern Sie sich, dass Sie das Grundwissen dazu haben, damit Sie keine Probleme bekommen.
 
-![](/uploads/washer2.jpg)
-
 ## Wie tauscht man einen alten Dichtungsring aus?
 
 Unabhängig davon, ob es sich um eine Küchenspüle oder eine Badewanne handelt, beinhaltet der Austausch eines Dichtungsrings immer die gleiche Aktion. Sie müssen ein kleines Element verwenden: einen Dichtungsring. Bestimmen Sie vor dem Einbau dessen Dicke und Größe. Diese Parameter entscheiden darüber, ob das neue Element passt und somit die Armatur richtig funktioniert.
@@ -134,8 +132,6 @@ Wenn Sie sich fragen, wie Sie die Unterlegscheibe eines Wasserhahns austauschen 
 * Schrauben Sie den ganzen Griff ab und demontieren Sie ihn. Das geht ganz einfach ohne zusätzliches Werkzeug.
 * Dann entfernen Sie den Schaft aus der Hülse - dazu können Sie einen Gabelschlüssel oder einen Maulschlüssel verwenden. Dadurch haben Sie vollen Zugriff auf die Kartusche, so dass Sie die Unterlegscheibe des Wasserhahns untersuchen können. Wenn das Element abgenutzt oder beschädigt ist, ersetzen Sie es: Entfernen Sie die Schraube, nehmen Sie den alten Ring heraus und ersetzen Sie ihn durch einen neuen. Welcher Typ ist der beste? Sie können eine Unterlegscheibe aus Silikon wählen - weiß oder schwarz.
 
-![](/uploads/washer3.jpg)
-
 ## Wie repariert man eine Mischbatterie?
 
 Das Reparieren einer Mischbatterie sieht einer normalen Wasserhahnreparatur recht ähnlich. Der Hauptunterschied liegt in der Konstruktion - was sich in der Tat auf die Zeit auswirkt, die für die Tätigkeit aufgewendet wird.
@@ -159,8 +155,6 @@ Beim Austausch einer Armaturenscheibe können Sie auch Elemente wie das Sieb, de
 Ein tropfender Wasserhahn kann ein Zeichen für einen defekten Auslauf sein. Die Reparatur ist auch in diesem Fall recht einfach und leicht - Sie können sie selbst durchführen. Entfernen Sie einfach die Montageschrauben und nehmen Sie den Auslauf vorsichtig ab, wobei Sie darauf achten müssen, dass Sie das Waschbecken nicht beschädigen. Dann entfernen Sie die alte Unterlegscheibe. Setzen Sie die neuen Elemente an ihrer Stelle ein. Wenn Sie es richtig gemacht haben - bringen Sie den Auslauf wieder an und ziehen Sie die Schraube fest, damit sich der Wasserhahn nicht von Seite zu Seite bewegt.
 
 Sie fragen sich, welches Produkt in diesem Fall das beste ist? Ein O-Ring aus Auslaufgummi ist perfekt. Er ist in zwei Standardgrößen erhältlich: 1/2'', 16 mm, 12 mm oder 3/4'', 18 mm, 14 mm.
-
-![](/uploads/washer4.jpg)
 
 ## Wie hoch sind die Kosten für den Austausch einer Hahnunterlegscheibe?
 
