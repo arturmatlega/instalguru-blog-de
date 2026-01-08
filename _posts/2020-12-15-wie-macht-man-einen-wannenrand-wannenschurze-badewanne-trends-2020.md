@@ -78,8 +78,6 @@ Je nach Art Ihrer Wannenschürze benötigen Sie unterschiedliches Zubehör für 
 
 Wenn Sie sich für Gipskartonplatten interessieren, benötigen Sie außerdem C- und U-Schienen aus Metall, Holzlatten, eine Bohrmaschine und eine Schere. Wenn Sie einen Badewannenrahmen aus Betonblöcken herstellen, benötigen Sie **Dosenmörtel oder Betonkleber, eine flüssige Membran, eine feine und grobe Feile und grundlegendes Maurerwerkzeug.**
 
-![](/uploads/tub2.jpg)
-
 ### Eine Wannenschürze - eine Schritt-für-Schritt-Anleitung zum Einbau
 
 Wenn Sie eine Wannenschürze selbst einbauen wollen, sollten Sie die Tipps der Fachleute befolgen. Schauen Sie sich die 8 Schritte unten an - sie werden Ihnen bei Ihrer Arbeit helfen.
@@ -140,8 +138,6 @@ Das Loch sollte groß genug sein, um die Werkzeuge leicht manövrieren zu könne
 ## Wannenschürze - die beliebtesten Trends 2020
 
 Fragen Sie sich, wie man eine Badewannenschürze macht? Sind Sie auf der Suche nach Ideen, wie Sie Ihr Bad renovieren können? Es gibt viele Lösungen auf dem Markt. Achten Sie auf die beliebtesten Trends 2020, damit Ihr Interieur immer auf dem neuesten Stand ist. Durch die Verwendung einer scheinbar unbedeutenden Wannenschürze können Sie ein völlig anderes Ergebnis erzielen. Denken Sie daran, dass eine gefertigte Wannenschürze, auch bekannt als Universalschürze, aus der Mode gekommen ist. Sie war vielleicht schnell und einfach zu installieren, aber die Ästhetik war nicht die beste. Sie wurde durch viel besser aussehende Lösungen ersetzt.
-
-![](/uploads/tub3.jpg)
 
 ### Eine Wannenschürze - perfekt abgestimmt auf die keramischen Elemente und Armaturen
 
