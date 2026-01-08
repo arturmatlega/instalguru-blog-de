@@ -71,8 +71,6 @@ Unabhängig davon, wie geschickt die Fliesen verlegt wurden, entstehen nach eine
 
 Es gibt zwei Arten der Oberflächenabdichtung, die man in einem Raum durchführen kann. Das Hauptproblem ist die Sicherung der Oberfläche vor dem Verlegen der Fliesen. Die in dieser Phase verwendeten Produkte schützen die Struktur des Gebäudes vor dem Eindringen von Wasser. Ein weiteres Problem ist die Abdichtung der Fliesen. Dank spezieller Substanzen verbleibt das Wasser auf den Fliesen, und es kann leicht mit Hilfe eines Belüftungssystems entfernt werden.
 
-![](/uploads/hydroizolacja2.jpg)
-
 ## Abdichtung eines Badezimmers - welche Bereiche der Räume?
 
 Normalerweise hat jedes Badezimmer zwei Zonen: nass und trocken. Die erste betrifft grundsätzlich den ganzen Raum. Dies sind die Stellen, die wahrscheinlich mit Wasser in Berührung kommen, das überall hinspritzen kann - bei der Ausübung gewöhnlicher, alltäglicher Tätigkeiten.
@@ -90,8 +88,6 @@ Badezimmerabdichtungen können mit drei Arten von Produkten ausgeführt werden -
 * **Flüssige Abdichtungsbahn** - sie basiert auf Kunstharz, dank dem sie einen perfekten Schutz bietet. Das Produkt ist sehr einfach in der Anwendung - man braucht es nur zu mischen und einen bestimmten Bereich damit abzudecken, z.B. mit einer speziellen Rolle oder einem Pinsel. Die erste Schicht kann frei verlegt werden, während die nächste Schicht senkrecht zu ihr stehen muss. Der größte Vorteil der Membran ist ihre Vielseitigkeit. Sie kann sowohl für Betonflächen, Zementputz als auch für Gipskartonplatten verwendet werden. Diese Art des Schutzes ist sehr empfehlenswert für alle, die ihre Zeit schätzen - die Membrane trocknet schnell, so dass man sofort mit dem Verlegen der Fliesen im Badezimmer beginnen kann.
 * **Dichtungsmassen** - eine perfekte Alternative zu einer flüssigen Membran. Sie wird aus Zementmörtel und Kunstharz hergestellt. Diese Art von Material hat eine viel dichtere Struktur als die zuvor erwähnte Membran. Sie wird typischerweise zur Sicherung mineralischer Oberflächen verwendet, aber die Hersteller bieten auch Produkte für Platten- oder Steinverkleidungen an. Die Verbindung sollte kreuzweise, in zwei Schichten aufgetragen werden. Sie kann nicht für Innenräume mit Fußbodenstrahlungsheizung verwendet werden.
 * **Abdichtmassen auf Zementbasis** - ebenfalls ein hochwirksames Material, das nicht nur in Badezimmern, sondern auch auf Balkonen, Terrassen und zum Schutz von Fundamenten verwendet wird. Das Material ist sehr langlebig, frostbeständig und flexibel.
-
-![](/uploads/hydroizolacja3.jpg)
 
 ## Wie man ein Badezimmer wasserdicht macht - eine Schritt-für-Schritt-Anleitung
 
