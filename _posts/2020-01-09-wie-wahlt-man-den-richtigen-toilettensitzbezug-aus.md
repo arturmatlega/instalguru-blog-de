@@ -89,8 +89,6 @@ Die Wahl der richtigen Form eines Toilettensitzes könnte ein ähnlicher Prozess
 
 Es gibt noch eine weitere Gruppe von Produkten, die speziell für Kinder entwickelt wurden. Dabei handelt es sich um einen speziellen Toilettensitz mit einem angebrachten Deckel, der es einem Kleinkind ermöglicht, die Toilette normal zu benutzen.
 
-![](/uploads/a7a5eed986b34897b5334e6a0dca650b.jpg)
-
 ## Ein moderner Toilettensitz
 
 Bei der Wahl eines Toilettensitzes kann man auch auf moderne Technologien achten, die die Benutzung des Badezimmers wesentlich erleichtern. Eines der grundlegendsten Merkmale in dieser Hinsicht ist ein Toilettensitz mit so genanntem Soft Close, der viele Vorteile hat.
