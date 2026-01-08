@@ -70,8 +70,6 @@ Viele Menschen sind besorgt über die Qualität des Leitungswassers. Wenn das Wa
 
 **Der chemische Geschmack, der für Leitungswasser üblich ist, ist das Ergebnis von Desinfektionsprozessen mit Chlor**. Es ist eines der am häufigsten genannten Probleme, das von Leitungswassernutzern berichtet wird. Es bedeutet jedoch nicht, dass Wasser aus einem privaten Brunnen einwandfrei ist. In diesem Fall ist der Geschmack von Eisen ein häufiges Problem. Alles hängt von der Lage und Tiefe der Quelle ab.
 
-![Was ist der Grund für Probleme mit dem Wassergeschmack?](/uploads/domowa-stacja-uzdatniania-wody-1.jpg "Was ist der Grund für Probleme mit dem Wassergeschmack?")
-
 ## Wasser aus eigener Quelle - ist es gesünder als das von einem Anbieter?
 
 Man geht davon aus, dass Wasser aus dem eigenen Brunnen eine bessere Qualität hat als das Wasser aus einem lokalen Wasserversorgungssystem. Wie sieht die Realität aus? **Wenn man das Haus an die Wasserleitung anschließt, kann man sicher sein, dass das Wasser sicher ist, was bereits erklärt wurde**. Durch regelmäßige Tests wird das Vorhandensein gefährlicher Substanzen ausgeschlossen. Im Falle von privaten Brunnen muss man die Wasserqualität selbst kontrollieren. Sie wird oft vernachlässigt, da für das Verfahren viel Geld verlangt wird.
@@ -98,8 +96,6 @@ Es gibt verschiedene Arten von Wasserfiltern mit unterschiedlichen Parametern au
 
 Die einfachsten Typen sind **Maschen-, Schnur- und Schaumstoff-Wasserfilter.** Sie werden auch als mechanische oder Sedimentfilter bezeichnet. Dank ihnen eliminiert das Wasserfiltersystem Sand- und Rostpartikel, die mit bloßem Auge nicht sichtbar sind. Die Effizienz solcher Patronen hängt von ihrer Dichte ab und davon, wie große Partikel sie aufhalten können.
 
-![Lösungen zur Wasserfilterung - welcher Wasserfilter ist der beste?](/uploads/domowa-stacja-uzdatniania-wody-2.jpg "Lösungen zur Wasserfilterung - welcher Wasserfilter ist der beste?")
-
 Eisen-Wasserfilter sind eine weitere beliebte Option, die vor allem für private Brunnen verwendet wird. **Ähnlich wie mechanische Patronen werden sie in der Regel auf Rohren in einem speziellen Gehäuse von entsprechender Größe und Konstruktion installiert**. Die Rolle solcher Geräte besteht darin, schädliche Eisenverbindungen zu entfernen. Sie entfernen auch teilweise Stickstoff oder sogar Schwefelwasserstoff.
 
 Viele Haushalte haben ein Problem mit dem **so genannten harten Wasser**. Das bedeutet, dass es sehr viel Kalzium und Magnesium enthält. Es ist auch kein Problem, da ein geeigneter Wasserenthärtungsfilter die Sedimente aus der Flüssigkeit entfernt.
@@ -109,8 +105,6 @@ Viele Haushalte haben ein Problem mit dem **so genannten harten Wasser**. Das be
 Ein Multimedia-Filter ist eine der besten Entscheidungen für einen Haushalt. Diese Art von Gerät ist **sehr effizient**. Dank dessen kann der Wasserfilter verschiedene Arten von Stoffen entfernen. Je nach Medium können unterschiedliche Ergebnisse erzielt werden.
 
 **Das Medium ist nichts anderes als eine spezielle Materialfüllung des Tanks,** die schädliche Stoffe aufnimmt. Je nach Typ muss man sie von Zeit zu Zeit auswaschen oder regenerieren. Es gibt noch einen weiteren wichtigen Aspekt - ein Wasserfilter wie ein Filtertank muss an das Stromnetz und die Kanalisation angeschlossen werden.
-
-![Multimedia-Filtertank - wie funktioniert ein modernes Wasserreinigungssystem?](/uploads/domowa-stacja-uzdatniania-wody-3.jpg "Multimedia-Filtertank - wie funktioniert ein modernes Wasserreinigungssystem?")
 
 ## Hauswasser-Filtrationssystem - lohnt es sich, einen Umkehrosmosefilter zu installieren?
 
