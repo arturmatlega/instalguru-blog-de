@@ -86,8 +86,6 @@ Denken Sie daran, dass die so entstandene Trockenbauwand nur dann gut aussieht, 
 
 Wenn Sie sich fragen, wie man in einem kleinen Badezimmer Rohre verbergen kann - auch in diesem Fall ist Trockenbau geeignet. **Sie müssen jedoch bedenken, dass Innenräume mit höherer Luftfeuchtigkeit spezielle wasserdichte Gipskartonplatten erfordern.** Sie sind wesentlich haltbarer und weniger anfällig für schädliche Faktoren.
 
-![](/uploads/948196e9ad254b4f8fd0feeca9d3db0b.jpg)
-
 ## Verdecken von Rohren mit Farbe
 
 Suchen Sie nach einer schnellen Möglichkeit, Rohre zu verstecken? Es gibt eine viel billigere und weniger invasive Methode als das Abdecken von Rohren mit Gipskartonplatten - sie in der Wandfarbe zu streichen. Es ist am besten, dies zusammen mit der Fertigstellung oder Renovierung des Innenraums zu tun. Das Einzige, woran Sie in diesem Fall denken sollten, ist, genau die Farbe zu wählen, in der die anderen Teile des Innenraums gestrichen wurden. Auf diese Weise fügen sich die Rohre perfekt in die Wand ein, und sie sind praktisch unsichtbar.
@@ -103,8 +101,6 @@ Wenn Sie Rohre verbergen wollen, die sich unter der Decke oder am Boden befinden
 {:.distinction.distinction-info.distinction-negative}
 
 Um unerwünschte Elemente, die sich direkt am Boden befinden, abzudecken, verwenden Sie ein breites Sofa und stellen Sie es über die gesamte Länge an die Wand. Es ist eine sehr erschwingliche Methode - Sie müssen keine Renovierungsarbeiten vornehmen.
-
-![](/uploads/17523f9df91141dbb5e50ea171230750.jpg)
 
 ## Spezielle Rohrboxen
 
