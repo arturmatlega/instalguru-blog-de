@@ -92,8 +92,6 @@ Der Unterschied bei Heizsystemen mit PEX-Armaturen liegt in der Verwendung versc
 
 ### Heizsysteme mit Gewindeanschlüssen
 
-![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
-
 Jedes Heizsystem verwendet **PEX/AL/PEX**-Rohre als Basis. Sie sind jedoch durch verschiedene Fittings miteinander verbunden. Ein Gewindefitting besteht aus den folgenden Elementen:
 
 1. Eine Gewindemutter.
@@ -109,8 +107,6 @@ Rohrverschraubungen mit Gewinde haben eine Gewindemutter, die vom dielektrischen
 Achten Sie darauf, dass Sie die Mutter nicht zu fest anziehen, da Sie sowohl den Fitting als auch das Rohr beschädigen könnten.
 
 ### Ein Heizsystem mit Pressrohrfittings
-
-![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
 Pressrohrfittings werden auch häufig in Heizungssystemen verwendet. Es gibt mehrere Elemente in Pressrohrfittings:
 
