@@ -60,8 +60,6 @@ Welche Elemente im Fachwerk erscheinen, hängt vor allem von der jeweiligen Kons
 
 Auf dem Markt gibt es viele Arten von Holzfachwerk. **Die Entscheidung, welchen Dachstuhl man wählen sollte, sollte in der Phase des Gebäudeentwurfs getroffen werden**. Bevor man sich für eine bestimmte Lösung entscheidet, sollte man Faktoren wie Größe und Form des Hauses, das eigene Budget und den Aspekt der Ästhetik berücksichtigen. Standardhäuser verwenden in der Regel einen einfachen Dachstuhl, einen Kehlbalkendachstuhl oder einen Dachstuhl mit Königinnenpfosten.
 
-![Arten von Dächern - welche Arten von Dachstühlen sind die beliebtesten?](/uploads/wiezba-dachowa-budowa-domu.jpg "Arten von Dächern - welche Arten von Dachstühlen sind die beliebtesten?")
-
 ### Einfacher Dachstuhl
 
 Eine solche Konstruktion kann verwendet werden, wenn die Wände des Gebäudes nicht mehr als 7 Meter voneinander entfernt sind. **Die Dachneigung sollte nicht mehr als 45 Grad betragen**. Ein einfacher Dachstuhl ist eine der am häufigsten verwendeten Arten von Holzfachwerk. Dabei werden normale Sparren und Pfetten verwendet, die zusammen einen Dachstuhl bilden, der auf den Wänden des Gebäudes aufliegt. Die Sparren werden nur an zwei Stellen gestützt - an den Wänden und am First.
@@ -84,8 +82,6 @@ Es gibt viele Arten von Dächern auf dem Markt. Die endgültige Entscheidung hä
 
 * Bei der **traditionellen Vorbereitung** von Dachstühlen müssen die Materialien separat ausgewählt werden. Die Dachbalken sollten in einer Sägemühle gekauft werden, und das Dach selbst wird vor Ort konstruiert. Massivholzbalken erreichen normalerweise eine Höhe von bis zu 7 Metern. Wenn das Projekt längere Balken benötigt, sollte man Leimholzelemente zusammen mit Stahlverstärkungen wählen.
 * **Vorgefertigte Dachbinder** sind in Bezug auf die Größe definitiv vielseitiger. Da die Elemente perfekt aufeinander abgestimmt sind, benötigt diese Lösung weit weniger Holz als traditionelle Projekte. Der Installationsprozess ist definitiv schneller - er wird vom Team des Herstellers durchgeführt. In diesem Fall ist der Platz auf dem Dachboden ernsthaft begrenzt, was für manche ein Nachteil sein könnte.
-
-![Traditionelle Dachbinder vs. vorgefertigter Holzrahmenbau](/uploads/konstrukcje-dachu.jpg "Traditionelle Dachbinder vs. vorgefertigter Holzrahmenbau")
 
 ## Welches Holz ist das beste für Dachstühle?
 
