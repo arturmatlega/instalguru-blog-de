@@ -89,8 +89,6 @@ Vielleicht sind Sie an einer **guten Bodenunterlage interessiert, die das richti
 
 Diese Art von Material ist eine perfekte Wahl, wenn der Unterboden nivelliert werden muss. XPS-Schaumunterlage ist in verschiedenen Dicken erhältlich - manchmal sogar 6 mm. Sie ist daher eine perfekte Isolierung und funktioniert ideal in nicht beheizten Innenräumen. Es ist auch eine gute Lösung, wenn Sie eine Bodenunterlage für die Strahlungsheizung benötigen. Eine extrudierte Polystyrol-Bodenunterlage ist feuchtigkeitsbeständig, reduziert den durchgelassenen Schall und sorgt für eine lange Lebensdauer des Bodens.
 
-![](/uploads/underlay2.jpg)
-
 ## Die beste Bodenunterlage - strahlend beheizte Böden
 
 Materialien, die zur Verwendung mit Fußbodenheizungen bestimmt sind, müssen bestimmte spezielle Anforderungen erfüllen. Welcher Fußbodenbelag ist in diesem Fall der beste? Wie Experten vorschlagen, sind Matten aus einem hochdichten Polyethylen eine Überlegung wert. Solche Produkte werden üblicherweise als HDPE bezeichnet.
@@ -118,8 +116,6 @@ Obwohl es sich in den meisten Fällen um eine gute Bodenunterlage handelt, hat d
 ## Was ist die beste Unterlage für unebenen Unterboden?
 
 Wenn die Oberfläche uneben ist, ist ein guter Unterboden eine entscheidende Frage. Das Verlegen von Bodendielen auf einem unebenen Unterboden kann dazu führen, dass sie sich bewegen, biegen und beschädigt werden. Um dies zu vermeiden, stellen Sie sicher, dass die Oberfläche bereits vor dem Verlegen von Laminat- oder Vinylfußböden gemacht wird.
-
-![](/uploads/underlay3.jpg)
 
 Was ist in diesem Fall die beste Bodenunterlage? Wenn der Unterboden nur geringe Unterschiede aufweist, wird extrudiertes Polystyrol (XPS) empfohlen. Es glättet die Unebenheiten, so dass der Boden vollkommen eben ist. Wenn der Unterboden mehr Dellen aufweist und die Höhenunterschiede gut sichtbar sind, sollte man einen neuen Betonboden gießen. Ein gewöhnlicher Bodenuntergrund reicht leider nicht aus.
 
