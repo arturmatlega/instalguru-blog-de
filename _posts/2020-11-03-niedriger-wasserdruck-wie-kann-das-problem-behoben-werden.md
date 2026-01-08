@@ -104,8 +104,6 @@ Ein zu niedriger Wasserdruck ist nicht immer auf die gleiche Ursache zurückzuf�
 
 Ein weiterer Grund für einen niedrigen Wasserdruck, der so häufig wie Kalkablagerungen auftritt, ist eine Leckage im System. **Nicht abgedichtete Rohre und Fittings, die zur Übertragung von Wasser verwendet werden, können dazu führen, dass das Wasser aus dem System austritt und nur ein Teil davon zum Endpunkt gelangt.** Wie kann der Wasserdruck in einem solchen Fall erhöht werden? Stellen Sie sicher, dass die gebrochenen Elemente wieder abgedichtet oder ersetzt werden.
 
-![](/uploads/water_pressure.jpg)
-
 ## Perfinderischer Wasserdruck? Achten Sie auf die richtige Ausrüstung
 
 Ein niedriger Wasserdruck in der Dusche ist wahrscheinlich das Ergebnis einer nicht richtig abgestimmten Ausrüstung - wie z.B. einem Duschkopf oder einer Regenbrause. **Duschzubehör sollte dem Druck im System entsprechen**. Geräte mit hohen technischen Anforderungen werden nicht richtig funktionieren.
