@@ -91,8 +91,6 @@ Die Verschwendung von Wärmepotential und die Erzeugung unnötiger Kosten ist in
 
 Die Kosten für Fußbodenheizungen umfassen sowohl die **Materialien als auch den Installationsservice**. Denken Sie daran, dass die ursprünglich berechneten Kosten nur Schätzwerte sind. Die Gesamtkosten können durch die erforderliche Ausstattung, die Qualität und vor allem durch die Bezahlung der Person, die die Elemente installiert, beeinflusst werden, die normalerweise von der Region abhängt.
 
-![](/uploads/a7c8d4bf9636492d89a96f367d907195.jpg)
-
 ## Elektrische Bodenheizung - wann sollte man sich dafür entscheiden?
 
 **Eine elektrische Fussbodenheizung hat viele Vorteile.** Sie lässt sich leicht in jeder Art von Raum in jedem Gebäude installieren. Sie kann als primäres Heizsystem für das Haus oder die Wohnung verwendet werden, aber auch als Ergänzung zu einer anderen Methode.
