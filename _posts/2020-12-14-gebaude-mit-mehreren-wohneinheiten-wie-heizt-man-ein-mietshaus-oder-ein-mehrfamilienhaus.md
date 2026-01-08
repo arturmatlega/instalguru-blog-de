@@ -70,8 +70,6 @@ Durch den Einsatz dieser modernen Lösung kann ein Mehrfamilienhaus oder ein Mie
 * Überall aufstellbar - das Gerät kann überall dort platziert werden, wo es der Benutzer für geeignet hält, z. B. in einem Wasch- oder Trockenraum oder in einem anderen Wirtschaftsraum. Das ist bei einem Heizkessel nicht möglich.
 * Kein Brennstofftank - dank der Pumpe ist die Installation eines Öl-, Gas- oder sonstigen Brennstofftanks nicht erforderlich.
 
-![](/uploads/tenement2.jpg)
-
 ## Können Mietshäuser und Mehrfamilienhäuser eine Fußbodenheizung nutzen?
 
 Fußbodenheizungen werden häufig in modernen Mehrfamilienhäusern eingesetzt. Die Entscheidung wird in diesem Fall von den Eigentümern der einzelnen Wohnungen getroffen. Es gibt zwei Lösungen, die zur Auswahl stehen. Man kann eine wasserbasierte oder eine elektrische Fußbodenheizung verwenden. Beide Varianten erzeugen einen hohen thermischen Komfort, funktionieren aber recht unterschiedlich. Wasserbasierte Systeme sind definitiv beliebter.
@@ -89,8 +87,6 @@ Was sind die größten Vorteile einer Wasser-Fußbodenheizung? Das Wichtigste:
 ## Brennwertkessel für Mehrfamilienhäuser
 
 Brennwertkessel sind eine Alternative für die Beheizung von Mietshäusern oder Mehrfamilienhäusern. Geräte dieses Typs bieten höchsten thermischen Komfort bei minimalem Energieeinsatz. Brennwertkessel sind umweltfreundlich und können die Kosten für den Betrieb der Heizungsanlage senken.
-
-![](/uploads/tenement3.jpg)
 
 ### Wie funktioniert ein Brennwertkessel?
 
