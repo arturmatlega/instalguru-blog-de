@@ -83,8 +83,6 @@ In einigen Fällen ist eine natürliche Lüftung vorgeschrieben - sie ist gesetz
 
 **Die natürliche Belüftung ist im Winter und Sommer am anfälligsten**. Ein solches System funktioniert dank der Temperaturunterschiede außerhalb und innerhalb des Gebäudes. Die Luft im Inneren sollte wärmer sein als draußen. Sehr oft, besonders wenn die Lüftungsöffnungen schlecht konstruiert sind, strömt die Luft im Sommer in das Gebäude zurück. Im Winter hingegen kann die natürliche Belüftung die Ursache für eine niedrige Innentemperatur sein.
 
-![](/uploads/vent-207144_960_720.webp)
-
 ## Belüftungssystem zu Hause - lohnt sich eine fortschrittliche Ausrüstung?
 
 Was die mechanische Belüftung betrifft, so gibt es mehrere Arten von Systemen. Je nach dem Mechanismus kann man Systeme unterscheiden wie
@@ -152,8 +150,6 @@ Die Lüftung sollte von einem legitimierten Fachmann geprüft werden. Auch der Z
 
 Eine ordnungsgemäße Gebäudebelüftung ist von entscheidender Bedeutung, und sie sollte nicht vernachlässigt werden. Da wir in der Regel die meiste Zeit zu Hause verbringen, sollte man dafür sorgen, dass sie sich an diesem Ort sicher und wohl fühlen.
 
-![](/uploads/wentylacja_w_domu.jpg)
-
 ## Garagenbelüftung - was sagt das Gesetz?
 
 Moderne Häuser werden oft nach Projekten gebaut, die auch eine angebaute Garage beinhalten. **Die Belüftung der Garage** ist ein sehr wichtiges Thema.
@@ -171,8 +167,6 @@ Diese Art von Lüftungssystem funktioniert zu Hause und in der Garage auf die gl
 Die Luft mit höherer Temperatur, die aus der Garage kommt, hat eine geringere Dichte als die kühlere Außenluft. Deshalb strömt sie nach oben. Der gesamte Konvektionsprozess ist dank der Lüftungsöffnungen möglich, die sowohl für die Belüftung im Haus als auch in der Garage genutzt werden.
 
 Wenn Sie sich für ein solches Belüftungssystem in der Garage entscheiden, sollten Sie in Erwägung ziehen, rechteckige oder quadratische, braune Luftauslässe zu verwenden. Für die Belüftung des Hauses werden in der Regel weiße, runde Luftschlitze verwendet. Letztere sind besonders universell, da sie zu jedem Interieur passen - unabhängig davon, in welchem Stil es gestaltet wurde.
-
-![](/uploads/wentylacja_w_domu2.jpg)
 
 **Man kann auch die mechanische Belüftung in der Garage nutzen.** Diese Lösung sorgt nicht nur für viel frische Luft, sondern trocknet sie auch. Die mechanische Belüftung hängt nicht von den Wetterbedingungen ab, so dass sie zu jeder Jahreszeit perfekt funktioniert. Eine notwendige Bedingung für ein solches Belüftungssystem ist eine perfekte Luftdichtheit des Raumes. Darüber hinaus macht es der Installationsprozess zu einer wesentlich teureren Garagenlüftung. Man sollte auch auf die Kosten für ihre Wartung vorbereitet sein.
 
