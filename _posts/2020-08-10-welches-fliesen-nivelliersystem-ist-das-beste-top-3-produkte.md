@@ -73,8 +73,6 @@ Ein Fliesen-Nivelliersystem ist ein **Satz von Elementen, dank dessen es viel ei
 
 **Die Verwendung eines modernen Fliesen-Nivelliersystems ist eine perfekte Lösung sowohl für Profis als auch für unerfahrene Anwender.** Dank dieser Methode ist der ganze Prozess viel einfacher und vor allem schneller. Es wird geschätzt, dass ein Fliesen-Nivelliersystem im Vergleich zum Verlegen von Fliesen mit herkömmlichen Abstandhaltern **bis zu 50 % der Zeit einsparen kann**.
 
-![Was ist ein Fliesen-Nivelliersystem?](/uploads/system-poziomowania-plytek-szczypce.jpg "Was ist ein Fliesen-Nivelliersystem?")
-
 ## Wie funktioniert ein Fliesen-Nivelliersystem?
 
 Ein Standard-Fliesen-Nivelliersystem enthält **speziell geformte Klammern und Keile, die charakteristische Unebenheiten auf der Oberfläche aufweisen**. Es ist wichtig, dass man diese beiden Elemente verwendet, um die erwarteten Ergebnisse zu erzielen.
@@ -115,8 +113,6 @@ Beachten Sie, dass es keine Rolle spielt, welche Art von Fliesen Sie verwenden. 
 * Granit,
 * Stein.
 
-![Wo können Sie ein Fliesen-Nivelliersystem einsetzen?](/uploads/system-poziomowania-plytek-top3.jpg "Wo können Sie ein Fliesen-Nivelliersystem einsetzen?")
-
 ## Lohnt sich ein Fliesen-Nivelliersystem? Vorteile der Lösung
 
 **Ein Fliesen-Nivelliersystem ist eine universelle Lösung** - Sie können es für verschiedene Arten von Oberflächen verwenden.  Es kann sowohl innerhalb, als auch auf den Flächen außerhalb des Gebäudes verwendet werden.
@@ -139,13 +135,9 @@ Die leicht erhabenen Enden auf beiden Seiten eines Clips werden unter die Fliese
 
 Es ist üblich, dass ein solcher Satz auch spezielle Zangen enthält. Dank ihnen ist die **Einstellung des Systems und seiner Elemente viel schneller** und erfordert keine Kraftanstrengung.
 
-![Fliesen-Nivelliersystem mit ankerförmigen Klammern](/uploads/system_poziomowania_ranking.jpg "Fliesen-Nivelliersystem mit ankerförmigen Klammern")
-
 ### Ein Fliesen-Nivelliersystem mit Standardklammern und Keilen
 
 Eine der am häufigsten verwendeten Optionen ist ein Fliesen-Nivelliersystem, das **klassische Klammern und Keile** verwendet. In diesem Fall ähnelt ein Clip einem Fenster mit einem Sockel an der Unterseite. Das Fenster ist lediglich der Platz für einen Keil. Es unterscheidet sich vom vorherigen System - der Keil sollte in die Mitte des Clips geschoben werden. Dank der charakteristischen Unebenheiten kann man einen maximalen Druck auf den Keil ausüben und so die Fliesen perfekt ausrichten.
-
-![Ein Fliesen-Nivelliersystem mit Standardklammern und Keilen](/uploads/system_poziomowania_ranking_2.jpg "Ein Fliesen-Nivelliersystem mit Standardklammern und Keilen")
 
 ### Ein wiederverwendbares Fliesen-Nivelliersystem
 
@@ -156,8 +148,6 @@ Diese Art eines Fliesen-Nivelliersystems verwendet ebenfalls zwei Elemente. Der 
 {:.distinction.distinction-info.distinction-negative}
 
 Das ist keine völlig fehlerfreie Lösung. In diesem Fall müssen Sie zusätzliche Kachelkreuzabstandhalter verwenden, was mehr Zeit in Anspruch nimmt und für unerfahrene Anwender schwierig sein kann. Außerdem müssen die Klammern nach dem Nivellieren der Fliesen nach einigen Stunden entfernt werden. Dies könnte das Niveau der Kacheln ruinieren.
-
-![Ein wiederverwendbares Fliesen-Nivelliersystem](/uploads/system_poziomowania_ranking_3.jpg "Ein wiederverwendbares Fliesen-Nivelliersystem")
 
 ## Ein Fliesen-Nivelliersystem - Einweg oder wiederverwendbar?
 
