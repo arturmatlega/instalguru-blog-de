@@ -68,8 +68,6 @@ In den meisten Fällen ist es notwendig, Wände vor dem Streichen zu grundieren.
 
 Erinnern Sie sich! Die Verwendung von Farbgrundierung ist notwendig, wenn die alte Schicht abgeschabt oder die Wand z.B. durch Verputzen kleiner Vertiefungen infolge mechanischer Beschädigung repariert wurde.
 
-![](/uploads/priming2.jpg)
-
 ## Wie können Sie überprüfen, ob Sie eine Farbgrundierung auftragen müssen?
 
 Es ist leicht zu prüfen, ob die Wände grundiert werden müssen - es gibt zwei Methoden. Sie unterscheiden sich voneinander durch die Tatsache, dass sie unterschiedliche Parameter messen.
