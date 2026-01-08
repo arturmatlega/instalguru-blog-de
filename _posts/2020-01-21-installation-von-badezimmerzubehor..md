@@ -94,8 +94,6 @@ Letztere Lösung ist besonders attraktiv für diejenigen, die den Glamour- oder 
 
 Die Installation des Waschbeckens sollte mit dem Einbau eines automatischen Waschbeckenabflusses in den Abfluss begonnen werden. Dann installieren Sie den Wasserhahn. **Denken Sie während dieser beiden Schritte daran, Dichtungen einzusetzen, die das Waschbecken vor dem Auslaufen schützen.** Bringen Sie den Geruchsverschluss des Spülbeckens an, führen Sie ein Abflussrohr in die Seite des Elements ein und schrauben Sie die Kappe auf. Sie können das leicht selbst machen, und außerdem - es kann von Hand gemacht werden - sind keine Spezialwerkzeuge erforderlich.
 
-![](/uploads/e11ae5ec4c414aefaa7f0f93d5edd21a.png)
-
 ## Wie installiert man einen Waschtischunterschrank?
 
 Waschtische sind eines der beliebtesten Waschbecken im Badezimmer. Sie passen perfekt in moderne Innenräume im skandinavischen Stil. Sie sind typischerweise rund oder elliptisch. Der Markt bietet eine große Vielfalt an Ausstattungsvarianten dieser Art, so dass jeder ein ideales Produkt für seine individuellen Bedürfnisse zusammenstellen kann.
