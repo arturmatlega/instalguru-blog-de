@@ -71,8 +71,6 @@ Fragen Sie sich, wie man im täglichen Leben Wasser sparen kann, und suchen Sie 
 
 Wie kann man bei fließendem Wasser täglich Wasser sparen? Ist das überhaupt möglich? Natürlich - nur spülen Sie das Geschirr nicht mit ständig fließendem Wasser ab. Sie können einen Wassersparhahn mit beweglichem Auslauf installieren - dank dem Sie den Strahl genau dorthin lenken können, wo Sie ihn brauchen.
 
-![](/uploads/watersaving2.jpg)
-
 {:.distinction.distinction-quotation.distinction-positive}
 
 Benutzen Sie einen Geschirrspüler? Kein Problem - auch in diesem Fall ist Wasser sparen möglich. Schalten Sie sie einfach erst ein, wenn sie voll beladen ist.
@@ -161,8 +159,6 @@ Wenn Sie sich fragen, wie man im täglichen Leben beim Wäschewaschen Wasser spa
 ### Duschen statt Baden - eine effektive Methode zur Wassereinsparung
 
 Wie kann man im täglichen Leben beim Baden Wasser sparen? Wählen Sie statt des Badens die Dusche. Um eine Badewanne zu füllen, benötigen Sie etwa 200 Liter Wasser. Wenn Sie duschen, verbrauchen Sie etwa 50 Liter. Überlegen Sie, wie viel Sie sparen können, wenn 3 oder 4 Personen in einem Haushalt leben.
-
-![](/uploads/watersaving3.jpg)
 
 ### Wie kann man in der Dusche Wasser sparen? Moderne Geräte verwenden
 
