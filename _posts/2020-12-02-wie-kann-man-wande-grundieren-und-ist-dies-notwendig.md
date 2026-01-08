@@ -110,8 +110,6 @@ Die andere Methode testet die Haltbarkeit der Wand und der alten Schichten von P
 
 Das Grundieren von Wänden vor dem Tapezieren oder nach der Tapetenentfernung muss immer erfolgen - unabhängig davon, ob es sich um ein neues oder renoviertes Gebäude handelt. Es spielt auch keine Rolle, welche Arten von Putz in dem Raum verwendet wurden. Der einzige Unterschied ist die Art der Grundierung, die Sie verwenden werden.
 
-![](/uploads/priming3.jpg)
-
 ## Wandgrundierung - wie wählt man das richtige Produkt aus?
 
 Bei der Wahl einer Wandgrundierung empfiehlt es sich, ein Produkt zu kaufen, das vom Hersteller der Farbe, die Sie verwenden wollen, vorgeschlagen wird. Es gibt viele verschiedene Produkte auf dem Markt, die für eine bestimmte Art von Untergrund entwickelt wurden. die Sie verwenden können:
