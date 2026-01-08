@@ -98,8 +98,6 @@ Ein Gassystem mit Kupferrohren schafft viele Möglichkeiten für deren Verbindun
 
 Eine weitere Methode ist die Verwendung von Pressfittings. In diesem speziellen Fall genügt ein gewöhnliches PEX-Fitting. Wenn Sie jedoch die Richtung des Gassystems ändern und es an die Konstruktion des Gebäudes anpassen möchten, verwenden Sie PEX-T-Stücke oder Pressbögen. Der Installationsprozess solcher Elemente ist derzeit einer der einfachsten, daher sollte jeder Fachmann in der Lage sein, dies zu tun. Diese Tatsache senkt definitiv die Kosten der Gasinstallation.
 
-![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
-
 ## Stahlrohre - Gasinstallation anfälliger für schädliche Faktoren?
 
 Stahlrohre, die für die Installation von Gasleitungen verwendet werden, haben größere Durchmesser als die Kupferrohre. Die Wände eines Stahlrohrs sind dicker, daher ist es steifer und braucht nicht mit zusätzlichen Elementen an einer Wand befestigt zu werden. Leider ist diese Art der Installation sehr schwer. **Leider ist eine solche Installation einer Hausgasleitung auch wesentlich schwerer.** Ähnlich wie Kupferleitungen sind steile Rohre thermisch ausdehnbar. Dank dieser Eigenschaft sind sie perfekt für hohe Temperaturen geeignet.
